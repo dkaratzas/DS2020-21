@@ -1,0 +1,3326 @@
+,country,name,city,count,locations
+0,AD,Escaldes-Engordany,Escaldes-Engordany,210321,2
+1,AD,unused,unused,16301,1
+2,AE,Abu Dhabi,Abu Dhabi,480917,1
+3,AE,Dubai,Dubai,474835,1
+4,AE,N/A,N/A,51901,2
+5,AF,Kabul,Kabul,240525,1
+6,AF,N/A,N/A,8115,1
+7,AG,N/A,N/A,1,1
+8,AR,Buenos Aires,Buenos Aires,14976,4
+9,AT,Amt der Burgenländischen Landesregierung,Amt der Burgenländischen Landesregierung,471,1
+10,AT,Amt der Burgenl�ndischen Landesregierung,Amt der Burgenl�ndischen Landesregierung,35608,3
+11,AT,Amt der Kärntner Landesregierung,Amt der Kärntner Landesregierung,471,1
+12,AT,Amt der K�rntner Landesregierung,Amt der K�rntner Landesregierung,104663,16
+13,AT,Amt der Niederösterreichischen Landesregierung,Amt der Niederösterreichischen Landesregierung,1413,3
+14,AT,Amt der Nieder�sterreichischen Landesregierung,Amt der Nieder�sterreichischen Landesregierung,322499,39
+15,AT,Amt der Oberösterreichischen Landesregierung,Amt der Oberösterreichischen Landesregierung,2828,6
+16,AT,Amt der Ober�sterreichischen Landesregierung,Amt der Ober�sterreichischen Landesregierung,154329,16
+17,AT,Amt der Salzburger Landesregierung,Amt der Salzburger Landesregierung,94197,12
+18,AT,Amt der Steiermärkischen Landesregierung,Amt der Steiermärkischen Landesregierung,1891,4
+19,AT,Amt der Steierm�rkischen Landesregierung,Amt der Steierm�rkischen Landesregierung,320372,41
+20,AT,Amt der Tiroler Landesregierung,Amt der Tiroler Landesregierung,113161,19
+21,AT,Austria,Austria,121987,174
+22,AT,Burgenland,Burgenland,243720,4
+23,AT,"Gemeinde Wien, MA22 Umweltschutz","Gemeinde Wien, MA22 Umweltschutz",130328,21
+24,AT,Kärnten,Kärnten,541169,14
+25,AT,Niederösterreich,Niederösterreich,1561226,40
+26,AT,Oberösterreich,Oberösterreich,964730,16
+27,AT,Salzburg,Salzburg,431016,12
+28,AT,Steiermark,Steiermark,1375425,38
+29,AT,Tirol,Tirol,515819,19
+30,AT,Umweltbundesamt,Umweltbundesamt,81025,8
+31,AT,Umweltinstitut des Landes Vorarlberg,Umweltinstitut des Landes Vorarlberg,36108,9
+32,AT,Vorarlberg,Vorarlberg,143843,8
+33,AT,Wien,Wien,760227,17
+34,AU,Adelaide,Adelaide,284949,9
+35,AU,Altona North,Altona North,15455,1
+36,AU,Altona North 1,Altona North 1,81,1
+37,AU,Altona North 2,Altona North 2,78,1
+38,AU,Bairnsdale,Bairnsdale,981,1
+39,AU,Bairnsdale ,Bairnsdale ,50,1
+40,AU,Bendigo,Bendigo,10218,1
+41,AU,Bright,Bright,958,1
+42,AU,Bulla North,Bulla North,66,1
+43,AU,Bulla South,Bulla South,68,1
+44,AU,Campbellfield,Campbellfield,13093,1
+45,AU,Canberra,Canberra,3787310,3
+46,AU,Cann River,Cann River,660,1
+47,AU,Central Coast,Central Coast,242775,1
+48,AU,Central Queensland,Central Queensland,179291,7
+49,AU,Central Tablelands,Central Tablelands,99154,2
+50,AU,Churchill,Churchill,13483,1
+51,AU,Geelong,Geelong,80103,1
+52,AU,Gladstone,Gladstone,747524,8
+53,AU,Healesville,Healesville,11304,1
+54,AU,Illawarra,Illawarra,608866,3
+55,AU,Lakes Entrance,Lakes Entrance,404,1
+56,AU,Laverton North,Laverton North,141,1
+57,AU,Lower Hunter,Lower Hunter,618660,3
+58,AU,Mackay,Mackay,30102,2
+59,AU,Mallacoota,Mallacoota,706,1
+60,AU,Marlo,Marlo,604,1
+61,AU,Melbourne,Melbourne,349695,11
+62,AU,Melton,Melton,26771,1
+63,AU,Moe,Moe,14073,1
+64,AU,Morwell,Morwell,117824,2
+65,AU,Mount Isa,Mount Isa,25153,2
+66,AU,MRI Campbellfield fire,MRI Campbellfield fire,222,1
+67,AU,Mt Isa,Mt Isa,43106,2
+68,AU,Muswellbrook,Muswellbrook,32371,1
+69,AU,Newborough,Newborough,13242,1
+70,AU,Nicholson,Nicholson,181,1
+71,AU,Northern Tablelands,Northern Tablelands,20948,1
+72,AU,North-west Slopes,North-west Slopes,141144,3
+73,AU,Omeo,Omeo,991,1
+74,AU,Orbost,Orbost,934,1
+75,AU,Point Cook,Point Cook,23498,1
+76,AU,Port Augusta,Port Augusta,6739,1
+77,AU,Port Pirie,Port Pirie,25892,1
+78,AU,Rosedale,Rosedale,14069,1
+79,AU,Sarsfield,Sarsfield,482,1
+80,AU,SIMS Metals Laverton North Site 1,SIMS Metals Laverton North Site 1,23,1
+81,AU,SIMS Metals Laverton North Site 2,SIMS Metals Laverton North Site 2,27,1
+82,AU,Singleton,Singleton,31507,1
+83,AU,South East Queensland,South East Queensland,1380595,15
+84,AU,Southern Tablelands,Southern Tablelands,41781,1
+85,AU,South West Queensland,South West Queensland,294320,5
+86,AU,South-west Slopes,South-west Slopes,153495,2
+87,AU,Sunshine West,Sunshine West,128,1
+88,AU,Swift's Creek,Swift's Creek,1003,1
+89,AU,Sydney East,Sydney East,1001714,7
+90,AU,Sydney North-west,Sydney North-west,734152,6
+91,AU,Sydney South-west,Sydney South-west,1134507,6
+92,AU,Tasmania Region,Tasmania Region,876156,34
+93,AU,Thomastown East,Thomastown East,142,1
+94,AU,Townsville,Townsville,174050,5
+95,AU,Traralgon,Traralgon,80722,1
+96,AU,Upper Hunter - Muswellbrook,Upper Hunter - Muswellbrook,129047,1
+97,AU,Upper Hunter - Singleton,Upper Hunter - Singleton,129729,1
+98,AU,Wangaratta,Wangaratta,13489,1
+99,AU,Warburton,Warburton,11772,1
+100,AU,Whyalla,Whyalla,29019,3
+101,AU,Wodonga,Wodonga,1001,1
+102,AU,Yinnar,Yinnar,13891,1
+103,BA,Goražde,Goražde,70797,1
+104,BA,Ilijaš,Ilijaš,2912,1
+105,BA,Jajce,Jajce,62562,1
+106,BA,Kakanj,Kakanj,5637,1
+107,BA,Lukavac,Lukavac,154115,1
+108,BA,N/A,N/A,17428,1
+109,BA,Sarajevo,Sarajevo,521946,8
+110,BA,Tuzla,Tuzla,431342,3
+111,BA,Zenica,Zenica,233517,4
+112,BA,Živinice,Živinice,141962,1
+113,BD,Dhaka,Dhaka,266175,2
+114,BE,Antwerpen,Antwerpen,181393,24
+115,BE,Brabant wallon,Brabant wallon,23975,1
+116,BE,Brussels,Brussels,121634,9
+117,BE,Brussels-Capital Region,Brussels-Capital Region,129192,11
+118,BE,Flanders,Flanders,566501,67
+119,BE,Hainaut,Hainaut,111352,7
+120,BE,Liege,Liege,117085,8
+121,BE,Limburg,Limburg,31129,5
+122,BE,Luxembourg,Luxembourg,75461,4
+123,BE,Namur,Namur,51876,3
+124,BE,Oost-Vlaanderen,Oost-Vlaanderen,117550,17
+125,BE,Vlaams-Brabant,Vlaams-Brabant,62327,9
+126,BE,Wallonia,Wallonia,326776,23
+127,BE,West-Vlaanderen,West-Vlaanderen,78223,10
+128,BG,N/A,N/A,8968,1
+129,BG,Благоевград,Благоевград,63450,1
+130,BG,Бургас,Бургас,193117,3
+131,BG,Варна,Варна,151537,2
+132,BG,Велико Търново,Велико Търново,56844,1
+133,BG,Враца,Враца,77667,1
+134,BG,Добрич,Добрич,15378,1
+135,BG,Кърджали,Кърджали,46364,1
+136,BG,Ловеч,Ловеч,13930,1
+137,BG,Пловдив,Пловдив,80659,1
+138,BG,Русе,Русе,91165,1
+139,BG,Сливен,Сливен,31509,1
+140,BG,Смолян,Смолян,59742,1
+141,BG,София (столица),София (столица),358968,5
+142,BG,Стара Загора,Стара Загора,104852,2
+143,BG,Хасково,Хасково,63813,1
+144,BG,Шумен,Шумен,55129,1
+145,BH,Manama,Manama,325964,1
+146,BK,N/A,N/A,15360,1
+147,BM,N/A,N/A,15203,1
+148,BR,Americana,Americana,41618,1
+149,BR,Araçatuba,Araçatuba,45866,1
+150,BR,Araraquara,Araraquara,69375,1
+151,BR,Bauru,Bauru,68782,1
+152,BR,Campinas,Campinas,149591,3
+153,BR,Carapicuíba,Carapicuíba,63784,1
+154,BR,Catanduva,Catanduva,68660,1
+155,BR,Cerqueira César,Cerqueira César,47398,1
+156,BR,Cubatão,Cubatão,233699,3
+157,BR,Diadema,Diadema,41632,1
+158,BR,Grajaú-Parelheiros,Grajaú-Parelheiros,43529,1
+159,BR,Guaratinguetá,Guaratinguetá,85930,1
+160,BR,Guarulhos,Guarulhos,206804,2
+161,BR,Jacareí,Jacareí,51757,1
+162,BR,Jaú,Jaú,59901,1
+163,BR,Jundiaí,Jundiaí,48940,1
+164,BR,Limeira,Limeira,90912,1
+165,BR,Marília,Marília,69048,1
+166,BR,Mauá,Mauá,39815,1
+167,BR,Osasco,Osasco,114050,1
+168,BR,Paulínia,Paulínia,78373,1
+169,BR,Pico do Jaraguá,Pico do Jaraguá,49998,1
+170,BR,Piracicaba,Piracicaba,86946,1
+171,BR,Presidente Prudente,Presidente Prudente,56014,1
+172,BR,Ribeirão Preto,Ribeirão Preto,67069,1
+173,BR,Santa Gertrudes,Santa Gertrudes,64601,1
+174,BR,Santo André,Santo André,83724,2
+175,BR,Santos,Santos,161065,2
+176,BR,São Bernardo do Campo,São Bernardo do Campo,94283,2
+177,BR,São Caetano do Sul,São Caetano do Sul,131052,1
+178,BR,São José do Rio Preto,São José do Rio Preto,68175,1
+179,BR,São José Do Rio Preto,São José Do Rio Preto,6423,1
+180,BR,São José dos Campos,São José dos Campos,192755,2
+181,BR,Sao Paulo,Sao Paulo,62035,10
+182,BR,São Paulo,São Paulo,753095,14
+183,BR,Sorocaba,Sorocaba,42321,1
+184,BR,Taboão da Serra,Taboão da Serra,48327,1
+185,BR,Tatuí,Tatuí,65533,1
+186,BR,Taubaté,Taubaté,95742,1
+187,CA,ALBERTA,ALBERTA,1307083,30
+188,CA,BRITISH COLUMBIA,BRITISH COLUMBIA,2353847,49
+189,CA,MANITOBA,MANITOBA,93720,4
+190,CA,N/A,N/A,664744,17
+191,CA,NEW BRUNSWICK,NEW BRUNSWICK,520019,13
+192,CA,NEWFOUNDLAND,NEWFOUNDLAND,194796,7
+193,CA,NORTHWEST TERRITORIES,NORTHWEST TERRITORIES,46915,2
+194,CA,NOVA SCOTIA,NOVA SCOTIA,579667,11
+195,CA,ONTARIO,ONTARIO,1717093,30
+196,CA,PRINCE EDWARD ISLAND,PRINCE EDWARD ISLAND,322962,3
+197,CA,QUEBEC,QUEBEC,775386,62
+198,CA,SASKATCHEWAN,SASKATCHEWAN,221562,6
+199,CD,N/A,N/A,3,1
+200,CE,N/A,N/A,8153,1
+201,CH,Aargau,Aargau,4173,1
+202,CH,Basel-Landschaft,Basel-Landschaft,187944,1
+203,CH,Basel-Stadt,Basel-Stadt,178421,2
+204,CH,Bern,Bern,298812,2
+205,CH,Genève,Genève,336899,3
+206,CH,Lucerne,Lucerne,76409,1
+207,CH,N/A,N/A,52736,5
+208,CH,Neuchâtel,Neuchâtel,111716,1
+209,CH,Sankt Gallen,Sankt Gallen,112266,1
+210,CH,Schwyz,Schwyz,223771,1
+211,CH,Thurgau,Thurgau,113001,1
+212,CH,Ticino,Ticino,526976,3
+213,CH,Valais,Valais,113151,1
+214,CH,Vaud,Vaud,375400,2
+215,CH,Zürich,Zürich,859531,5
+216,CI,Abidjan,Abidjan,224865,1
+217,CL,21 de mayo,21 de mayo,248,1
+218,CL,21 de Mayo,21 de Mayo,562,1
+219,CL,Aisén,Aisén,69,2
+220,CL,Alerce,Alerce,1164,1
+221,CL,Alto Hospicio,Alto Hospicio,41483,1
+222,CL,Andacollo,Andacollo,100815,5
+223,CL,Antofagasta,Antofagasta,106749,1
+224,CL,Arica,Arica,42884,1
+225,CL,Aysén,Aysén,28182,1
+226,CL,Balneario,Balneario,226,1
+227,CL,Balneario Curanilahue,Balneario Curanilahue,268,1
+228,CL,Bocatoma,Bocatoma,664,1
+229,CL,Bomberos,Bomberos,422,1
+230,CL,Cabrero,Cabrero,133595,2
+231,CL,Calabozo,Calabozo,3066,1
+232,CL,Calama,Calama,446700,8
+233,CL,Campiche,Campiche,1,1
+234,CL,Catemu,Catemu,96335,3
+235,CL,Cauquenes,Cauquenes,287,1
+236,CL,Cayumanqui,Cayumanqui,665,1
+237,CL,Centro Quintero,Centro Quintero,43,1
+238,CL,Cerrillos,Cerrillos,110278,1
+239,CL,Cerro Merquín,Cerro Merquín,616,1
+240,CL,Cerro Navia,Cerro Navia,225643,1
+241,CL,Chaitén,Chaitén,9496,1
+242,CL,Chaiten Norte,Chaiten Norte,195,1
+243,CL,Chiguayante,Chiguayante,149187,1
+244,CL,Chillán,Chillán,171195,2
+245,CL,Chiu Chiu,Chiu Chiu,124,1
+246,CL,Cipreses,Cipreses,115,1
+247,CL,Club de Empleados,Club de Empleados,12,1
+248,CL,Club Deportivo 23 de Marzo,Club Deportivo 23 de Marzo,618,1
+249,CL,Colegio Pedro Vergara Keller,Colegio Pedro Vergara Keller,3427,1
+250,CL,Colicheu,Colicheu,55,1
+251,CL,Colmo,Colmo,69,1
+252,CL,Complejo Deportivo 23 de Marzo,Complejo Deportivo 23 de Marzo,975,1
+253,CL,Concepción,Concepción,173720,1
+254,CL,Concón,Concón,452804,5
+255,CL,Concón MMA,Concón MMA,83,1
+256,CL,Consultorio - San Vicente,Consultorio - San Vicente,133,1
+257,CL,Copiapó,Copiapó,162394,5
+258,CL,Copiapo Sivica,Copiapo Sivica,319,1
+259,CL,Coquimbo,Coquimbo,89300,2
+260,CL,Coronel,Coronel,570382,10
+261,CL,Coronel Norte,Coronel Norte,4,1
+262,CL,Coronel Sur,Coronel Sur,85,1
+263,CL,Coya Población,Coya Población,148,1
+264,CL,Coyhaique,Coyhaique,312778,2
+265,CL,Coyhaique II,Coyhaique II,93,1
+266,CL,Cuncumen ,Cuncumen ,496,1
+267,CL,Curanilahue,Curanilahue,33397,2
+268,CL,Curicó,Curicó,89718,1
+269,CL,El Bosque,El Bosque,251141,1
+270,CL,El Sauce,El Sauce,36,1
+271,CL,ENAP Price,ENAP Price,12,1
+272,CL,Entre Ríos,Entre Ríos,126,1
+273,CL,"Escuadron, ENESA","Escuadron, ENESA",70,1
+274,CL,Escuela E-10,Escuela E-10,78,1
+275,CL,Estación Centro,Estación Centro,77,1
+276,CL,Freirina,Freirina,65226,3
+277,CL,Gendarmería,Gendarmería,34,1
+278,CL,Gobernación,Gobernación,27,1
+279,CL,Hijuelas,Hijuelas,22115,1
+280,CL,Hospital,Hospital,6,1
+281,CL,Hospital el Cobre,Hospital el Cobre,77,1
+282,CL,Hualpén,Hualpén,335786,3
+283,CL,Hualqui,Hualqui,169042,1
+284,CL,Huasco,Huasco,380370,10
+285,CL,Huasco II,Huasco II,17,1
+286,CL,Huasco Sivica,Huasco Sivica,282,1
+287,CL,Independencia,Independencia,216381,1
+288,CL,Indura,Indura,11,1
+289,CL,"INIA, Chillán","INIA, Chillán",206,1
+290,CL,Inpesca,Inpesca,46,1
+291,CL,Jardín Infantil Integra,Jardín Infantil Integra,16,1
+292,CL,Junta de Vecinos,Junta de Vecinos,261,1
+293,CL,Kingston College,Kingston College,223,1
+294,CL,La Florida,La Florida,238266,1
+295,CL,La Greda,La Greda,120,1
+296,CL,Lagunillas,Lagunillas,21,1
+297,CL,Laja,Laja,80703,1
+298,CL,Las Condes,Las Condes,211840,1
+299,CL,Las Encinas Temuco,Las Encinas Temuco,299,1
+300,CL,La Serena,La Serena,349,1
+301,CL,Las Gaviotas,Las Gaviotas,318,1
+302,CL,La Union,La Union,383,1
+303,CL,La Unión,La Unión,29578,1
+304,CL,Lautaro,Lautaro,107,1
+305,CL,Liceo Polivalente,Liceo Polivalente,316,1
+306,CL,Linares,Linares,43141,1
+307,CL,Llayllay,Llayllay,11497,1
+308,CL,Lo Campo,Lo Campo,159,1
+309,CL,Loncura,Loncura,50,1
+310,CL,Los Andes,Los Andes,26271,1
+311,CL,Los Angeles,Los Angeles,134268,2
+312,CL,Los Ángeles Oriente,Los Ángeles Oriente,513,1
+313,CL,Los Maitenes,Los Maitenes,84,1
+314,CL,Los Volcanes,Los Volcanes,29,1
+315,CL,Lota rural,Lota rural,14,1
+316,CL,Machal��,Machal��,1,1
+317,CL,Machalí,Machalí,98269,3
+318,CL,Maule,Maule,42431,1
+319,CL,Mejillones,Mejillones,30006,2
+320,CL,Mirasol,Mirasol,218,1
+321,CL,Museo Ferroviario,Museo Ferroviario,33,1
+322,CL,Nacimiento,Nacimiento,173683,3
+323,CL,Ñielol,Ñielol,215,1
+324,CL,Nueva  Aldea,Nueva  Aldea,5,1
+325,CL,Nueva Libertad,Nueva Libertad,77,1
+326,CL,Oasis,Oasis,18,1
+327,CL,Osorno,Osorno,88183,1
+328,CL,Padre las Casas,Padre las Casas,124850,1
+329,CL,Padre Las Casas II,Padre Las Casas II,122,1
+330,CL,Paipote,Paipote,10,1
+331,CL,Panquehue,Panquehue,39474,1
+332,CL,Parque O'Higgins,Parque O'Higgins,69,1
+333,CL,Progreso,Progreso,51,1
+334,CL,Puchuncaví,Puchuncaví,833330,5
+335,CL,Pudahuel,Pudahuel,219515,1
+336,CL,Puente Alto,Puente Alto,264520,1
+337,CL,Puerto Montt,Puerto Montt,75265,2
+338,CL,Puerto Varas,Puerto Varas,11329,1
+339,CL,Punta Arenas,Punta Arenas,43084,1
+340,CL,Punteras,Punteras,112,1
+341,CL,Puren,Puren,158,1
+342,CL,Quilicura,Quilicura,107130,3
+343,CL,QUILICURA ,QUILICURA ,708,1
+344,CL,Quillón,Quillón,65375,2
+345,CL,Quillota,Quillota,184942,3
+346,CL,Quilpue,Quilpue,6,1
+347,CL,Quilpué,Quilpué,13711,1
+348,CL,Quintero,Quintero,835238,6
+349,CL,Rancagua,Rancagua,263305,2
+350,CL,Rancagua I,Rancagua I,70,1
+351,CL,Rancagua II,Rancagua II,286,1
+352,CL,Ránquil,Ránquil,58833,1
+353,CL,Rengo,Rengo,103317,1
+354,CL,Romeral,Romeral,135,1
+355,CL,Salamanca,Salamanca,42920,1
+356,CL,San Fernando,San Fernando,131875,1
+357,CL,Santa Margarita,Santa Margarita,144,1
+358,CL,Santiago,Santiago,215896,2
+359,CL,Sierra Gorda,Sierra Gorda,24025,1
+360,CL,Sierra Gorda ,Sierra Gorda ,45,1
+361,CL,SM2,SM2,9,1
+362,CL,SM3 ,SM3 ,13,1
+363,CL,SM4 ,SM4 ,10,1
+364,CL,SM5 ,SM5 ,11,1
+365,CL,SM6 ,SM6 ,12,1
+366,CL,SM7 ,SM7 ,8,1
+367,CL,SM8 ,SM8 ,14,1
+368,CL,Super Site,Super Site,9587,1
+369,CL,Sur,Sur,70,1
+370,CL,Talagante,Talagante,158017,1
+371,CL,Talca,Talca,397662,3
+372,CL,Talcahuano,Talcahuano,606934,4
+373,CL,Temuco,Temuco,209911,3
+374,CL,Tierra Amarilla,Tierra Amarilla,18064,1
+375,CL,Tocopilla,Tocopilla,355492,7
+376,CL,Tomé,Tomé,181395,1
+377,CL,Tres Marias,Tres Marias,142,1
+378,CL,U.C. Maule,U.C. Maule,195,1
+379,CL,Universidad de Talca,Universidad de Talca,325,1
+380,CL,Valdivia,Valdivia,205295,2
+381,CL,Valdivia 2,Valdivia 2,5,1
+382,CL,Valle Alegre,Valle Alegre,52,1
+383,CL,Valparaiso,Valparaiso,278,1
+384,CL,Valparaíso,Valparaíso,44618,1
+385,CL,Ventanas,Ventanas,5010,1
+386,CL,Vialidad,Vialidad,312,1
+387,CL,Viña del Mar,Viña del Mar,96964,1
+388,CN,Anqing,Anqing,121594,4
+389,CN,Beijing,Beijing,335671,2
+390,CN,Bengbu,Bengbu,196074,6
+391,CN,Bozhou,Bozhou,64638,2
+392,CN,Chengdu,Chengdu,323767,1
+393,CN,Chizhou,Chizhou,92068,3
+394,CN,Chuzhou,Chuzhou,98668,3
+395,CN,Fuyang,Fuyang,98188,3
+396,CN,Guangzhou,Guangzhou,323689,1
+397,CN,Hefei,Hefei,319737,10
+398,CN,Huaibei,Huaibei,97757,3
+399,CN,Huainan,Huainan,194633,6
+400,CN,Huangshan,Huangshan,97774,3
+401,CN,Ma'anshan,Ma'anshan,135794,5
+402,CN,Shanghai,Shanghai,323098,1
+403,CN,Shenyang,Shenyang,322193,1
+404,CN,Suzhou,Suzhou,97903,3
+405,CN,Tongling,Tongling,164406,5
+406,CN,Wuhu,Wuhu,122240,4
+407,CN,Xuancheng,Xuancheng,97768,3
+408,CN,七台河市,七台河市,452533,9
+409,CN,三亚市,三亚市,311758,3
+410,CN,三明市,三明市,603344,5
+411,CN,三门峡市,三门峡市,615568,7
+412,CN,上海市,上海市,1603258,20
+413,CN,上饶市,上饶市,612670,9
+414,CN,东莞市,东莞市,753484,6
+415,CN,东营市,东营市,615020,8
+416,CN,中卫市,中卫市,454494,5
+417,CN,中山市,中山市,612963,6
+418,CN,临夏回族自治州,临夏回族自治州,23104,2
+419,CN,临夏州,临夏州,276897,2
+420,CN,临安市,临安市,161817,2
+421,CN,临汾市,临汾市,891850,9
+422,CN,临沂市,临沂市,639753,7
+423,CN,临沧市,临沧市,296942,2
+424,CN,丹东市,丹东市,602757,4
+425,CN,丽水市,丽水市,454482,3
+426,CN,丽江市,丽江市,450990,4
+427,CN,义乌市,义乌市,277248,2
+428,CN,乌兰察布市,乌兰察布市,322923,4
+429,CN,乌海市,乌海市,463705,4
+430,CN,乌鲁木齐市,乌鲁木齐市,1068886,12
+431,CN,乐山市,乐山市,613860,6
+432,CN,九江市,九江市,1195400,11
+433,CN,乳山市,乳山市,296073,2
+434,CN,云浮市,云浮市,452976,5
+435,CN,五家渠市,五家渠市,162109,2
+436,CN,亳州市,亳州市,309410,3
+437,CN,伊春市,伊春市,493866,10
+438,CN,伊犁哈萨克州,伊犁哈萨克州,443155,3
+439,CN,佛山市,佛山市,1212841,8
+440,CN,佳木斯市,佳木斯市,756533,6
+441,CN,保定市,保定市,930839,9
+442,CN,保山市,保山市,301521,2
+443,CN,信阳市,信阳市,603682,4
+444,CN,儋州市,儋州市,22885,2
+445,CN,克孜勒苏柯尔克孜自治州,克孜勒苏柯尔克孜自治州,22786,2
+446,CN,克州,克州,127988,1
+447,CN,克拉玛依市,克拉玛依市,748805,6
+448,CN,六安市,六安市,606293,4
+449,CN,六盘水市,六盘水市,756690,6
+450,CN,兰州市,兰州市,779831,10
+451,CN,兰州新区,兰州新区,22226,2
+452,CN,兴安盟,兴安盟,449060,3
+453,CN,内江市,内江市,597831,4
+454,CN,凉山州,凉山州,693616,5
+455,CN,凉山彝族自治州,凉山彝族自治州,57059,5
+456,CN,包头市,包头市,917820,11
+457,CN,北京市,北京市,1934005,26
+458,CN,北海市,北海市,611366,6
+459,CN,十堰市,十堰市,596509,6
+460,CN,南京市,南京市,1398335,13
+461,CN,南充市,南充市,909504,7
+462,CN,南宁市,南宁市,1212402,11
+463,CN,南平市,南平市,591331,5
+464,CN,南昌市,南昌市,1355567,15
+465,CN,南通市,南通市,772024,8
+466,CN,南阳市,南阳市,754367,6
+467,CN,博尔塔拉蒙古自治州,博尔塔拉蒙古自治州,22981,2
+468,CN,博州,博州,278797,2
+469,CN,即墨市,即墨市,211313,2
+470,CN,厦门市,厦门市,630816,7
+471,CN,双鸭山市,双鸭山市,597040,5
+472,CN,句容市,句容市,297539,2
+473,CN,台州市,台州市,466363,4
+474,CN,合肥市,合肥市,1514374,12
+475,CN,吉安市,吉安市,602702,4
+476,CN,吉林市,吉林市,1061268,8
+477,CN,吐鲁番地区,吐鲁番地区,295807,2
+478,CN,吕梁市,吕梁市,454945,3
+479,CN,吴忠市,吴忠市,452297,4
+480,CN,吴江市,吴江市,340512,3
+481,CN,周口市,周口市,604297,4
+482,CN,呼伦贝尔市,呼伦贝尔市,300215,2
+483,CN,呼和浩特市,呼和浩特市,1200858,12
+484,CN,和田地区,和田地区,293702,4
+485,CN,咸宁市,咸宁市,598957,6
+486,CN,咸阳市,咸阳市,612070,6
+487,CN,哈密地区,哈密地区,300723,2
+488,CN,哈尔滨市,哈尔滨市,1727594,13
+489,CN,唐山市,唐山市,938656,14
+490,CN,商丘市,商丘市,600631,9
+491,CN,商洛市,商洛市,301170,2
+492,CN,喀什地区,喀什地区,429559,3
+493,CN,嘉兴市,嘉兴市,464418,4
+494,CN,嘉峪关市,嘉峪关市,315542,3
+495,CN,四平市,四平市,457367,5
+496,CN,固原市,固原市,461502,5
+497,CN,塔城地区,塔城地区,148966,1
+498,CN,大兴安岭地区,大兴安岭地区,290749,6
+499,CN,大同市,大同市,947468,13
+500,CN,大庆市,大庆市,748627,6
+501,CN,大理州,大理州,299283,2
+502,CN,大连市,大连市,1516618,10
+503,CN,天水市,天水市,450010,6
+504,CN,天津市,天津市,2309383,29
+505,CN,太仓市,太仓市,234684,2
+506,CN,太原市,太原市,1349424,12
+507,CN,威海市,威海市,457939,4
+508,CN,娄底市,娄底市,745721,6
+509,CN,孝感市,孝感市,301115,2
+510,CN,宁德市,宁德市,448703,6
+511,CN,宁波市,宁波市,1200694,9
+512,CN,安庆市,安庆市,602800,7
+513,CN,安康市,安康市,453614,4
+514,CN,安阳市,安阳市,765064,10
+515,CN,安顺市,安顺市,601570,4
+516,CN,定西市,定西市,300436,4
+517,CN,宜兴市,宜兴市,292784,2
+518,CN,宜宾市,宜宾市,850857,8
+519,CN,宜昌市,宜昌市,765273,7
+520,CN,宜春市,宜春市,754242,8
+521,CN,宝鸡市,宝鸡市,1199775,10
+522,CN,宣城市,宣城市,460571,4
+523,CN,宿州市,宿州市,464625,10
+524,CN,宿迁市,宿迁市,601756,7
+525,CN,富阳市,富阳市,113916,2
+526,CN,寿光市,寿光市,298489,2
+527,CN,山南市,山南市,293315,2
+528,CN,岳阳市,岳阳市,899960,7
+529,CN,崇左市,崇左市,294733,2
+530,CN,巴中市,巴中市,606077,8
+531,CN,巴彦淖尔市,巴彦淖尔市,438208,4
+532,CN,巴音郭楞州,巴音郭楞州,33991,3
+533,CN,常州市,常州市,919916,11
+534,CN,常德市,常德市,738670,8
+535,CN,常熟市,常熟市,419725,3
+536,CN,平凉市,平凉市,302902,3
+537,CN,平度市,平度市,283889,2
+538,CN,平顶山市,平顶山市,604345,6
+539,CN,广元市,广元市,606962,6
+540,CN,广安市,广安市,754713,6
+541,CN,广州市,广州市,1771930,22
+542,CN,庆阳市,庆阳市,435765,4
+543,CN,库尔勒市,库尔勒市,417626,3
+544,CN,廊坊市,廊坊市,594193,4
+545,CN,延安市,延安市,601907,6
+546,CN,延边州,延边州,419010,3
+547,CN,延边朝鲜族自治州,延边朝鲜族自治州,34593,3
+548,CN,开封市,开封市,616435,9
+549,CN,张家口市,张家口市,740951,6
+550,CN,张家港市,张家港市,287901,2
+551,CN,张家界市,张家界市,600084,5
+552,CN,张掖市,张掖市,300239,4
+553,CN,徐州市,徐州市,1068896,8
+554,CN,德宏州,德宏州,297408,4
+555,CN,德州市,德州市,487207,6
+556,CN,德阳市,德阳市,603892,5
+557,CN,忻州市,忻州市,448537,5
+558,CN,怀化市,怀化市,750826,6
+559,CN,怒江州,怒江州,296530,2
+560,CN,恩施土家族苗族自治州,恩施土家族苗族自治州,34355,3
+561,CN,恩施州,恩施州,278575,2
+562,CN,惠州市,惠州市,761348,7
+563,CN,成都市,成都市,1263610,15
+564,CN,扬州市,扬州市,611134,9
+565,CN,承德市,承德市,743920,6
+566,CN,抚州市,抚州市,756562,6
+567,CN,抚顺市,抚顺市,861969,6
+568,CN,拉萨市,拉萨市,889558,6
+569,CN,招远市,招远市,186411,2
+570,CN,揭阳市,揭阳市,614312,5
+571,CN,攀枝花市,攀枝花市,753265,5
+572,CN,文山州,文山州,300104,2
+573,CN,文登市,文登市,290192,2
+574,CN,新乡市,新乡市,622481,6
+575,CN,新余市,新余市,747256,8
+576,CN,无锡市,无锡市,1207552,9
+577,CN,日喀则市,日喀则市,295429,3
+578,CN,日照市,日照市,470425,5
+579,CN,昆山市,昆山市,291829,2
+580,CN,昆明市,昆明市,1099271,12
+581,CN,昌吉州,昌吉州,428399,5
+582,CN,昌都市,昌都市,292200,3
+583,CN,昭通市,昭通市,299327,2
+584,CN,晋中市,晋中市,604310,4
+585,CN,晋城市,晋城市,907298,7
+586,CN,普洱市,普洱市,300344,2
+587,CN,景德镇市,景德镇市,755506,6
+588,CN,曲靖市,曲靖市,324440,4
+589,CN,朔州市,朔州市,766464,6
+590,CN,朝阳市,朝阳市,606345,4
+591,CN,本溪市,本溪市,907019,6
+592,CN,来宾市,来宾市,311392,4
+593,CN,杭州市,杭州市,1673037,14
+594,CN,松原市,松原市,267978,2
+595,CN,林芝市,林芝市,298515,2
+596,CN,果洛州,果洛州,136465,1
+597,CN,果洛藏族自治州,果洛藏族自治州,11342,1
+598,CN,枣庄市,枣庄市,761762,6
+599,CN,柳州市,柳州市,912848,7
+600,CN,株洲市,株洲市,1034974,8
+601,CN,桂林市,桂林市,621461,7
+602,CN,梅州市,梅州市,453416,4
+603,CN,梧州市,梧州市,607102,6
+604,CN,楚雄州,楚雄州,302886,2
+605,CN,榆林市,榆林市,595782,7
+606,CN,武威市,武威市,297311,4
+607,CN,武汉市,武汉市,1496437,11
+608,CN,毕节市,毕节市,314529,3
+609,CN,永州市,永州市,752265,6
+610,CN,汉中市,汉中市,598522,5
+611,CN,汕头市,汕头市,913954,7
+612,CN,汕尾市,汕尾市,446803,3
+613,CN,江门市,江门市,627893,7
+614,CN,江阴市,江阴市,452577,3
+615,CN,池州市,池州市,467180,11
+616,CN,沈阳市,沈阳市,1651934,12
+617,CN,沧州市,沧州市,459353,4
+618,CN,河池市,河池市,445790,4
+619,CN,河源市,河源市,446734,4
+620,CN,泉州市,泉州市,617071,6
+621,CN,泰安市,泰安市,455054,6
+622,CN,泰州市,泰州市,623453,6
+623,CN,泸州市,泸州市,615803,6
+624,CN,洛阳市,洛阳市,1089546,12
+625,CN,济南市,济南市,1596705,18
+626,CN,济宁市,济宁市,461388,6
+627,CN,海东地区,海东地区,149387,1
+628,CN,海北州,海北州,139332,1
+629,CN,海北藏族自治州,海北藏族自治州,11561,1
+630,CN,海南州,海南州,139043,1
+631,CN,海南藏族自治州,海南藏族自治州,11528,1
+632,CN,海口市,海口市,760669,7
+633,CN,海西州,海西州,139048,1
+634,CN,海西蒙古族藏族自治州,海西蒙古族藏族自治州,11525,1
+635,CN,海门市,海门市,272140,2
+636,CN,淄博市,淄博市,912833,7
+637,CN,淮北市,淮北市,462739,4
+638,CN,淮南市,淮南市,914868,10
+639,CN,淮安市,淮安市,765515,6
+640,CN,深圳市,深圳市,1701398,15
+641,CN,清远市,清远市,468526,6
+642,CN,温州市,温州市,618390,5
+643,CN,渭南市,渭南市,592254,5
+644,CN,湖州市,湖州市,451628,3
+645,CN,湘潭市,湘潭市,1048855,8
+646,CN,湘西州,湘西州,453690,4
+647,CN,湛江市,湛江市,910191,6
+648,CN,溧阳市,溧阳市,298447,2
+649,CN,滁州市,滁州市,463905,7
+650,CN,滨州市,滨州市,476823,6
+651,CN,漯河市,漯河市,623693,8
+652,CN,漳州市,漳州市,463379,8
+653,CN,潍坊市,潍坊市,763381,7
+654,CN,潮州市,潮州市,451880,4
+655,CN,濮阳市,濮阳市,596287,4
+656,CN,烟台市,烟台市,913971,8
+657,CN,焦作市,焦作市,632172,7
+658,CN,牡丹江市,牡丹江市,756496,7
+659,CN,玉林市,玉林市,475390,6
+660,CN,玉树州,玉树州,135949,1
+661,CN,玉树藏族自治州,玉树藏族自治州,11140,1
+662,CN,玉溪市,玉溪市,455863,3
+663,CN,珠海市,珠海市,630666,6
+664,CN,瓦房店市,瓦房店市,78575,4
+665,CN,甘南州,甘南州,162432,3
+666,CN,甘孜州,甘孜州,276458,2
+667,CN,甘孜藏族自治州,甘孜藏族自治州,23046,2
+668,CN,白城市,白城市,291315,2
+669,CN,白山市,白山市,301528,2
+670,CN,白银市,白银市,300760,3
+671,CN,百色市,百色市,312459,3
+672,CN,益阳市,益阳市,751826,6
+673,CN,盐城市,盐城市,623584,6
+674,CN,盘锦市,盘锦市,453493,3
+675,CN,眉山市,眉山市,605477,5
+676,CN,石嘴山市,石嘴山市,615272,7
+677,CN,石家庄市,石家庄市,1235818,13
+678,CN,石河子市,石河子市,299032,2
+679,CN,福州市,福州市,905695,8
+680,CN,秦皇岛市,秦皇岛市,747429,6
+681,CN,章丘市,章丘市,253996,4
+682,CN,红河州,红河州,452774,3
+683,CN,绍兴市,绍兴市,506492,9
+684,CN,绥化市,绥化市,298530,2
+685,CN,绵阳市,绵阳市,627946,6
+686,CN,聊城市,聊城市,470784,7
+687,CN,肇庆市,肇庆市,624603,7
+688,CN,胶南市,胶南市,230609,3
+689,CN,胶州市,胶州市,212034,2
+690,CN,自贡市,自贡市,606065,6
+691,CN,舟山市,舟山市,450747,3
+692,CN,芜湖市,芜湖市,621990,9
+693,CN,苏州市,苏州市,1218217,12
+694,CN,茂名市,茂名市,606714,6
+695,CN,荆州市,荆州市,454167,5
+696,CN,荆门市,荆门市,608526,5
+697,CN,荣成市,荣成市,290129,2
+698,CN,莆田市,莆田市,741371,6
+699,CN,莱州市,莱州市,223862,2
+700,CN,莱芜市,莱芜市,43150,3
+701,CN,莱西市,莱西市,291150,2
+702,CN,菏泽市,菏泽市,456541,6
+703,CN,萍乡市,萍乡市,750752,7
+704,CN,营口市,营口市,630578,6
+705,CN,葫芦岛市,葫芦岛市,605857,4
+706,CN,蓬莱市,蓬莱市,66855,4
+707,CN,蚌埠市,蚌埠市,910750,7
+708,CN,衡水市,衡水市,460777,6
+709,CN,衡阳市,衡阳市,877766,8
+710,CN,衢州市,衢州市,453895,3
+711,CN,襄阳市,襄阳市,626592,6
+712,CN,西双版纳州,西双版纳州,299682,2
+713,CN,西咸新区,西咸新区,33755,3
+714,CN,西宁市,西宁市,590778,7
+715,CN,西安市,西安市,1965637,16
+716,CN,许昌市,许昌市,484592,6
+717,CN,诸暨市,诸暨市,213330,2
+718,CN,贵港市,贵港市,617304,7
+719,CN,贵阳市,贵阳市,1509216,11
+720,CN,贺州市,贺州市,313518,3
+721,CN,资阳市,资阳市,753593,6
+722,CN,赣州市,赣州市,753191,7
+723,CN,赣江新区,赣江新区,11027,1
+724,CN,赤峰市,赤峰市,617934,5
+725,CN,辽源市,辽源市,280143,4
+726,CN,辽阳市,辽阳市,606375,4
+727,CN,达州市,达州市,756628,6
+728,CN,运城市,运城市,731176,7
+729,CN,连云港市,连云港市,630793,8
+730,CN,迪庆州,迪庆州,289727,3
+731,CN,通化市,通化市,301894,2
+732,CN,通辽市,通辽市,441445,5
+733,CN,遂宁市,遂宁市,604610,5
+734,CN,遵义市,遵义市,754371,7
+735,CN,邢台市,邢台市,585927,4
+736,CN,那曲地区,那曲地区,166327,2
+737,CN,那曲市,那曲市,130657,2
+738,CN,邯郸市,邯郸市,617621,7
+739,CN,邵阳市,邵阳市,744511,6
+740,CN,郑州市,郑州市,1366433,13
+741,CN,郴州市,郴州市,753536,6
+742,CN,鄂尔多斯市,鄂尔多斯市,754611,5
+743,CN,鄂州市,鄂州市,456192,4
+744,CN,酒泉市,酒泉市,303407,3
+745,CN,重庆市,重庆市,2683262,34
+746,CN,金华市,金华市,451279,4
+747,CN,金坛市,金坛市,298076,2
+748,CN,金昌市,金昌市,360450,5
+749,CN,钦州市,钦州市,464147,5
+750,CN,铁岭市,铁岭市,597498,4
+751,CN,铜仁地区,铜仁地区,302688,2
+752,CN,铜川市,铜川市,599303,6
+753,CN,铜陵市,铜陵市,907968,6
+754,CN,银川市,银川市,906980,9
+755,CN,锡林郭勒盟,锡林郭勒盟,299874,2
+756,CN,锦州市,锦州市,754002,5
+757,CN,镇江市,镇江市,605021,4
+758,CN,长春市,长春市,1500048,11
+759,CN,长沙市,长沙市,1491432,11
+760,CN,长治市,长治市,765908,6
+761,CN,阜新市,阜新市,758240,5
+762,CN,阜阳市,阜阳市,477331,5
+763,CN,防城港市,防城港市,450931,4
+764,CN,阳江市,阳江市,463727,6
+765,CN,阳泉市,阳泉市,908687,7
+766,CN,阿克苏地区,阿克苏地区,301693,2
+767,CN,阿勒泰地区,阿勒泰地区,252802,2
+768,CN,阿坝州,阿坝州,412328,3
+769,CN,阿坝藏族羌族自治州,阿坝藏族羌族自治州,32673,3
+770,CN,阿拉善盟,阿拉善盟,452602,5
+771,CN,阿里地区,阿里地区,228734,4
+772,CN,陇南市,陇南市,287425,3
+773,CN,随州市,随州市,455300,3
+774,CN,雄安新区,雄安新区,66876,6
+775,CN,雅安市,雅安市,588401,5
+776,CN,青岛市,青岛市,1382205,14
+777,CN,鞍山市,鞍山市,1066809,8
+778,CN,韶关市,韶关市,748152,5
+779,CN,马鞍山市,马鞍山市,750714,9
+780,CN,驻马店市,驻马店市,453757,6
+781,CN,鸡西市,鸡西市,573614,9
+782,CN,鹤壁市,鹤壁市,476421,5
+783,CN,鹤岗市,鹤岗市,601761,5
+784,CN,鹰潭市,鹰潭市,746331,6
+785,CN,黄冈市,黄冈市,312346,3
+786,CN,黄南州,黄南州,138769,1
+787,CN,黄南藏族自治州,黄南藏族自治州,11209,1
+788,CN,黄山市,黄山市,453290,3
+789,CN,黄石市,黄石市,748198,5
+790,CN,黑河市,黑河市,447498,6
+791,CN,黔东南州,黔东南州,277332,2
+792,CN,黔东南苗族侗族自治州,黔东南苗族侗族自治州,23050,2
+793,CN,黔南州,黔南州,139503,1
+794,CN,黔南布依族苗族自治州,黔南布依族苗族自治州,22936,2
+795,CN,黔西南州,黔西南州,278684,2
+796,CN,黔西南布依族苗族自治州,黔西南布依族苗族自治州,23009,2
+797,CN,齐齐哈尔市,齐齐哈尔市,742205,8
+798,CN,龙岩市,龙岩市,608207,5
+799,CO,Barbosa,Barbosa,616200,2
+800,CO,Bello,Bello,308024,1
+801,CO,Bogota,Bogota,486315,19
+802,CO,Caldas,Caldas,625419,1
+803,CO,Copacabana,Copacabana,312901,1
+804,CO,Envigado,Envigado,307703,1
+805,CO,Girardota,Girardota,312483,1
+806,CO,Itagüí,Itagüí,1250506,3
+807,CO,La Estrella,La Estrella,312899,1
+808,CO,Medellin,Medellin,11564163,21
+809,CO,N/A,N/A,11150,1
+810,CO,Sabaneta,Sabaneta,307654,1
+811,CR,San Jose,San Jose,179537,1
+812,CS,N/A,N/A,13170,2
+813,CW,Curacao,Curacao,338563,1
+814,CY,unused,unused,124514,2
+815,CY,Λευκωσία,Λευκωσία,63758,1
+816,CZ,Hlavní město Praha,Hlavní město Praha,1288911,13
+817,CZ,Jihočeský,Jihočeský,637674,6
+818,CZ,Jihomoravský,Jihomoravský,878714,7
+819,CZ,Karlovarský,Karlovarský,309444,3
+820,CZ,Královéhradecký,Královéhradecký,351805,5
+821,CZ,Liberecký,Liberecký,317765,4
+822,CZ,Moravskoslezský,Moravskoslezský,1954393,16
+823,CZ,National automated monitoring network (SIS),National automated monitoring network (SIS),421484,102
+824,CZ,Olomoucký,Olomoucký,429189,4
+825,CZ,Pardubický,Pardubický,357848,4
+826,CZ,Plzeňský,Plzeňský,898103,6
+827,CZ,Středočeský,Středočeský,685779,6
+828,CZ,Ústecký,Ústecký,1768123,15
+829,CZ,Vysočina,Vysočina,508187,4
+830,CZ,Zlínský,Zlínský,578374,5
+831,DE,Andrea Schemmel,Andrea Schemmel,106915,10
+832,DE,Andreas Hainsch,Andreas Hainsch,309554,38
+833,DE,Annette Pausch,Annette Pausch,216793,34
+834,DE,Baden-Württemberg,Baden-Württemberg,699048,42
+835,DE,Bayern,Bayern,1294173,55
+836,DE,Berlin,Berlin,277779,16
+837,DE,Brandenburg,Brandenburg,623138,25
+838,DE,Bremen,Bremen,258988,8
+839,DE,Christiane Lutz-Holzhauer,Christiane Lutz-Holzhauer,325381,54
+840,DE,Dagmar G�mer,Dagmar G�mer,128932,15
+841,DE,Dagmar Gömer,Dagmar Gömer,10897,17
+842,DE,Hamburg,Hamburg,304558,15
+843,DE,Heinz Ott,Heinz Ott,550810,91
+844,DE,Hessen,Hessen,801601,35
+845,DE,Ingrid Zell,Ingrid Zell,107420,17
+846,DE,Joachim Lehmhaus,Joachim Lehmhaus,92962,24
+847,DE,J�rgen Friesel,J�rgen Friesel,353519,62
+848,DE,Jürgen Friesel,Jürgen Friesel,25079,59
+849,DE,Manfred Lotz,Manfred Lotz,305411,31
+850,DE,Margit von D�hren,Margit von D�hren,312986,27
+851,DE,Margit von Döhren,Margit von Döhren,21085,27
+852,DE,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,383666,16
+853,DE,Niedersachsen,Niedersachsen,803268,30
+854,DE,Nordrhein-Westfalen,Nordrhein-Westfalen,880376,62
+855,DE,Peter Reischl,Peter Reischl,203926,25
+856,DE,Rainer Nothard,Rainer Nothard,121018,22
+857,DE,Rheinland-Pfalz,Rheinland-Pfalz,702567,27
+858,DE,Ruprecht Schleyer,Ruprecht Schleyer,83229,8
+859,DE,Saarland,Saarland,219613,11
+860,DE,Sachsen,Sachsen,441495,28
+861,DE,Sachsen-Anhalt,Sachsen-Anhalt,567001,24
+862,DE,Schleswig-Holstein,Schleswig-Holstein,234206,16
+863,DE,Stefan Jacobi,Stefan Jacobi,395359,45
+864,DE,Thomas Draheim,Thomas Draheim,182497,21
+865,DE,Thüringen,Thüringen,530869,22
+866,DE,Ulrich Zimmermann,Ulrich Zimmermann,263168,27
+867,DK,Danish Air Quality Monitoring Programme,Danish Air Quality Monitoring Programme,104104,12
+868,DK,Danish Background Monitoring Network,Danish Background Monitoring Network,8356,1
+869,DK,Hovedstaden,Hovedstaden,287400,4
+870,DK,Midtjylland,Midtjylland,190731,3
+871,DK,Nordjylland,Nordjylland,60188,1
+872,DK,Sjælland,Sjælland,100470,1
+873,DK,Syddanmark,Syddanmark,151250,3
+874,DZ,Algiers,Algiers,165193,1
+875,EC,Quito,Quito,594810,8
+876,EE,Harjumaa,Harjumaa,125612,3
+877,EE,Ida-Virumaa,Ida-Virumaa,114625,2
+878,EE,Jõgevamaa,Jõgevamaa,31358,1
+879,EE,Lääne-Virumaa,Lääne-Virumaa,39921,1
+880,EE,Saaremaa,Saaremaa,32714,1
+881,EE,Tartumaa,Tartumaa,68531,1
+882,ES,A Coruña,A Coruña,344097,5
+883,ES,Albacete,Albacete,86387,1
+884,ES,Alcala De Guadaira,Alcala De Guadaira,55949,1
+885,ES,Algeciras,Algeciras,111195,2
+886,ES,Alicante/Alacant,Alicante/Alacant,565573,10
+887,ES,Almeria,Almeria,81145,2
+888,ES,Almería,Almería,449609,14
+889,ES,Almonte,Almonte,34809,1
+890,ES,Araba/Álava,Araba/Álava,382786,7
+891,ES,Arcos De La Frontera,Arcos De La Frontera,47723,1
+892,ES,Armilla,Armilla,57745,1
+893,ES,Asturias,Asturias,1462487,23
+894,ES,Ávila,Ávila,58536,1
+895,ES,Ayto Madrid,Ayto Madrid,229864,26
+896,ES,Ayto Zaragoza,Ayto Zaragoza,98589,8
+897,ES,Badajoz,Badajoz,231212,4
+898,ES,Bailen,Bailen,57316,1
+899,ES,Barcelona,Barcelona,1538814,45
+900,ES,Barrios (Los),Barrios (Los),269008,5
+901,ES,Bedar,Bedar,57784,1
+902,ES,Benahadux,Benahadux,56595,1
+903,ES,Bizkaia,Bizkaia,579817,13
+904,ES,Burgos,Burgos,300958,6
+905,ES,Cáceres,Cáceres,180505,3
+906,ES,Cadiz,Cadiz,57150,1
+907,ES,Cádiz,Cádiz,810176,24
+908,ES,Campillos,Campillos,28886,1
+909,ES,Cantabria,Cantabria,474770,11
+910,ES,Carboneras,Carboneras,55614,1
+911,ES,Castellón/Castelló,Castellón/Castelló,1079677,19
+912,ES,CCAA Andaluc�a,CCAA Andaluc�a,733046,85
+913,ES,CCAA Andalucía,CCAA Andalucía,32,32
+914,ES,CCAA Arag�n,CCAA Arag�n,47863,6
+915,ES,CCAA Aragón,CCAA Aragón,9925,6
+916,ES,CCAA Asturias,CCAA Asturias,318937,25
+917,ES,CCAA Cantabria,CCAA Cantabria,115413,11
+918,ES,CCAA Castilla y Le�n,CCAA Castilla y Le�n,133259,22
+919,ES,CCAA Castilla y León,CCAA Castilla y León,26762,22
+920,ES,CCAA Cast. la Mancha,CCAA Cast. la Mancha,157442,15
+921,ES,CCAA Catalu�a,CCAA Catalu�a,442865,75
+922,ES,CCAA Cataluña,CCAA Cataluña,92710,75
+923,ES,CCAA Com. Valenciana,CCAA Com. Valenciana,474319,75
+924,ES,CCAA Extremadura,CCAA Extremadura,21218,8
+925,ES,CCAA Galicia,CCAA Galicia,187625,13
+926,ES,CCAA Islas Baleares,CCAA Islas Baleares,103113,18
+927,ES,CCAA La Rioja,CCAA La Rioja,61205,7
+928,ES,CCAA Madrid,CCAA Madrid,224079,28
+929,ES,CCAA Murcia,CCAA Murcia,102508,8
+930,ES,CCAA Navarra,CCAA Navarra,122269,8
+931,ES,CCAA País Vasco,CCAA País Vasco,18734,27
+932,ES,CCAA Pa�s Vasco,CCAA Pa�s Vasco,175278,27
+933,ES,Ciudad Real,Ciudad Real,291748,5
+934,ES,Cordoba,Cordoba,159558,3
+935,ES,Córdoba,Córdoba,183530,6
+936,ES,Cuenca,Cuenca,57672,1
+937,ES,Cuevas Del Almanzora,Cuevas Del Almanzora,105066,2
+938,ES,Dos Hermanas,Dos Hermanas,57212,1
+939,ES,Ejido (El),Ejido (El),54552,1
+940,ES,EMEP/VAG/CAMP,EMEP/VAG/CAMP,123962,19
+941,ES,Espiel,Espiel,51057,1
+942,ES,Gipuzkoa,Gipuzkoa,319627,7
+943,ES,Girona,Girona,163698,6
+944,ES,Granada,Granada,331745,7
+945,ES,Guadalajara,Guadalajara,161211,3
+946,ES,Guillena,Guillena,58062,1
+947,ES,Huelva,Huelva,810681,23
+948,ES,Huesca,Huesca,110253,3
+949,ES,Illes Balears,Illes Balears,861085,18
+950,ES,Jaen,Jaen,110154,2
+951,ES,Jaén,Jaén,173346,4
+952,ES,Jerez De La Frontera,Jerez De La Frontera,114311,2
+953,ES,La Rioja,La Rioja,353537,5
+954,ES,Las Palmas,Las Palmas,671284,20
+955,ES,León,León,281092,9
+956,ES,Linea De La Concepcion (La),Linea De La Concepcion (La),108349,2
+957,ES,Lleida,Lleida,248177,7
+958,ES,Lugo,Lugo,134797,4
+959,ES,Madrid,Madrid,2219489,47
+960,ES,Mairena Del Aljarafe,Mairena Del Aljarafe,57342,1
+961,ES,Malaga,Malaga,168458,4
+962,ES,Málaga,Málaga,217972,6
+963,ES,Marbella,Marbella,55171,1
+964,ES,Moguer,Moguer,155546,3
+965,ES,Mojacar,Mojacar,58020,1
+966,ES,Motril,Motril,58914,1
+967,ES,Murcia,Murcia,527668,9
+968,ES,Navarra,Navarra,499699,8
+969,ES,Niebla,Niebla,50750,1
+970,ES,Nijar,Nijar,169257,3
+971,ES,Obejo,Obejo,47116,1
+972,ES,Ourense,Ourense,174294,2
+973,ES,Palencia,Palencia,117926,6
+974,ES,Palos De La Frontera,Palos De La Frontera,159141,3
+975,ES,Pontevedra,Pontevedra,289138,4
+976,ES,Prado Del Rey,Prado Del Rey,53187,1
+977,ES,Puerto Real,Puerto Real,25844,1
+978,ES,Punta Umbria,Punta Umbria,39788,1
+979,ES,Salamanca,Salamanca,207294,4
+980,ES,San Fernando,San Fernando,56389,1
+981,ES,San Juan Del Puerto,San Juan Del Puerto,53943,1
+982,ES,San Nicolas Del Puerto,San Nicolas Del Puerto,54695,1
+983,ES,San Roque,San Roque,420880,8
+984,ES,Santa Cruz de Tenerife,Santa Cruz de Tenerife,989251,30
+985,ES,Segovia,Segovia,63672,1
+986,ES,Sevilla,Sevilla,804546,19
+987,ES,Soria,Soria,113596,2
+988,ES,Tarragona,Tarragona,489709,18
+989,ES,Teruel,Teruel,57640,4
+990,ES,Toledo,Toledo,233391,4
+991,ES,Valencia/València,Valencia/València,1473857,25
+992,ES,Valladolid,Valladolid,307720,9
+993,ES,Villaharta,Villaharta,56817,1
+994,ES,Villanueva Del Arzobispo,Villanueva Del Arzobispo,29446,1
+995,ES,Zamora,Zamora,59197,1
+996,ES,Zaragoza,Zaragoza,529603,10
+997,ET,Addis Ababa,Addis Ababa,356065,2
+998,ET,N/A,N/A,14600,2
+999,FI,Central Finland,Central Finland,88520,2
+1000,FI,Central Ostrobothnia,Central Ostrobothnia,45437,1
+1001,FI,Etelä-Karjalan verkko,Etelä-Karjalan verkko,2925,9
+1002,FI,Etel�-Karjalan verkko,Etel�-Karjalan verkko,39389,9
+1003,FI,Harjavallan verkko,Harjavallan verkko,13419,2
+1004,FI,Helsingin seudun verkko (HSY),Helsingin seudun verkko (HSY),54478,8
+1005,FI,Ilmatieteen laitoksen verkko,Ilmatieteen laitoksen verkko,66089,9
+1006,FI,Jyväskylän verkko,Jyväskylän verkko,917,2
+1007,FI,Jyv�skyl�n verkko,Jyv�skyl�n verkko,12255,2
+1008,FI,Kainuu,Kainuu,9019,1
+1009,FI,Kajaanin verkko,Kajaanin verkko,3225,1
+1010,FI,Kokkolan verkko,Kokkolan verkko,3018,2
+1011,FI,Kotkan verkko,Kotkan verkko,3185,1
+1012,FI,Kuopion verkko,Kuopion verkko,26154,3
+1013,FI,Kymenlaakso,Kymenlaakso,207713,2
+1014,FI,Lahden verkko,Lahden verkko,13413,4
+1015,FI,Lapland,Lapland,205939,2
+1016,FI,Lohjan verkko,Lohjan verkko,6604,1
+1017,FI,Neste Oyj -verkko,Neste Oyj -verkko,2187,1
+1018,FI,Northern Ostrobothnia,Northern Ostrobothnia,437561,5
+1019,FI,Northern Savonia,Northern Savonia,191079,3
+1020,FI,North Karelen,North Karelen,36995,1
+1021,FI,Ostrobothnia,Ostrobothnia,188261,3
+1022,FI,Oulun verkko,Oulun verkko,23375,4
+1023,FI,Paijanne Tavastia,Paijanne Tavastia,180747,5
+1024,FI,Pietarsaaren seudun verkko,Pietarsaaren seudun verkko,6589,2
+1025,FI,Pirkanmaa,Pirkanmaa,276470,4
+1026,FI,Raahen verkko,Raahen verkko,3350,1
+1027,FI,Satakunta,Satakunta,154538,2
+1028,FI,South Karelia,South Karelia,468078,9
+1029,FI,Southwest Finland,Southwest Finland,218583,3
+1030,FI,Tampereen verkko,Tampereen verkko,20091,3
+1031,FI,Turun seudun verkko,Turun seudun verkko,9854,2
+1032,FI,Uusimaa,Uusimaa,870918,9
+1033,FI,Vaasan verkko,Vaasan verkko,9890,2
+1034,FR,Ain,Ain,227914,2
+1035,FR,AIRAQ,AIRAQ,120054,28
+1036,FR,AIR BREIZH,AIR BREIZH,68951,16
+1037,FR,"AIR C.O.M. (CALVADOS, ORNE, MANCHE)","AIR C.O.M. (CALVADOS, ORNE, MANCHE)",42755,10
+1038,FR,AIR LANGUEDOC-ROUSSILLON,AIR LANGUEDOC-ROUSSILLON,38120,22
+1039,FR,AIR LORRAINE,AIR LORRAINE,148508,44
+1040,FR,AIR NORMAND,AIR NORMAND,179357,42
+1041,FR,AIR PACA,AIR PACA,267100,62
+1042,FR,AIRPARIF,AIRPARIF,291736,52
+1043,FR,AIR PAYS DE LA LOIRE,AIR PAYS DE LA LOIRE,101324,30
+1044,FR,AIR PAYS DE LOIRE,AIR PAYS DE LOIRE,50129,18
+1045,FR,AIR RHONE ALPES,AIR RHONE ALPES,278418,72
+1046,FR,Aisne,Aisne,148966,3
+1047,FR,Allier,Allier,180888,3
+1048,FR,Alpes-de-Haute-Provence,Alpes-de-Haute-Provence,238955,2
+1049,FR,Alpes-Maritimes,Alpes-Maritimes,685279,10
+1050,FR,Ardèche,Ardèche,27608,1
+1051,FR,Ardennes,Ardennes,269954,2
+1052,FR,Ariège,Ariège,10420,1
+1053,FR,ASPA,ASPA,69611,19
+1054,FR,ATMO AUVERGNE,ATMO AUVERGNE,63034,19
+1055,FR,ATMO AUVERGNE-RH�NE-ALPES,ATMO AUVERGNE-RH�NE-ALPES,221784,76
+1056,FR,ATMO BOURGOGNE-FRANCHE-COMTE,ATMO BOURGOGNE-FRANCHE-COMTE,83525,32
+1057,FR,ATMO CHAMPAGNE-ARDENNE,ATMO CHAMPAGNE-ARDENNE,54391,14
+1058,FR,ATMO FRANCHE COMTE,ATMO FRANCHE COMTE,52543,18
+1059,FR,ATMO GRAND EST,ATMO GRAND EST,163514,64
+1060,FR,ATMO HAUTS DE FRANCE,ATMO HAUTS DE FRANCE,116856,42
+1061,FR,ATMO NORD-PAS-DE-CALAIS,ATMO NORD-PAS-DE-CALAIS,141856,37
+1062,FR,ATMO NOUVELLE-AQUITAINE,ATMO NOUVELLE-AQUITAINE,152815,52
+1063,FR,ATMO OCCITANIE,ATMO OCCITANIE,58820,35
+1064,FR,ATMO PICARDIE,ATMO PICARDIE,52032,12
+1065,FR,ATMO POITOU-CHARENTES,ATMO POITOU-CHARENTES,77837,17
+1066,FR,ATMOSF'AIR BOURGOGNE,ATMOSF'AIR BOURGOGNE,73098,16
+1067,FR,Aube,Aube,280833,3
+1068,FR,Aveyron,Aveyron,9284,1
+1069,FR,Bas-Rhin,Bas-Rhin,634471,9
+1070,FR,Bouches-du-Rhône,Bouches-du-Rhône,1889986,31
+1071,FR,Calvados,Calvados,596072,6
+1072,FR,Cantal,Cantal,184193,2
+1073,FR,Charente,Charente,324356,4
+1074,FR,Charente-Maritime,Charente-Maritime,343203,3
+1075,FR,Cher,Cher,304593,3
+1076,FR,Corrèze,Corrèze,255089,3
+1077,FR,Corse-du-Sud,Corse-du-Sud,337358,4
+1078,FR,Côte-d'Or,Côte-d'Or,435878,6
+1079,FR,Côtes-d'Armor,Côtes-d'Armor,114936,1
+1080,FR,Creuse,Creuse,155539,2
+1081,FR,Deux-Sèvres,Deux-Sèvres,426686,4
+1082,FR,Dordogne,Dordogne,136570,1
+1083,FR,Doubs,Doubs,566200,8
+1084,FR,Drôme,Drôme,526580,5
+1085,FR,Essonne,Essonne,307511,5
+1086,FR,Eure,Eure,230267,3
+1087,FR,Eure-et-Loir,Eure-et-Loir,323359,5
+1088,FR,Finistère,Finistère,263827,4
+1089,FR,Fort-De-France,Fort-De-France,34955,1
+1090,FR,French Guiana,French Guiana,236075,2
+1091,FR,Gard,Gard,393060,6
+1092,FR,Gers,Gers,169547,2
+1093,FR,Gironde,Gironde,769723,11
+1094,FR,Guadeloupe,Guadeloupe,174657,3
+1095,FR,GWAD'AIR,GWAD'AIR,19312,4
+1096,FR,Haute-Corse,Haute-Corse,493353,5
+1097,FR,Haute-Garonne,Haute-Garonne,810603,12
+1098,FR,Haute-Loire,Haute-Loire,97937,1
+1099,FR,Haute-Marne,Haute-Marne,162576,1
+1100,FR,Hautes-Alpes,Hautes-Alpes,307157,3
+1101,FR,Haute-Saône,Haute-Saône,82714,1
+1102,FR,Haute-Savoie,Haute-Savoie,946708,9
+1103,FR,Hautes-Pyrénées,Hautes-Pyrénées,294159,3
+1104,FR,Haute-Vienne,Haute-Vienne,452499,5
+1105,FR,Haut-Rhin,Haut-Rhin,721795,10
+1106,FR,Hauts-de-Seine,Hauts-de-Seine,265767,3
+1107,FR,Hérault,Hérault,645545,11
+1108,FR,Ille-et-Vilaine,Ille-et-Vilaine,357032,6
+1109,FR,Indre,Indre,271688,4
+1110,FR,Indre-et-Loire,Indre-et-Loire,335721,4
+1111,FR,Isère,Isère,1288100,15
+1112,FR,Jura,Jura,430783,5
+1113,FR,Landes,Landes,345083,3
+1114,FR,LIG'AIR,LIG'AIR,121567,22
+1115,FR,LIMAIR,LIMAIR,30442,10
+1116,FR,Loire,Loire,585343,6
+1117,FR,Loire-Atlantique,Loire-Atlantique,1345353,17
+1118,FR,Loiret,Loiret,417754,5
+1119,FR,Loir-et-Cher,Loir-et-Cher,116020,1
+1120,FR,Lot-et-Garonne,Lot-et-Garonne,140356,2
+1121,FR,MADININAIR,MADININAIR,39275,10
+1122,FR,Maine-et-Loire,Maine-et-Loire,353335,4
+1123,FR,Manche,Manche,230302,2
+1124,FR,Marne,Marne,748457,8
+1125,FR,Martinique,Martinique,328152,7
+1126,FR,Mayenne,Mayenne,269421,2
+1127,FR,Meurthe-et-Moselle,Meurthe-et-Moselle,799454,12
+1128,FR,Meuse,Meuse,394965,4
+1129,FR,Morbihan,Morbihan,319587,3
+1130,FR,Moselle,Moselle,1485862,19
+1131,FR,Nièvre,Nièvre,259728,2
+1132,FR,Nord,Nord,1709742,21
+1133,FR,Oise,Oise,349756,3
+1134,FR,ORA,ORA,95759,15
+1135,FR,ORA DE GUYANE,ORA DE GUYANE,5787,2
+1136,FR,ORAMIP,ORAMIP,50553,19
+1137,FR,Orne,Orne,228106,2
+1138,FR,Paris,Paris,941577,14
+1139,FR,Pas-de-Calais,Pas-de-Calais,1079356,10
+1140,FR,Puy-de-Dôme,Puy-de-Dôme,587990,10
+1141,FR,Pyrénées-Atlantiques,Pyrénées-Atlantiques,974107,11
+1142,FR,Pyrénées-Orientales,Pyrénées-Orientales,229462,3
+1143,FR,QUALITAIR CORSE,QUALITAIR CORSE,71709,9
+1144,FR,Reunion,Reunion,1111825,11
+1145,FR,Rhône,Rhône,1098861,15
+1146,FR,Sainte-Luce,Sainte-Luce,118480,1
+1147,FR,Saint-Leu,Saint-Leu,35266,1
+1148,FR,Saint-Pierre,Saint-Pierre,248982,2
+1149,FR,Saône-et-Loire,Saône-et-Loire,520740,6
+1150,FR,Sarthe,Sarthe,234503,3
+1151,FR,Savoie,Savoie,594250,7
+1152,FR,Schoelcher,Schoelcher,52848,1
+1153,FR,Seine-et-Marne,Seine-et-Marne,577163,7
+1154,FR,Seine-Maritime,Seine-Maritime,1949368,26
+1155,FR,Seine-Saint-Denis,Seine-Saint-Denis,682007,7
+1156,FR,Somme,Somme,351827,5
+1157,FR,Tarn,Tarn,187552,2
+1158,FR,Territoire de Belfort,Territoire de Belfort,79088,2
+1159,FR,unused,unused,65393,1
+1160,FR,Val-de-Marne,Val-de-Marne,310064,4
+1161,FR,Val-d'Oise,Val-d'Oise,347847,5
+1162,FR,Var,Var,603288,7
+1163,FR,Vaucluse,Vaucluse,348375,5
+1164,FR,Vendée,Vendée,274149,2
+1165,FR,Vienne,Vienne,307346,3
+1166,FR,Vosges,Vosges,296627,4
+1167,FR,Yonne,Yonne,235260,2
+1168,FR,Yvelines,Yvelines,346220,4
+1169,GB,Aberdeen,Aberdeen,258204,3
+1170,GB,Armagh,Armagh,81915,1
+1171,GB,Aston Hill,Aston Hill,85620,1
+1172,GB,Auchencorth,Auchencorth,129721,1
+1173,GB,Ballymena,Ballymena,70310,1
+1174,GB,Barnsley,Barnsley,128570,1
+1175,GB,Barnstaple,Barnstaple,81537,1
+1176,GB,Bath,Bath,19863,1
+1177,GB,Belfast,Belfast,296367,2
+1178,GB,Billingham,Billingham,38428,1
+1179,GB,Birmingham,Birmingham,186648,3
+1180,GB,Blackburn,Blackburn,39821,1
+1181,GB,Blackpool,Blackpool,145135,1
+1182,GB,Bottesford,Bottesford,4044,1
+1183,GB,Bournemouth,Bournemouth,117634,1
+1184,GB,Bradford,Bradford,42064,1
+1185,GB,Brighton,Brighton,97731,1
+1186,GB,Bristol,Bristol,164225,1
+1187,GB,Bury,Bury,81167,1
+1188,GB,Bush Estate,Bush Estate,86729,1
+1189,GB,Cambridge,Cambridge,39875,1
+1190,GB,Canterbury,Canterbury,78615,1
+1191,GB,Cardiff,Cardiff,278657,2
+1192,GB,Carlisle,Carlisle,123722,1
+1193,GB,Central Scotland,Central Scotland,106754,1
+1194,GB,Charlton,Charlton,86490,1
+1195,GB,Chatham,Chatham,124735,1
+1196,GB,Chepstow,Chepstow,125816,1
+1197,GB,Chesterfield,Chesterfield,251198,2
+1198,GB,Coventry,Coventry,152508,1
+1199,GB,Crompton Way   OL2 8AQ,Crompton Way   OL2 8AQ,36265,1
+1200,GB,Derby,Derby,35045,1
+1201,GB,Derry,Derry,206306,2
+1202,GB,Doncaster,Doncaster,33541,1
+1203,GB,Dumbarton,Dumbarton,36495,1
+1204,GB,Dumfries,Dumfries,36817,1
+1205,GB,Eastbourne,Eastbourne,105652,1
+1206,GB,Edinburgh,Edinburgh,207318,1
+1207,GB,Eskdalemuir,Eskdalemuir,83222,1
+1208,GB,Exeter,Exeter,79830,1
+1209,GB,Fort William,Fort William,87138,1
+1210,GB,Glasgow,Glasgow,389337,4
+1211,GB,Glazebury,Glazebury,84035,1
+1212,GB,Grangemouth,Grangemouth,195983,2
+1213,GB,Great Dun Fell,Great Dun Fell,5640,1
+1214,GB,High Muffles,High Muffles,85026,1
+1215,GB,Honiton,Honiton,43520,1
+1216,GB,Horley,Horley,38638,1
+1217,GB,Hull,Hull,190946,1
+1218,GB,Inverness,Inverness,88432,1
+1219,GB,Ladybower,Ladybower,127441,1
+1220,GB,Leamington Spa,Leamington Spa,300739,2
+1221,GB,Leeds,Leeds,341694,2
+1222,GB,Leicester,Leicester,233153,2
+1223,GB,Leominster,Leominster,77741,1
+1224,GB,Lerwick,Lerwick,40875,1
+1225,GB,Lincoln,Lincoln,10363,1
+1226,GB,Liverpool,Liverpool,320715,3
+1227,GB,London,London,2018496,19
+1228,GB,Lough Navar,Lough Navar,113219,1
+1229,GB,Lullington Heath,Lullington Heath,126134,1
+1230,GB,Luton,Luton,35041,1
+1231,GB,Mace Head,Mace Head,38971,1
+1232,GB,Manchester,Manchester,391534,3
+1233,GB,Market Harborough,Market Harborough,44598,1
+1234,GB,Middlesbrough,Middlesbrough,188647,1
+1235,GB,Narberth,Narberth,199259,1
+1236,GB,Newcastle,Newcastle,223321,2
+1237,GB,Newport,Newport,115171,1
+1238,GB,Northampton,Northampton,13769,1
+1239,GB,North West & Merseyside,North West & Merseyside,105354,2
+1240,GB,Norwich,Norwich,170504,1
+1241,GB,Nottingham,Nottingham,298457,2
+1242,GB,Oldbury,Oldbury,34857,1
+1243,GB,Oxford,Oxford,159624,2
+1244,GB,Peebles,Peebles,87917,1
+1245,GB,Plymouth,Plymouth,176811,2
+1246,GB,Portsmouth,Portsmouth,106725,1
+1247,GB,Port Talbot,Port Talbot,212246,1
+1248,GB,Preston,Preston,151570,1
+1249,GB,Reading,Reading,172285,2
+1250,GB,Rochester,Rochester,214121,1
+1251,GB,Saltash,Saltash,82797,1
+1252,GB,Sandy,Sandy,102366,1
+1253,GB,Scunthorpe,Scunthorpe,112083,1
+1254,GB,Sheffield,Sheffield,205689,2
+1255,GB,Sibton,Sibton,43760,1
+1256,GB,Southampton,Southampton,274626,2
+1257,GB,South East,South East,64763,1
+1258,GB,South West,South West,63562,1
+1259,GB,Stanford-le-Hope,Stanford-le-Hope,117811,1
+1260,GB,Stockbridge,Stockbridge,214442,1
+1261,GB,Stockton-on-Tees,Stockton-on-Tees,204482,2
+1262,GB,Stoke-on-Trent,Stoke-on-Trent,235661,2
+1263,GB,Storrington,Storrington,15829,1
+1264,GB,St Osyth,St Osyth,87743,1
+1265,GB,Strath Vaich,Strath Vaich,35917,1
+1266,GB,Sunderland,Sunderland,177263,2
+1267,GB,Swansea,Swansea,123144,1
+1268,GB,Swfrryd,Swfrryd,37524,1
+1269,GB,Warrington,Warrington,124371,1
+1270,GB,West Midlands,West Midlands,176713,2
+1271,GB,Weybourne,Weybourne,42965,1
+1272,GB,Wicken Fen,Wicken Fen,128734,1
+1273,GB,Widnes,Widnes,28625,1
+1274,GB,Wigan,Wigan,145498,1
+1275,GB,Willenhall,Willenhall,89177,1
+1276,GB,Wrexham,Wrexham,121185,1
+1277,GB,Yarner Wood,Yarner Wood,86920,1
+1278,GB,York,York,245204,2
+1279,GB,Yorkshire,Yorkshire,80919,1
+1280,GB,Yorkshire & Humberside,Yorkshire & Humberside,63642,1
+1281,GH,Accra,Accra,126228,12
+1282,GI,Gibraltar,Gibraltar,21877,3
+1283,GI,UK Air Quality e-Reporting monitoring network for compliance & informative reporting,UK Air Quality e-Reporting monitoring network for compliance & informative reporting,18965,3
+1284,GN,Conakry,Conakry,107178,1
+1285,GR,ΑΤΤΙΚΗ,ΑΤΤΙΚΗ,673054,11
+1286,GR,ΔΥΤΙΚΗ ΕΛΛΑΔΑ,ΔΥΤΙΚΗ ΕΛΛΑΔΑ,92576,1
+1287,GR,ΘΕΣΣΑΛΙΑ,ΘΕΣΣΑΛΙΑ,55573,2
+1288,GR,ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ,ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ,276373,4
+1289,GR,ΣΤΕΡΕΑ ΕΛΛΑΔΑ,ΣΤΕΡΕΑ ΕΛΛΑΔΑ,72896,1
+1290,GT,Guatemala City,Guatemala City,100670,1
+1291,GT,N/A,N/A,10764,1
+1292,HK,Causeway Bay,Causeway Bay,114484,1
+1293,HK,Central,Central,114517,1
+1294,HK,Central & Western,Central & Western,98633,1
+1295,HK,Eastern,Eastern,97574,1
+1296,HK,Kowloon,Kowloon,311064,3
+1297,HK,New Territories,New Territories,642521,6
+1298,HK,N.T.,N.T.,116326,1
+1299,HK,Sai Kung,Sai Kung,117471,1
+1300,HK,Tap Mun Police Post,Tap Mun Police Post,114465,1
+1301,HR,Brodsko-posavska,Brodsko-posavska,128182,1
+1302,HR,Dr�avna mre�a za trajno pra\u001aenje kvalitete zraka - RH01,Dr�avna mre�a za trajno pra\u001aenje kvalitete zraka - RH01,104240,14
+1303,HR,Državna mreža za trajno praćenje kvalitete zraka - RH01,Državna mreža za trajno praćenje kvalitete zraka - RH01,18018,13
+1304,HR,Dubrovacko-neretvanska,Dubrovacko-neretvanska,55940,1
+1305,HR,Grad Zagreb,Grad Zagreb,201641,2
+1306,HR,Istarska,Istarska,95077,2
+1307,HR,Krapinsko-zagorska,Krapinsko-zagorska,146827,1
+1308,HR,Licko-senjska,Licko-senjska,99570,1
+1309,HR,Loški Potok,Loški Potok,35532,1
+1310,HR,Mjerna mre�a Cemex Hrvatska d.o.o. - SD02,Mjerna mre�a Cemex Hrvatska d.o.o. - SD02,11214,2
+1311,HR,Mjerna mreža Cemex Hrvatska d.o.o. - SD02,Mjerna mreža Cemex Hrvatska d.o.o. - SD02,1720,2
+1312,HR,Mre�a za pra\u001aenje kakvo\u001ae zraka grada Pule - IS02,Mre�a za pra\u001aenje kakvo\u001ae zraka grada Pule - IS02,2530,1
+1313,HR,Osjecko-baranjska,Osjecko-baranjska,261948,2
+1314,HR,Primorsko-goranska,Primorsko-goranska,129525,1
+1315,HR,Sisacko-moslavacka,Sisacko-moslavacka,84487,2
+1316,HR,Splitsko-dalmatinska,Splitsko-dalmatinska,160972,3
+1317,HR,Zagrebacka,Zagrebacka,62518,1
+1318,HU,Bács-Kiskun,Bács-Kiskun,44907,1
+1319,HU,Baranya,Baranya,289075,2
+1320,HU,Borsod-Abaúj-Zemplén,Borsod-Abaúj-Zemplén,595993,4
+1321,HU,Budapest,Budapest,893251,5
+1322,HU,Csongrád,Csongrád,191895,1
+1323,HU,Fejér,Fejér,210515,1
+1324,HU,Gyor-Moson-Sopron,Gyor-Moson-Sopron,617714,4
+1325,HU,Hajdú-Bihar,Hajdú-Bihar,189548,1
+1326,HU,Hungarian Air Quality Network,Hungarian Air Quality Network,173591,24
+1327,HU,Hungarian Regional Background Air Pollution  Monitoring Network,Hungarian Regional Background Air Pollution  Monitoring Network,1487,1
+1328,HU,Komárom-Esztergom,Komárom-Esztergom,366072,2
+1329,HU,Pest,Pest,186051,1
+1330,HU,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmár-Bereg,141429,1
+1331,HU,Veszprém,Veszprém,398681,2
+1332,ID,Bandung,Bandung,2877,1
+1333,ID,Jakarta,Jakarta,210898,2
+1334,ID,N/A,N/A,22059,2
+1335,IE,Banbridge,Banbridge,17389,1
+1336,IE,Cork City,Cork City,115581,2
+1337,IE,Dublin City,Dublin City,353188,8
+1338,IE,Dunlaoghaire-Rathdown,Dunlaoghaire-Rathdown,60243,2
+1339,IE,Fingal,Fingal,27294,1
+1340,IE,Ireland Air Quality e-Reporting monitoring network for compliance and informative reporting,Ireland Air Quality e-Reporting monitoring network for compliance and informative reporting,58076,12
+1341,IE,Kerry,Kerry,21864,1
+1342,IE,Kilkenny,Kilkenny,45758,1
+1343,IE,Laois,Laois,102549,2
+1344,IE,Limerick,Limerick,11758,1
+1345,IE,Longford,Longford,5,1
+1346,IE,Mayo,Mayo,45692,1
+1347,IE,Monaghan,Monaghan,61989,1
+1348,IE,South Dublin,South Dublin,26193,2
+1349,IE,unused,unused,27338,1
+1350,IE,Wexford,Wexford,29647,1
+1351,IE,Wicklow,Wicklow,29872,1
+1352,IL,Rehovot,Rehovot,1826,1
+1353,IL,איזור יהודה,איזור יהודה,10990226,156
+1354,IL,אילת,אילת,7609835,156
+1355,IL,גוש דן,גוש דן,16067985,158
+1356,IL,חיפה וקריות,חיפה וקריות,19550958,158
+1357,IL,ירושלים,ירושלים,15847288,158
+1358,IL,מישור החוף הדרומי,מישור החוף הדרומי,16974555,158
+1359,IL,עמק יזרעאל,עמק יזרעאל,10960337,156
+1360,IL,צפון,צפון,6944924,157
+1361,IL,צפון הנגב,צפון הנגב,16035554,157
+1362,IL,שומרון,שומרון,4798650,156
+1363,IL,שפלה פנימית,שפלה פנימית,14295103,156
+1364,IL,שרון,שרון,18215756,158
+1365,IL,תחנות ניידות,תחנות ניידות,14837370,156
+1366,IN,203,203,5841,1
+1367,IN,Administrative Block,Administrative Block,5874,1
+1368,IN,Agartala,Agartala,10788,1
+1369,IN,Agra,Agra,260003,2
+1370,IN,Ahmedabad,Ahmedabad,203179,1
+1371,IN,Aizawl,Aizawl,44724,1
+1372,IN,Ajmer,Ajmer,206069,1
+1373,IN,Al Afiya General Hospital,Al Afiya General Hospital,10363,1
+1374,IN,Alwar,Alwar,8693,2
+1375,IN, Alwar, Alwar,213033,2
+1376,IN,Alwar - Jaipur Rd,Alwar - Jaipur Rd,11115,1
+1377,IN,Amaravati,Amaravati,165614,1
+1378,IN,Ambala ,Ambala ,132784,1
+1379,IN,Ambuja Cement Colony,Ambuja Cement Colony,9406,1
+1380,IN,"AMBUJA CEMENTS LIMITED.
+(UNIT : BATHINDA)
+NEAR G.N.D.T.P.P","AMBUJA CEMENTS LIMITED.
+(UNIT : BATHINDA)
+NEAR G.N.D.T.P.P",9130,1
+1381,IN,Amritsar,Amritsar,218240,1
+1382,IN,Ankleshwar,Ankleshwar,119304,1
+1383,IN,Antodya Bhawan Building,Antodya Bhawan Building,10092,1
+1384,IN,Anuyogipuram,Anuyogipuram,4330,1
+1385,IN,Asanol,Asanol,8549,1
+1386,IN,Asansol,Asansol,179371,2
+1387,IN,A.S. College,A.S. College,10420,1
+1388,IN,At Plot 511,At Plot 511,9725,1
+1389,IN,Auditorium Hall,Auditorium Hall,10983,1
+1390,IN,Aurangabad,Aurangabad,198851,1
+1391,IN,Bagalkot,Bagalkot,46107,1
+1392,IN,Baghpat,Baghpat,129854,1
+1393,IN,Bahadurgarh ,Bahadurgarh ,132615,1
+1394,IN,Ballabgarh,Ballabgarh,127415,1
+1395,IN,Bathinda ,Bathinda ,142051,1
+1396,IN,BDPO Office,BDPO Office,10357,1
+1397,IN,Bengaluru,Bengaluru,1848117,18
+1398,IN,Bhiwadi,Bhiwadi,206651,2
+1399,IN,Bhiwani,Bhiwani,118654,1
+1400,IN,Bhopal,Bhopal,96174,1
+1401,IN,Bidar,Bidar,2513,1
+1402,IN,Birla Colony Campus,Birla Colony Campus,5032,1
+1403,IN,Brajrajnagar,Brajrajnagar,163178,1
+1404,IN,Bulandshahr,Bulandshahr,153284,1
+1405,IN,Bulding Of Ankleshwar Industries Association,Bulding Of Ankleshwar Industries Association,9429,1
+1406,IN,CAAQMS,CAAQMS,6731,1
+1407,IN,CAAQMS- Maharashtra Pollution Control Board,CAAQMS- Maharashtra Pollution Control Board,30225,3
+1408,IN,CAAQMS-Maharashtra Pollution Control Board,CAAQMS-Maharashtra Pollution Control Board,19173,2
+1409,IN,CAAQMS MPCB,CAAQMS MPCB,9811,1
+1410,IN,CAAQMS-MPCB,CAAQMS-MPCB,10236,1
+1411,IN,CAAQM Station,CAAQM Station,10813,1
+1412,IN,Center of Excellence (WTP side garden,Center of Excellence (WTP side garden,9346,1
+1413,IN,Chamarajanagar,Chamarajanagar,30987,1
+1414,IN,Chandigarh,Chandigarh,105431,1
+1415,IN,Chandrapur,Chandrapur,543016,3
+1416,IN,Charkhi Dadri,Charkhi Dadri,29181,1
+1417,IN,Chennai,Chennai,982349,13
+1418,IN,Chennai ,Chennai ,90,1
+1419,IN,Chikkaballapur,Chikkaballapur,148905,1
+1420,IN,Chikkamagaluru,Chikkamagaluru,49837,1
+1421,IN,Circuit House,Circuit House,10941,1
+1422,IN,Coimbatore,Coimbatore,117358,1
+1423,IN,Collectorate Campus,Collectorate Campus,1821,1
+1424,IN,Damoh,Damoh,75816,1
+1425,IN,Davanagere,Davanagere,1302,1
+1426,IN,Delhi,Delhi,6911312,75
+1427,IN,Dewas,Dewas,221965,1
+1428,IN,Dharuhera,Dharuhera,126195,1
+1429,IN,Durgapur,Durgapur,36823,1
+1430,IN,"Eicher Tractor (TMTL)
+Plot No. 1","Eicher Tractor (TMTL)
+Plot No. 1",9559,1
+1431,IN,Eloor,Eloor,134323,1
+1432,IN,Ernakulam,Ernakulam,44998,1
+1433,IN,F-5,F-5,10419,1
+1434,IN,Faridabad,Faridabad,373503,7
+1435,IN,Fatehabad ,Fatehabad ,127144,1
+1436,IN,Gadag,Gadag,2579,1
+1437,IN,Gandhinagar,Gandhinagar,54207,1
+1438,IN,GandhiNagar,GandhiNagar,76969,1
+1439,IN,Ganga Jalpariyojan,Ganga Jalpariyojan,5492,1
+1440,IN,Gangapur Road,Gangapur Road,5538,1
+1441,IN,Gate No.3,Gate No.3,10572,1
+1442,IN,Gaya,Gaya,291608,4
+1443,IN,Ghaziabad,Ghaziabad,561123,5
+1444,IN,Government District Hospital,Government District Hospital,10741,1
+1445,IN,Government PU college ,Government PU college ,8352,1
+1446,IN,Government School,Government School,1033,1
+1447,IN,Govt. K.P. College,Govt. K.P. College,10167,1
+1448,IN,Greater Noida,Greater Noida,294454,2
+1449,IN,Gummidipoondi,Gummidipoondi,1693,1
+1450,IN,Gurgaon,Gurgaon,153776,2
+1451,IN,Gurugram,Gurugram,320649,6
+1452,IN,Guwahati,Guwahati,133482,2
+1453,IN,GVMC Building,GVMC Building,9720,1
+1454,IN,Gwalior,Gwalior,96576,2
+1455,IN,Hajipur,Hajipur,48889,1
+1456,IN,Haldia,Haldia,227656,3
+1457,IN,Hapur,Hapur,103824,1
+1458,IN,Hisar,Hisar,134668,1
+1459,IN,Howrah,Howrah,512417,3
+1460,IN,Hspcb caaqms station,Hspcb caaqms station,10776,1
+1461,IN,HSPCB CAAQM Station,HSPCB CAAQM Station,10934,1
+1462,IN,Hubballi,Hubballi,97798,1
+1463,IN,Hyderabad,Hyderabad,1485631,10
+1464,IN,India,India,42486,5
+1465,IN,Indian Association for the Cultivation Of Science,Indian Association for the Cultivation Of Science,10863,1
+1466,IN,Indira Colony Vistar,Indira Colony Vistar,10901,1
+1467,IN,Indore,Indore,98489,1
+1468,IN,Inside Govt ITI College Premise,Inside Govt ITI College Premise,7372,1
+1469,IN,Jabalpur,Jabalpur,101933,1
+1470,IN,Jaipur,Jaipur,704958,4
+1471,IN,Jalandhar,Jalandhar,162886,1
+1472,IN,JalKalVibhag,JalKalVibhag,6562,1
+1473,IN,"
+Jawaharlal Nehru Stadium","
+Jawaharlal Nehru Stadium",9204,1
+1474,IN,Jind,Jind,132128,1
+1475,IN,Jodhpur,Jodhpur,387467,2
+1476,IN,Jorapokhar,Jorapokhar,200194,1
+1477,IN,Kaithal,Kaithal,129333,1
+1478,IN,Kalaburagi,Kalaburagi,107344,1
+1479,IN,Kalyan,Kalyan,111455,1
+1480,IN,Kannur,Kannur,48998,1
+1481,IN,Kanpur,Kanpur,326121,4
+1482,IN,Karnal,Karnal,115609,1
+1483,IN,Katni,Katni,102269,1
+1484,IN,KERALA STATE POLLUTION CONTROL BOARD,KERALA STATE POLLUTION CONTROL BOARD,9565,1
+1485,IN,"Kerala State Pollution Control Board
+ESIC Hospital","Kerala State Pollution Control Board
+ESIC Hospital",10224,1
+1486,IN,Khanna,Khanna,191738,1
+1487,IN,"
+Khutala","
+Khutala",6595,1
+1488,IN,K J Somaiya Hospital,K J Somaiya Hospital,6633,1
+1489,IN,Kochi,Kochi,58289,1
+1490,IN,Kohima,Kohima,17022,1
+1491,IN,Kolar,Kolar,1436,1
+1492,IN,Kolkata,Kolkata,909782,13
+1493,IN,Kollam,Kollam,36512,1
+1494,IN,Koppal,Koppal,5693,1
+1495,IN,Kota,Kota,221917,1
+1496,IN,Kozhikode,Kozhikode,59820,1
+1497,IN,KSPCB CAAQMS Hubbali,KSPCB CAAQMS Hubbali,721,1
+1498,IN,Kurla,Kurla,1456,1
+1499,IN,Kurukshetra ,Kurukshetra ,132102,2
+1500,IN,Loni Dehat,Loni Dehat,9535,2
+1501,IN,Loni_Dehat,Loni_Dehat,31315,1
+1502,IN,Lucknow,Lucknow,929584,9
+1503,IN,Ludhiana,Ludhiana,194282,1
+1504,IN,Madikeri,Madikeri,10188,1
+1505,IN,Mahanadi Coal fields  Limited,Mahanadi Coal fields  Limited,9562,1
+1506,IN,Maharashtra Pollution Control Board,Maharashtra Pollution Control Board,17227,2
+1507,IN,Mahatma Gandhi Insititute for Combating Climate Change,Mahatma Gandhi Insititute for Combating Climate Change,7836,1
+1508,IN,Maihar,Maihar,98682,1
+1509,IN,Mandideep,Mandideep,202944,1
+1510,IN,Mandi Gobindgarh,Mandi Gobindgarh,213802,1
+1511,IN,Mandikhera,Mandikhera,124480,2
+1512,IN,Manesar ,Manesar ,136796,2
+1513,IN,Mangalore,Mangalore,2511,1
+1514,IN,MCGM,MCGM,5056,1
+1515,IN,Meerut,Meerut,227249,3
+1516,IN,Mini Secretariat,Mini Secretariat,8092,1
+1517,IN,Mini secretariat 301/13,Mini secretariat 301/13,10330,1
+1518,IN,MINI  SECRETARIATE OFFICE  3RD FLOOR  DISTT. BHIWANI,MINI  SECRETARIATE OFFICE  3RD FLOOR  DISTT. BHIWANI,10384,1
+1519,IN,MKN Rd,MKN Rd,9129,1
+1520,IN,Moradabad,Moradabad,134898,1
+1521,IN,"MPPCB CAAQMS 
+2nd floor of facility center mahakal temple 
+Jaisinghpura","MPPCB CAAQMS 
+2nd floor of facility center mahakal temple 
+Jaisinghpura",10257,1
+1522,IN,Mumbai,Mumbai,1661271,24
+1523,IN,MUNICIPAL GUEST HOUSE COMPOUND,MUNICIPAL GUEST HOUSE COMPOUND,337,1
+1524,IN,Muzaffarnagar,Muzaffarnagar,150347,1
+1525,IN,Muzaffarpur,Muzaffarpur,298981,4
+1526,IN,Mysore Rd,Mysore Rd,9397,1
+1527,IN,Mysuru,Mysuru,92087,1
+1528,IN,Nagpur,Nagpur,122455,1
+1529,IN,Nandesari,Nandesari,39795,1
+1530,IN,Narnaul,Narnaul,119905,2
+1531,IN,Nashik,Nashik,220191,1
+1532,IN,"
+National Stadium","
+National Stadium",8170,1
+1533,IN,Navi Mumbai,Navi Mumbai,330421,5
+1534,IN,Near Agarsen Ground,Near Agarsen Ground,11005,1
+1535,IN,Near Gate no 3,Near Gate no 3,9209,1
+1536,IN,Near GNC Toll Gate,Near GNC Toll Gate,10679,1
+1537,IN,Near Main Gate Number 7,Near Main Gate Number 7,10082,1
+1538,IN,Near musical Fountain ,Near musical Fountain ,9933,1
+1539,IN,New Delhi,New Delhi,9510,3
+1540,IN,Noida,Noida,653685,6
+1541,IN,On the terrace of Water distribution Center,On the terrace of Water distribution Center,8764,1
+1542,IN,Opp.: CBI Office,Opp.: CBI Office,9389,1
+1543,IN,Ordali Bazar,Ordali Bazar,9156,1
+1544,IN,"OSPCB CAAQMS-1
+Mahanadi Coal fields Limited
+Near Senior transit camp
+Dera ","OSPCB CAAQMS-1
+Mahanadi Coal fields Limited
+Near Senior transit camp
+Dera ",8568,1
+1545,IN,Pali,Pali,222457,1
+1546,IN,Palwal ,Palwal ,119993,2
+1547,IN,Panchayat Bhawan,Panchayat Bhawan,10894,1
+1548,IN,Panchkula,Panchkula,339546,2
+1549,IN,Panipat,Panipat,128931,2
+1550,IN,Paravattani,Paravattani,90,1
+1551,IN,Patancheru,Patancheru,11103,1
+1552,IN,Patiala,Patiala,194726,1
+1553,IN,Patna,Patna,503397,8
+1554,IN,Patparganj ,Patparganj ,7214,1
+1555,IN,Phase-lll,Phase-lll,9913,1
+1556,IN,Pithampur,Pithampur,209888,1
+1557,IN,Plot no.- 57,Plot no.- 57,10675,1
+1558,IN,POLLUTION CONTROL BOARD ,POLLUTION CONTROL BOARD ,8177,1
+1559,IN,Puducherry,Puducherry,1281,1
+1560,IN,Pune,Pune,403277,10
+1561,IN,Raichur,Raichur,5867,1
+1562,IN,Rajamahendravaram,Rajamahendravaram,204192,1
+1563,IN,Rajiv Gandhi Institute of Chest Diseases,Rajiv Gandhi Institute of Chest Diseases,10872,1
+1564,IN,Ramanagara,Ramanagara,92525,1
+1565,IN,Ratlam,Ratlam,70801,1
+1566,IN,Regional Office,Regional Office,6463,1
+1567,IN,Regional Office Cum Laboratory,Regional Office Cum Laboratory,10483,1
+1568,IN,Rohtak,Rohtak,296454,3
+1569,IN,Rooftop of MV Block,Rooftop of MV Block,9927,1
+1570,IN,Rupnagar,Rupnagar,146624,2
+1571,IN,Sagar,Sagar,45980,1
+1572,IN,Saraswati Block Top Floor,Saraswati Block Top Floor,10970,1
+1573,IN,Sardar Patel Road,Sardar Patel Road,4589,1
+1574,IN,Satna,Satna,103436,3
+1575,IN,SD College,SD College,5652,1
+1576,IN,Sector 18,Sector 18,10719,1
+1577,IN, Sector 9, Sector 9,8881,1
+1578,IN,Sector E,Sector E,11250,1
+1579,IN,S.E. POLICE CONTROL ROOM,S.E. POLICE CONTROL ROOM,3923,1
+1580,IN,Shalini Playground 5th Block ,Shalini Playground 5th Block ,10367,1
+1581,IN,Shastri Nagar,Shastri Nagar,11408,1
+1582,IN,Shillong,Shillong,81908,1
+1583,IN,Shivamogga,Shivamogga,9872,1
+1584,IN,Shop No-05,Shop No-05,6877,1
+1585,IN,Siliguri,Siliguri,131593,1
+1586,IN,Silkboard Junction 323,Silkboard Junction 323,7533,1
+1587,IN,Singrauli,Singrauli,169671,1
+1588,IN,Sirsa ,Sirsa ,131112,1
+1589,IN,Solapur,Solapur,308892,2
+1590,IN,Sonipat,Sonipat,124094,1
+1591,IN,Sri Venkateswara Anam Kala Kendram,Sri Venkateswara Anam Kala Kendram,11311,1
+1592,IN,"
+Suraj Kund Road","
+Suraj Kund Road",7777,1
+1593,IN,Surya Kiran Bhawan,Surya Kiran Bhawan,6681,1
+1594,IN,Talcher,Talcher,161365,1
+1595,IN,Thane,Thane,174121,1
+1596,IN,The rooftop of Municipality Building,The rooftop of Municipality Building,10206,1
+1597,IN,Thiruvananthapuram,Thiruvananthapuram,278821,2
+1598,IN,Thoothukudi,Thoothukudi,7783,1
+1599,IN,Thrissur,Thrissur,14689,1
+1600,IN,Tirupati,Tirupati,232238,1
+1601,IN,Tiwani Chawl,Tiwani Chawl,3474,1
+1602,IN,Top Floor,Top Floor,10458,1
+1603,IN,Udaipur,Udaipur,219219,1
+1604,IN,Ujjain,Ujjain,218010,1
+1605,IN,Vapi,Vapi,124170,1
+1606,IN,Varanasi,Varanasi,359209,2
+1607,IN,Vatva,Vatva,123291,1
+1608,IN,Vijayapura,Vijayapura,46931,1
+1609,IN,Vijayawada,Vijayawada,92259,1
+1610,IN,Visakhapatnam,Visakhapatnam,201378,1
+1611,IN,Vivek Vihar,Vivek Vihar,8053,1
+1612,IN,West Bengal Pollution Control Board,West Bengal Pollution Control Board,9404,1
+1613,IN,WEST BENGAL POLLUTION CONTROL BOARD,WEST BENGAL POLLUTION CONTROL BOARD,18929,2
+1614,IN,Yadgir,Yadgir,80977,1
+1615,IN,Yamunanagar,Yamunanagar,119189,1
+1616,IN,YamunaNagar,YamunaNagar,3144,1
+1617,IN,Yamuna Nagar,Yamuna Nagar,7018,1
+1618,IQ,Baghdad,Baghdad,43230,1
+1619,IS,Akureyri,Akureyri,39933,1
+1620,IS,Grundartangi,Grundartangi,119967,3
+1621,IS,Hafnarfjörður,Hafnarfjörður,94207,2
+1622,IS,Húsavík,Húsavík,44805,2
+1623,IS,Kópavogur,Kópavogur,46815,1
+1624,IS,Reyðarfjörður,Reyðarfjörður,36341,4
+1625,IS,Reykjanesbær,Reykjanesbær,13723,1
+1626,IS,Reykjavík,Reykjavík,125082,4
+1627,IT,Alessandria,Alessandria,75878,3
+1628,IT,ALFONSINE,ALFONSINE,39689,1
+1629,IT,Ancona,Ancona,261910,5
+1630,IT,Arezzo,Arezzo,95502,3
+1631,IT,Ascoli Piceno,Ascoli Piceno,63950,3
+1632,IT,Asti,Asti,92978,3
+1633,IT,Avellino,Avellino,31749,1
+1634,IT,Bari,Bari,400314,13
+1635,IT,Barletta-Andria-Trani,Barletta-Andria-Trani,39009,2
+1636,IT,Belluno,Belluno,36607,3
+1637,IT,Benevento,Benevento,48665,1
+1638,IT,Bergamo,Bergamo,233844,7
+1639,IT,BESENZONE,BESENZONE,39893,1
+1640,IT,Biella,Biella,108428,3
+1641,IT,Bologna,Bologna,142723,7
+1642,IT,BOLOGNA,BOLOGNA,118272,3
+1643,IT,Bolzano/Bozen,Bolzano/Bozen,3823,9
+1644,IT,Brescia,Brescia,258384,9
+1645,IT,Brindisi,Brindisi,408368,13
+1646,IT,Cagliari,Cagliari,250069,7
+1647,IT,Campobasso,Campobasso,24724,3
+1648,IT,Carbonia-Iglesias,Carbonia-Iglesias,44251,1
+1649,IT,CARPI,CARPI,40560,1
+1650,IT,Caserta,Caserta,130407,3
+1651,IT,CASTELLARANO,CASTELLARANO,39905,1
+1652,IT,Catanzaro,Catanzaro,217192,5
+1653,IT,CENTO,CENTO,39209,1
+1654,IT,CERVIA,CERVIA,40077,1
+1655,IT,CESENA,CESENA,18236,1
+1656,IT,Chiesanuova,Chiesanuova,18635,1
+1657,IT,Civitavecchia,Civitavecchia,328898,10
+1658,IT,COLORNO,COLORNO,40168,1
+1659,IT,Como,Como,63104,2
+1660,IT,CORTE BRUGNATELLA,CORTE BRUGNATELLA,39456,1
+1661,IT,Cosenza,Cosenza,216422,5
+1662,IT,Cremona,Cremona,161219,5
+1663,IT,Crotone,Crotone,134914,3
+1664,IT,Cuneo,Cuneo,158263,5
+1665,IT,FAENZA,FAENZA,40348,1
+1666,IT,Ferrara,Ferrara,108978,5
+1667,IT,FERRARA,FERRARA,77764,2
+1668,IT,FIORANO MODENESE,FIORANO MODENESE,36878,1
+1669,IT,Firenze,Firenze,157779,6
+1670,IT,Foggia,Foggia,99364,4
+1671,IT,FORLI',FORLI',74376,2
+1672,IT,Forli'-Cesena,Forli'-Cesena,95619,5
+1673,IT,Frosinone,Frosinone,523173,16
+1674,IT,Genova,Genova,191,1
+1675,IT,Grosseto,Grosseto,47592,2
+1676,IT,GUASTALLA,GUASTALLA,40399,1
+1677,IT,IMOLA,IMOLA,35813,1
+1678,IT,JOLANDA DI SAVOIA,JOLANDA DI SAVOIA,39298,1
+1679,IT,LANGHIRANO,LANGHIRANO,40131,1
+1680,IT,L'Aquila,L'Aquila,46427,1
+1681,IT,Latina,Latina,302347,10
+1682,IT,Lecce,Lecce,196516,8
+1683,IT,Lecco,Lecco,183830,6
+1684,IT,Livorno,Livorno,129036,5
+1685,IT,Lodi,Lodi,211719,7
+1686,IT,Lucca,Lucca,126940,6
+1687,IT,LUGAGNANO VAL D'ARDA,LUGAGNANO VAL D'ARDA,31292,1
+1688,IT,Macerata,Macerata,83707,2
+1689,IT,Mantova,Mantova,171696,6
+1690,IT,Massa-Carrara,Massa-Carrara,30750,2
+1691,IT,Matera,Matera,160006,3
+1692,IT,MEZZANI,MEZZANI,16729,1
+1693,IT,Milano,Milano,376063,13
+1694,IT,MIRANDOLA,MIRANDOLA,38361,1
+1695,IT,Modena,Modena,123995,6
+1696,IT,MODENA,MODENA,75236,2
+1697,IT,MOLINELLA,MOLINELLA,38250,1
+1698,IT,Monza E Della Brianza,Monza E Della Brianza,91176,3
+1699,IT,Napoli,Napoli,289643,6
+1700,IT,Novara,Novara,110310,3
+1701,IT,Nuoro,Nuoro,60483,2
+1702,IT,Olbia-Tempio,Olbia-Tempio,46939,2
+1703,IT,Oristano,Oristano,43009,1
+1704,IT,OSTELLATO,OSTELLATO,38997,1
+1705,IT,Padova,Padova,62422,5
+1706,IT,Parma,Parma,85815,4
+1707,IT,PARMA,PARMA,93211,3
+1708,IT,Pavia,Pavia,228016,7
+1709,IT,Perugia,Perugia,408563,13
+1710,IT,Pesaro E Urbino,Pesaro E Urbino,140220,3
+1711,IT,Pescara,Pescara,158518,4
+1712,IT,Piacenza,Piacenza,115442,5
+1713,IT,PIACENZA,PIACENZA,129031,4
+1714,IT,Pisa,Pisa,128186,4
+1715,IT,Pistoia,Pistoia,46337,2
+1716,IT,PORRETTA TERME,PORRETTA TERME,36518,1
+1717,IT,Potenza,Potenza,513463,12
+1718,IT,Prato,Prato,48616,2
+1719,IT,Ravenna,Ravenna,99833,4
+1720,IT,RAVENNA,RAVENNA,99555,2
+1721,IT,Reggio Di Calabria,Reggio Di Calabria,226211,5
+1722,IT,Reggio Nell'Emilia,Reggio Nell'Emilia,113080,5
+1723,IT,REGGIO NELL'EMILIA,REGGIO NELL'EMILIA,64135,2
+1724,IT,Rieti,Rieti,193113,4
+1725,IT,Rimini,Rimini,101497,4
+1726,IT,RIMINI,RIMINI,19877,1
+1727,IT,Roma,Roma,1652305,46
+1728,IT,Rovigo,Rovigo,40173,4
+1729,IT,Salerno,Salerno,96733,2
+1730,IT,SAN CLEMENTE,SAN CLEMENTE,39349,1
+1731,IT,SAN LAZZARO DI SAVENA,SAN LAZZARO DI SAVENA,833,1
+1732,IT,SAN LEO,SAN LEO,38454,1
+1733,IT,Sassari,Sassari,123490,4
+1734,IT,SASSUOLO,SASSUOLO,40509,1
+1735,IT,SAVIGNANO SUL RUBICONE,SAVIGNANO SUL RUBICONE,38965,1
+1736,IT,Siena,Siena,47020,2
+1737,IT,SOGLIANO AL RUBICONE,SOGLIANO AL RUBICONE,37064,1
+1738,IT,Sondrio,Sondrio,148004,4
+1739,IT,SORBOLO,SORBOLO,16763,1
+1740,IT,Taranto,Taranto,350864,11
+1741,IT,Teramo,Teramo,31691,1
+1742,IT,Terni,Terni,180284,6
+1743,IT,Torino,Torino,452992,14
+1744,IT,Trento,Trento,339370,7
+1745,IT,Treviso,Treviso,37084,3
+1746,IT,unused,unused,30400,1
+1747,IT,Varese,Varese,186199,5
+1748,IT,Venezia,Venezia,57433,5
+1749,IT,Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,108719,4
+1750,IT,Vercelli,Vercelli,126238,4
+1751,IT,Verona,Verona,23059,4
+1752,IT,VERUCCHIO,VERUCCHIO,830,1
+1753,IT,Vibo Valentia,Vibo Valentia,73164,2
+1754,IT,Vicenza,Vicenza,40020,7
+1755,IT,VILLA MINOZZO,VILLA MINOZZO,39220,1
+1756,IT,Viterbo,Viterbo,217038,5
+1757,IZ,N/A,N/A,9673,1
+1758,JO,Amman,Amman,53119,1
+1759,JO,N/A,N/A,8578,1
+1760,KE,Nairobi,Nairobi,2842,2
+1761,KG,Bishkek,Bishkek,44306,1
+1762,KG,N/A,N/A,13480,1
+1763,KU,N/A,N/A,15476,1
+1764,KV,N/A,N/A,15590,1
+1765,KW,Kuwait City,Kuwait City,54879,1
+1766,KZ,Astana,Astana,40168,1
+1767,KZ,N/A,N/A,9630,1
+1768,LA,N/A,N/A,12705,1
+1769,LA,Vientiane,Vientiane,32863,1
+1770,LK,Colombo,Colombo,44336,1
+1771,LT,Alytus,Alytus,9068,1
+1772,LT,Kaunas,Kaunas,168431,4
+1773,LT,Klaipeda,Klaipeda,83137,2
+1774,LT,Panevežys,Panevežys,34057,1
+1775,LT,Šiauliai,Šiauliai,73113,2
+1776,LT,Telšiai,Telšiai,64236,2
+1777,LT,Utena,Utena,20102,1
+1778,LT,Vilnius,Vilnius,140522,4
+1779,LU,Diekirch,Diekirch,133055,2
+1780,LU,Grevenmacher,Grevenmacher,171840,1
+1781,LU,Luxemburg,Luxemburg,554881,4
+1782,LV,Liepaja,Liepaja,128773,1
+1783,LV,Rezekne,Rezekne,65139,1
+1784,LV,Riga,Riga,89814,1
+1785,LV,Ventspils,Ventspils,86966,1
+1786,MA,N/A,N/A,2080,1
+1787,MG,N/A,N/A,11455,1
+1788,MK,Aerodrom Municipality,Aerodrom Municipality,164829,1
+1789,MK,Bitola Municipality,Bitola Municipality,319048,2
+1790,MK,Cair Municipality,Cair Municipality,118193,1
+1791,MK,Centar Municipality,Centar Municipality,69189,1
+1792,MK,Gazi Baba Municipality,Gazi Baba Municipality,122174,1
+1793,MK,Ilinden Municipality,Ilinden Municipality,154557,1
+1794,MK,Karpos Municipality,Karpos Municipality,83703,1
+1795,MK,Kavadarci Municipality,Kavadarci Municipality,154844,1
+1796,MK,Kicevo Municipality,Kicevo Municipality,142322,1
+1797,MK,Kocani Municipality,Kocani Municipality,146034,1
+1798,MK,Kumanovo Municipality,Kumanovo Municipality,170223,1
+1799,MK,Mavrovo and Rostusa Municipality,Mavrovo and Rostusa Municipality,120172,1
+1800,MK,MK005A,MK005A,14016,15
+1801,MK,State Air Quality Monitoring Network,State Air Quality Monitoring Network,162269,15
+1802,MK,Tetovo Municipality,Tetovo Municipality,172681,1
+1803,MK,Veles Municipality,Veles Municipality,158569,1
+1804,ML,Bamako,Bamako,26138,1
+1805,MM,N/A,N/A,43,1
+1806,MM,Rangoon,Rangoon,59115,1
+1807,MN,Erdenet city,Erdenet city,301,2
+1808,MN,Ulaanbaatar,Ulaanbaatar,3410214,18
+1809,MN,Алтай хот,Алтай хот,265213,1
+1810,MN,Арвайхээр хот,Арвайхээр хот,243211,1
+1811,MN,Баруун-Урт хот,Баруун-Урт хот,373702,1
+1812,MN,Баянхонгор хот,Баянхонгор хот,35204,1
+1813,MN,Булган хот,Булган хот,199253,1
+1814,MN,Даланзадгад хот,Даланзадгад хот,364102,1
+1815,MN,Дархан хот,Дархан хот,309517,1
+1816,MN,Зуунмод хот,Зуунмод хот,199441,1
+1817,MN,Мандалговь хот,Мандалговь хот,265109,1
+1818,MN,Мандал сум,Мандал сум,265175,1
+1819,MN,Мөрөн хот,Мөрөн хот,4009,1
+1820,MN,Өлгий хот,Өлгий хот,286315,1
+1821,MN,Сайншанд хот,Сайншанд хот,210579,1
+1822,MN,Сүхбаатар хот,Сүхбаатар хот,265395,1
+1823,MN,Улаангом хот,Улаангом хот,353485,1
+1824,MN,Улиастай хот,Улиастай хот,210564,1
+1825,MN,Ховд хот,Ховд хот,430165,1
+1826,MN,Цэцэрлэг хот,Цэцэрлэг хот,396795,1
+1827,MN,Чингис хот,Чингис хот,111652,1
+1828,MN,Чойбалсан хот,Чойбалсан хот,396818,1
+1829,MN,Чойр хот,Чойр хот,242803,1
+1830,MN,Шарын гол сум,Шарын гол сум,2226,1
+1831,MN,Эрдэнэт хот,Эрдэнэт хот,530309,2
+1832,MT,Attard,Attard,82016,1
+1833,MT,Gharb,Gharb,164801,1
+1834,MT,Msida,Msida,195196,1
+1835,MT,Zejtun (Citta' Beland),Zejtun (Citta' Beland),102348,1
+1836,MX,Abasolo,Abasolo,108995,1
+1837,MX,Aguascalientes,Aguascalientes,114086,1
+1838,MX,Álvaro Obregón,Álvaro Obregón,709705,1
+1839,MX,Apizaco,Apizaco,617922,1
+1840,MX,Apodaca,Apodaca,426425,1
+1841,MX,Atitalaquia,Atitalaquia,712934,1
+1842,MX,Atotonilco de Tula,Atotonilco de Tula,719402,1
+1843,MX,Azcapotzalco,Azcapotzalco,613580,1
+1844,MX,Azteca,Azteca,612560,1
+1845,MX,BAJA CALIFORNIA NORTE,BAJA CALIFORNIA NORTE,104211,3
+1846,MX,Benito Juárez,Benito Juárez,551288,1
+1847,MX,Cadereyta Jiménez,Cadereyta Jiménez,618393,1
+1848,MX,Celaya,Celaya,1176746,3
+1849,MX,Chihuahua,Chihuahua,1173805,2
+1850,MX,"Col. Indeco, Cd. Industrial","Col. Indeco, Cd. Industrial",9004,1
+1851,MX,Coronango,Coronango,473485,1
+1852,MX,Coyoacán,Coyoacán,1193360,2
+1853,MX,Cuajimalpa de Morelos,Cuajimalpa de Morelos,713265,1
+1854,MX,Cuernavaca,Cuernavaca,727579,1
+1855,MX,DISTRITO FEDERAL,DISTRITO FEDERAL,1193261,17
+1856,MX,Durango,Durango,409226,3
+1857,MX,Ecatepec de Morelos,Ecatepec de Morelos,676051,1
+1858,MX,El Salto,El Salto,145956,1
+1859,MX,Fraccionamiento Real Universidad,Fraccionamiento Real Universidad,112538,1
+1860,MX,García,García,612133,1
+1861,MX,General Escobedo,General Escobedo,218249,1
+1862,MX,Gómez Palacio,Gómez Palacio,390364,2
+1863,MX,Guadalajara,Guadalajara,1567598,3
+1864,MX,Guadalupe,Guadalupe,578984,1
+1865,MX,Guanajuato,Guanajuato,113325,1
+1866,MX,GUANAJUATO,GUANAJUATO,1657993,50
+1867,MX,Gustavo A. Madero,Gustavo A. Madero,482164,1
+1868,MX,Huichapan,Huichapan,571116,1
+1869,MX,Irapuato,Irapuato,1606853,3
+1870,MX,Izcalli Cuahutémoc V,Izcalli Cuahutémoc V,614100,1
+1871,MX,Iztapalapa,Iztapalapa,1219409,2
+1872,MX,JALISCO,JALISCO,88854,10
+1873,MX,Juárez,Juárez,828065,2
+1874,MX,León,León,1681073,3
+1875,MX,Lerdo,Lerdo,265331,2
+1876,MX,Lomas Lindas,Lomas Lindas,433325,1
+1877,MX,Mérida,Mérida,220746,1
+1878,MX,Mexicali,Mexicali,676343,3
+1879,MX,MEXICO STATE,MEXICO STATE,1289675,27
+1880,MX,Miguel Hidalgo,Miguel Hidalgo,481544,1
+1881,MX,Minatitlán,Minatitlán,346056,1
+1882,MX,Monclova,Monclova,431785,1
+1883,MX,Monterrey,Monterrey,1265187,3
+1884,MX,Morelia,Morelia,5941,1
+1885,MX,Naucalpan de Juárez,Naucalpan de Juárez,601593,1
+1886,MX,Nezahualcóyotl,Nezahualcóyotl,1085172,2
+1887,MX,Nogales,Nogales,48659,1
+1888,MX,Nueva Oxtotitlán,Nueva Oxtotitlán,112948,1
+1889,MX,NUEVO LEON,NUEVO LEON,21640,7
+1890,MX,Oaxaca de Juárez,Oaxaca de Juárez,224690,1
+1891,MX,Pachuca de Soto,Pachuca de Soto,1491922,2
+1892,MX,Pesquería,Pesquería,585492,1
+1893,MX,Poza Rica de Hidalgo,Poza Rica de Hidalgo,487919,1
+1894,MX,Prados de Villasunción,Prados de Villasunción,505115,1
+1895,MX,Puebla,Puebla,1562096,3
+1896,MX,Purísima del Rincón,Purísima del Rincón,198052,1
+1897,MX,Salamanca,Salamanca,1662227,3
+1898,MX,Saltillo,Saltillo,272608,1
+1899,MX,San Cristóbal Huichochitlán,San Cristóbal Huichochitlán,526430,1
+1900,MX,San Juan,San Juan,463000,1
+1901,MX,San Luis de la Paz,San Luis de la Paz,122988,1
+1902,MX,San Luis Potosí,San Luis Potosí,1848711,4
+1903,MX,San Miguel de Allende,San Miguel de Allende,101449,1
+1904,MX,San Nicolás de los Garza,San Nicolás de los Garza,737715,2
+1905,MX,San Pedro Garza García,San Pedro Garza García,639287,1
+1906,MX,Santa Catarina,Santa Catarina,721637,1
+1907,MX,Santa Elena,Santa Elena,191226,1
+1908,MX,Silao de la Victoria,Silao de la Victoria,346069,1
+1909,MX,Tecate,Tecate,24556,1
+1910,MX,Tepeapulco,Tepeapulco,682348,1
+1911,MX,Tepeji del Río de Ocampo,Tepeji del Río de Ocampo,708097,1
+1912,MX,Tepic,Tepic,668232,1
+1913,MX,Tepotzotlán,Tepotzotlán,483936,1
+1914,MX,Tijuana,Tijuana,612699,2
+1915,MX,Tizayuca,Tizayuca,715428,1
+1916,MX,Tláhuac,Tláhuac,535415,1
+1917,MX,Tlajomulco de Zúñiga,Tlajomulco de Zúñiga,215041,1
+1918,MX,Tlalnepantla de Baz,Tlalnepantla de Baz,981260,2
+1919,MX,Tlaquepaque Centro,Tlaquepaque Centro,245185,1
+1920,MX,Toluca,Toluca,673777,1
+1921,MX,Tonalá,Tonalá,334703,1
+1922,MX,Tula de Allende,Tula de Allende,632688,1
+1923,MX,Tulancingo de Bravo,Tulancingo de Bravo,709413,1
+1924,MX,Valle del Rey,Valle del Rey,6882,1
+1925,MX,Venustiano Carranza,Venustiano Carranza,727874,1
+1926,MX,Villa de las Flores,Villa de las Flores,580889,1
+1927,MX,Xalapa,Xalapa,248418,1
+1928,MX,Zacatecas,Zacatecas,545616,1
+1929,MX,Zacatepec,Zacatepec,455108,1
+1930,MX,Zapopan,Zapopan,990895,3
+1931,MX,Zaragoza,Zaragoza,275216,1
+1932,NG,Ilorin,Ilorin,2541,1
+1933,NL,Amsterdam,Amsterdam,1535829,14
+1934,NL,Badhoevedorp,Badhoevedorp,172509,2
+1935,NL,Balk,Balk,133516,1
+1936,NL,Barsbeek,Barsbeek,133517,1
+1937,NL,Beverwijk,Beverwijk,15620,1
+1938,NL,Beverwijk West,Beverwijk West,70818,1
+1939,NL,Biddinghuizen,Biddinghuizen,174055,2
+1940,NL,Biest Houtakker,Biest Houtakker,178009,1
+1941,NL,Botlek,Botlek,11470,1
+1942,NL,Breda,Breda,311511,2
+1943,NL,Breukelen,Breukelen,178019,1
+1944,NL,Cabauw,Cabauw,256250,1
+1945,NL,Den Haag,Den Haag,400518,4
+1946,NL,De Rijp,De Rijp,43219,2
+1947,NL,De Rips,De Rips,4110,2
+1948,NL,De Zilk,De Zilk,222556,1
+1949,NL,Dordrecht,Dordrecht,133507,1
+1950,NL,Eibergen,Eibergen,178062,1
+1951,NL,Eindhoven,Eindhoven,222496,2
+1952,NL,Enschede,Enschede,44508,3
+1953,NL,Fijnaart,Fijnaart,88996,1
+1954,NL,Geleen,Geleen,159885,2
+1955,NL,Groningen,Groningen,267031,2
+1956,NL,Haarlem,Haarlem,133511,1
+1957,NL,Heerlen,Heerlen,311506,2
+1958,NL,Hellendoorn,Hellendoorn,133518,1
+1959,NL,Hemkade,Hemkade,15621,1
+1960,NL,Hilversum,Hilversum,61952,2
+1961,NL,Hoek v. Holland,Hoek v. Holland,172882,1
+1962,NL,Hoofddorp,Hoofddorp,129662,2
+1963,NL,Hoogvliet,Hoogvliet,172882,1
+1964,NL,Horst a/d Maas,Horst a/d Maas,86440,1
+1965,NL,Huijbergen,Huijbergen,133503,1
+1966,NL,Ijmuiden,Ijmuiden,7445,1
+1967,NL,IJmuiden,IJmuiden,208106,2
+1968,NL,Kollumerwaard,Kollumerwaard,219276,1
+1969,NL,Laren,Laren,41306,1
+1970,NL,Leiden,Leiden,1620,1
+1971,NL,Maassluis,Maassluis,172887,1
+1972,NL,Maastricht,Maastricht,302420,3
+1973,NL,Nijmegen,Nijmegen,341477,2
+1974,NL,Oude Meer,Oude Meer,86436,2
+1975,NL,Pernis,Pernis,7611,1
+1976,NL,Philippine,Philippine,178048,1
+1977,NL,Posterholt,Posterholt,89004,1
+1978,NL,Reijndersweg,Reijndersweg,15620,1
+1979,NL,Ridderkerk,Ridderkerk,172880,1
+1980,NL,Rotterdam,Rotterdam,352167,3
+1981,NL,Rotterdam Noord ,Rotterdam Noord ,129664,1
+1982,NL,Rotterdam Zuid,Rotterdam Zuid,240054,2
+1983,NL,Schiedam,Schiedam,172885,2
+1984,NL,Staalstraat,Staalstraat,15620,1
+1985,NL,Utrecht,Utrecht,400542,5
+1986,NL,Valthermond,Valthermond,133515,1
+1987,NL,Veldhoven,Veldhoven,178008,1
+1988,NL,Velsen,Velsen,141636,2
+1989,NL,Vlaardingen,Vlaardingen,82605,1
+1990,NL,Vredepeel,Vredepeel,177869,1
+1991,NL,Wekerom,Wekerom,178024,1
+1992,NL,Westmaas,Westmaas,133504,1
+1993,NL,Wieringerwerf,Wieringerwerf,178015,1
+1994,NL,Wijk aan Zee,Wijk aan Zee,215549,2
+1995,NL,Wijnandsrade,Wijnandsrade,165980,1
+1996,NL,Zaandam,Zaandam,171822,1
+1997,NL,Zaanstad,Zaanstad,70815,1
+1998,NL,Zegveld,Zegveld,177874,1
+1999,NL,Zierikzee,Zierikzee,89004,1
+2000,NO,Ålesund,Ålesund,105430,3
+2001,NO,Bærum,Bærum,241649,5
+2002,NO,Bergen,Bergen,545822,6
+2003,NO,Birkenes,Birkenes,35622,1
+2004,NO,Bodø,Bodø,64902,1
+2005,NO,Brumunddal,Brumunddal,52090,1
+2006,NO,Drammen,Drammen,121290,4
+2007,NO,Elverum,Elverum,108771,2
+2008,NO,Fredrikstad,Fredrikstad,182420,2
+2009,NO,Gjøvik,Gjøvik,108630,1
+2010,NO,Grenland,Grenland,459543,7
+2011,NO,Halden,Halden,10861,1
+2012,NO,Hamar,Hamar,106025,1
+2013,NO,Harstad,Harstad,71792,1
+2014,NO,Hønefoss,Hønefoss,13527,1
+2015,NO,Hurdal,Hurdal,37144,1
+2016,NO,Kårvatn,Kårvatn,33796,1
+2017,NO,Kristiansand,Kristiansand,157141,4
+2018,NO,Levanger,Levanger,3179,1
+2019,NO,Lillehammer,Lillehammer,215647,2
+2020,NO,Lillesand,Lillesand,37112,1
+2021,NO,Lillestrøm,Lillestrøm,108078,2
+2022,NO,Lørenskog,Lørenskog,77669,1
+2023,NO,Mo i Rana,Mo i Rana,62124,2
+2024,NO,Moss,Moss,92943,1
+2025,NO,Narvik,Narvik,74703,1
+2026,NO,Oslo,Oslo,1114883,15
+2027,NO,Prestebakke,Prestebakke,37365,1
+2028,NO,Sandve,Sandve,37089,1
+2029,NO,Sarpsborg,Sarpsborg,98592,2
+2030,NO,Sør-Varanger,Sør-Varanger,70934,2
+2031,NO,Stavanger,Stavanger,294796,3
+2032,NO,Tønsberg,Tønsberg,60306,1
+2033,NO,Troll,Troll,9340,1
+2034,NO,Tromsø,Tromsø,142776,3
+2035,NO,Trondheim,Trondheim,408404,6
+2036,NO,Tustervatn,Tustervatn,36680,1
+2037,NO,Zeppelinfjellet,Zeppelinfjellet,32263,1
+2038,NP,Kathmandu,Kathmandu,390955,4
+2039,NP,N/A,N/A,16924,2
+2040,PE,Lima,Lima,1490845,21
+2041,PE,N/A,N/A,15462,1
+2042,PH,Manila,Manila,958,1
+2043,PK,Islamabad,Islamabad,70979,1
+2044,PK,Karachi,Karachi,51263,1
+2045,PK,Lahore,Lahore,41036,1
+2046,PK,N/A,N/A,54565,4
+2047,PK,Peshawar,Peshawar,37849,1
+2048,PL,Augustów,Augustów,109191,2
+2049,PL,Belsk,Belsk,32105,1
+2050,PL,Belsk Duży,Belsk Duży,103086,1
+2051,PL,Biała,Biała,37112,1
+2052,PL,Biała Podlaska,Biała Podlaska,123446,1
+2053,PL,Białystok,Białystok,189213,2
+2054,PL,Bielsko-Biała,Bielsko-Biała,176034,2
+2055,PL,Biskupiec,Biskupiec,76981,1
+2056,PL,Borówiec,Borówiec,120902,1
+2057,PL,Borsukowizna,Borsukowizna,125261,1
+2058,PL,Brzeg,Brzeg,4002,1
+2059,PL,Bydgoszcz,Bydgoszcz,274326,2
+2060,PL,Chełm,Chełm,25989,1
+2061,PL,Chełmno,Chełmno,56802,1
+2062,PL,Chojnice,Chojnice,33989,1
+2063,PL,Ciechocinek,Ciechocinek,75382,1
+2064,PL,Cieszyn,Cieszyn,48600,2
+2065,PL,Czerniawa,Czerniawa,33545,1
+2066,PL,Czerwionka-Leszczyny,Czerwionka-Leszczyny,28193,1
+2067,PL,Częstochowa,Częstochowa,221256,2
+2068,PL,Dąbrowa Górnicza,Dąbrowa Górnicza,161250,1
+2069,PL,Dębica,Dębica,43697,1
+2070,PL,Diabla Góra,Diabla Góra,82887,1
+2071,PL,Duszniki-Zdrój,Duszniki-Zdrój,33414,1
+2072,PL,Działoszyn,Działoszyn,37812,1
+2073,PL,Dzierżoniów,Dzierżoniów,38362,1
+2074,PL,Elbląg,Elbląg,194781,1
+2075,PL,Ełk,Ełk,121126,1
+2076,PL,Florianka,Florianka,72541,1
+2077,PL,Gajew,Gajew,106248,1
+2078,PL,Gdańsk,Gdańsk,423851,6
+2079,PL,Gdynia,Gdynia,247716,3
+2080,PL,Gliwice,Gliwice,55308,1
+2081,PL,Głubczyce,Głubczyce,1447,1
+2082,PL,Goczałkowice-Zdrój,Goczałkowice-Zdrój,120208,1
+2083,PL,Gołdap,Gołdap,162127,2
+2084,PL,Gołuchów,Gołuchów,72566,2
+2085,PL,Gorzów Wielkopolski,Gorzów Wielkopolski,169837,1
+2086,PL,Grajewo,Grajewo,74551,1
+2087,PL,Granica,Granica,86464,2
+2088,PL,Grudziądz,Grudziądz,87769,1
+2089,PL,Gubin,Gubin,9657,1
+2090,PL,Guty Duże,Guty Duże,116131,1
+2091,PL,Horyniec-Zdrój,Horyniec-Zdrój,15462,1
+2092,PL,Inowrocław,Inowrocław,75082,1
+2093,PL,Jarczew,Jarczew,17171,1
+2094,PL,Jarosław,Jarosław,54373,1
+2095,PL,Jasło,Jasło,113203,1
+2096,PL,Jawor,Jawor,25431,1
+2097,PL,Jędrzejów,Jędrzejów,26180,1
+2098,PL,Jelenia Góra,Jelenia Góra,195272,1
+2099,PL,Kalisz,Kalisz,193631,1
+2100,PL,Kamienna Góra,Kamienna Góra,29776,1
+2101,PL,Karpacz,Karpacz,28590,1
+2102,PL,Kaszów,Kaszów,56428,1
+2103,PL,Katowice,Katowice,243938,2
+2104,PL,Kędzierzyn-Koźle,Kędzierzyn-Koźle,196205,1
+2105,PL,Kielce,Kielce,204787,3
+2106,PL,Kłodzko,Kłodzko,111857,1
+2107,PL,Kołobrzeg,Kołobrzeg,5179,1
+2108,PL,Koniczynka,Koniczynka,74639,1
+2109,PL,Konin,Konin,121329,1
+2110,PL,Końskie,Końskie,3304,1
+2111,PL,Konstancin-Jeziorna,Konstancin-Jeziorna,90050,1
+2112,PL,Kościerzyna,Kościerzyna,142224,1
+2113,PL,Kostrza,Kostrza,262,1
+2114,PL,Koszalin,Koszalin,151338,2
+2115,PL,Koziegłowy,Koziegłowy,137715,1
+2116,PL,Kraków,Kraków,572107,8
+2117,PL,Krasnobród,Krasnobród,60144,1
+2118,PL,Krempna,Krempna,82929,1
+2119,PL,Krosno,Krosno,12373,1
+2120,PL,Krynica-Zdrój,Krynica-Zdrój,18071,1
+2121,PL,Krzyżówka,Krzyżówka,84290,1
+2122,PL,Kutno,Kutno,61093,1
+2123,PL,Lądek-Zdrój,Lądek-Zdrój,3398,1
+2124,PL,Łask,Łask,24637,1
+2125,PL,Latoszyn,Latoszyn,3859,1
+2126,PL,Łeba,Łeba,27609,1
+2127,PL,Lębork,Lębork,79112,1
+2128,PL,Legionowo,Legionowo,153295,2
+2129,PL,Legnica,Legnica,159781,1
+2130,PL,Liniewko Kościerskie,Liniewko Kościerskie,81588,1
+2131,PL,Łódź,Łódź,366526,3
+2132,PL,Łomża,Łomża,84041,1
+2133,PL,Lubań,Lubań,111226,2
+2134,PL,Lublin,Lublin,185032,1
+2135,PL,Lubliniec,Lubliniec,56175,1
+2136,PL,Malbork,Malbork,123373,1
+2137,PL,Małogoszcz,Małogoszcz,84756,1
+2138,PL,Mielec,Mielec,148668,1
+2139,PL,MIlicz,MIlicz,4166,1
+2140,PL,Mińsk Mazowiecki,Mińsk Mazowiecki,46248,1
+2141,PL,Mogilno,Mogilno,15154,1
+2142,PL,Mosina,Mosina,6947,1
+2143,PL,Mszana Dolna,Mszana Dolna,1103,1
+2144,PL,Nakło nad Notecią,Nakło nad Notecią,6247,2
+2145,PL,Nałęczów,Nałęczów,22788,1
+2146,PL,Niepołomice,Niepołomice,1090,1
+2147,PL,Nisko,Nisko,141337,1
+2148,PL,Nowa Ruda,Nowa Ruda,18454,2
+2149,PL,Nowa Sól,Nowa Sól,27230,2
+2150,PL,Nowiny,Nowiny,113839,1
+2151,PL,Nowy Sącz,Nowy Sącz,91559,1
+2152,PL,Nowy Targ,Nowy Targ,56521,1
+2153,PL,Nysa,Nysa,21873,1
+2154,PL,Oława,Oława,81141,1
+2155,PL,Olesno,Olesno,74485,1
+2156,PL,Olkusz,Olkusz,9978,1
+2157,PL,Olsztyn,Olsztyn,195315,1
+2158,PL,Opatów,Opatów,4007,1
+2159,PL,Opole,Opole,160765,2
+2160,PL,Osieczów,Osieczów,83552,1
+2161,PL,Ostróda,Ostróda,143042,1
+2162,PL,Ostrowiec Świętokrzyski,Ostrowiec Świętokrzyski,80140,1
+2163,PL,Oświęcim,Oświęcim,28413,1
+2164,PL,Otwock,Otwock,168334,2
+2165,PL,Pabianice,Pabianice,107962,1
+2166,PL,Parzniewice,Parzniewice,77675,1
+2167,PL,Piastów,Piastów,161932,2
+2168,PL,Piła,Piła,93521,1
+2169,PL,Piotrków Trybunalski,Piotrków Trybunalski,143808,1
+2170,PL,Pleszew,Pleszew,20366,1
+2171,PL,Płock,Płock,374908,4
+2172,PL,Polańczyk,Polańczyk,27827,1
+2173,PL,Połaniec,Połaniec,147261,1
+2174,PL,Połczyn-Zdrój,Połczyn-Zdrój,45692,1
+2175,PL,Poznań,Poznań,316036,3
+2176,PL,Prudnik,Prudnik,38899,1
+2177,PL,Przemyśl,Przemyśl,167403,1
+2178,PL,Puławy,Puławy,27843,1
+2179,PL,Rabka-Zdrój,Rabka-Zdrój,10193,1
+2180,PL,Racibórz,Racibórz,92855,1
+2181,PL,Radom,Radom,247707,2
+2182,PL,Radomsko,Radomsko,157620,1
+2183,PL,Radzyń Podlaski,Radzyń Podlaski,944,1
+2184,PL,Rybnik,Rybnik,169434,1
+2185,PL,Rymanów-Zdrój,Rymanów-Zdrój,51602,1
+2186,PL,Rzeszów,Rzeszów,301896,2
+2187,PL,Sandomierz,Sandomierz,13952,1
+2188,PL,Sanok,Sanok,3174,1
+2189,PL,Siedlce,Siedlce,109310,2
+2190,PL,Sierpc,Sierpc,2198,1
+2191,PL,Skarżysko-Kamienna,Skarżysko-Kamienna,38829,1
+2192,PL,Skawina,Skawina,92435,2
+2193,PL,Słupsk,Słupsk,84379,1
+2194,PL,Smolary Bytnickie,Smolary Bytnickie,84494,1
+2195,PL,Solec Kujawski,Solec Kujawski,9033,1
+2196,PL,Sopot,Sopot,82517,1
+2197,PL,Sosnowiec,Sosnowiec,85040,1
+2198,PL,Środa Śląska,Środa Śląska,36295,1
+2199,PL,Starachowice,Starachowice,83801,1
+2200,PL,Strzelce Opolskie,Strzelce Opolskie,64375,1
+2201,PL,Sucha Beskidzka,Sucha Beskidzka,28356,1
+2202,PL,Sulęcin,Sulęcin,124218,1
+2203,PL,Suwałki,Suwałki,27819,2
+2204,PL,Świebodzin,Świebodzin,57972,1
+2205,PL,Szarów,Szarów,59332,1
+2206,PL,Szczecin,Szczecin,278772,4
+2207,PL,Szczecinek,Szczecinek,120674,1
+2208,PL,Szymbark,Szymbark,93341,1
+2209,PL,Tarnobrzeg,Tarnobrzeg,3161,1
+2210,PL,Tarnów,Tarnów,243686,2
+2211,PL,Toruń,Toruń,291889,4
+2212,PL,Trzebinia,Trzebinia,129890,1
+2213,PL,Trzebnica,Trzebnica,9707,1
+2214,PL,Tychy,Tychy,84402,1
+2215,PL,Ustroń,Ustroń,105029,1
+2216,PL,Wałbrzych,Wałbrzych,156176,1
+2217,PL,Warszawa,Warszawa,772133,14
+2218,PL,Widuchowa,Widuchowa,82744,1
+2219,PL,Wieniec-Zdrój,Wieniec-Zdrój,31425,1
+2220,PL,Wilczopole,Wilczopole,26629,1
+2221,PL,Włocławek,Włocławek,231066,2
+2222,PL,Wodzisław Śląski,Wodzisław Śląski,133037,1
+2223,PL,Wrocław,Wrocław,326506,3
+2224,PL,Wschowa,Wschowa,174240,1
+2225,PL,Zabierzów,Zabierzów,12159,1
+2226,PL,Ząbkowice Śląskie,Ząbkowice Śląskie,35509,1
+2227,PL,Zabrze,Zabrze,133515,1
+2228,PL,Zakopane,Zakopane,131961,1
+2229,PL,Zamość,Zamość,122888,1
+2230,PL,Żary,Żary,175127,1
+2231,PL,Zawiercie,Zawiercie,13498,1
+2232,PL,Zdzieszowice,Zdzieszowice,75175,1
+2233,PL,Zgierz,Zgierz,156830,1
+2234,PL,Zgorzelec,Zgorzelec,54216,1
+2235,PL,Zielona Góra,Zielona Góra,175612,1
+2236,PL,Zielonka,Zielonka,116141,1
+2237,PL,Złoty Potok,Złoty Potok,153119,1
+2238,PL,Żory,Żory,56532,1
+2239,PL,Żyrardów,Żyrardów,53292,1
+2240,PL,Żywiec,Żywiec,81972,1
+2241,PT,Aveiro,Aveiro,427269,4
+2242,PT,Braga,Braga,166438,3
+2243,PT,Castelo Branco,Castelo Branco,129189,1
+2244,PT,Coimbra,Coimbra,206316,3
+2245,PT,Évora,Évora,152027,1
+2246,PT,Faro,Faro,452882,4
+2247,PT,Ilha da Madeira,Ilha da Madeira,380039,3
+2248,PT,Ilha do Faial,Ilha do Faial,160931,1
+2249,PT,Leiria,Leiria,156375,1
+2250,PT,Lisboa,Lisboa,1428051,15
+2251,PT,Porto,Porto,1020159,15
+2252,PT,Santarém,Santarém,123527,1
+2253,PT,Setúbal,Setúbal,1357500,12
+2254,PT,Viana do Castelo,Viana do Castelo,79436,1
+2255,PT,Vila Real,Vila Real,114448,1
+2256,PT,Viseu,Viseu,94589,1
+2257,RO,Alba,Alba,101876,3
+2258,RO,Arad,Arad,69933,3
+2259,RO,Argeş,Argeş,173522,6
+2260,RO,Bacău,Bacău,105645,3
+2261,RO,Bihor,Bihor,71588,3
+2262,RO,Bistriţa-Năsaud,Bistriţa-Năsaud,34218,1
+2263,RO,Botoşani,Botoşani,35460,1
+2264,RO,Brăila,Brăila,133383,4
+2265,RO,Braşov,Braşov,141325,5
+2266,RO,Bucureşti,Bucureşti,138553,6
+2267,RO,Buzău,Buzău,35573,1
+2268,RO,Călăraşi,Călăraşi,50176,2
+2269,RO,Caraş-Severin,Caraş-Severin,109210,3
+2270,RO,Cluj,Cluj,117460,5
+2271,RO,Constanţa,Constanţa,195446,7
+2272,RO,Covasna,Covasna,35842,1
+2273,RO,Dâmboviţa,Dâmboviţa,47237,1
+2274,RO,Dolj,Dolj,135777,5
+2275,RO,Galaţi,Galaţi,114663,4
+2276,RO,Giurgiu,Giurgiu,103875,4
+2277,RO,Gorj,Gorj,139179,3
+2278,RO,Harghita,Harghita,31223,1
+2279,RO,Hunedoara,Hunedoara,189403,4
+2280,RO,Ialomiţa,Ialomiţa,57685,2
+2281,RO,Iaşi,Iaşi,130324,6
+2282,RO,Ilfov,Ilfov,68862,2
+2283,RO,Maramureş,Maramureş,87353,3
+2284,RO,Mehedinţi,Mehedinţi,35023,1
+2285,RO,Mureş,Mureş,93379,4
+2286,RO,Neamţ,Neamţ,79853,3
+2287,RO,Olt,Olt,29710,1
+2288,RO,Prahova,Prahova,171474,6
+2289,RO,Sălaj,Sălaj,35699,1
+2290,RO,Satu Mare,Satu Mare,53131,2
+2291,RO,Sibiu,Sibiu,135397,4
+2292,RO,Suceava,Suceava,84040,3
+2293,RO,Teleorman,Teleorman,53878,2
+2294,RO,Timiş,Timiş,172764,7
+2295,RO,Tulcea,Tulcea,67278,3
+2296,RO,Vâlcea,Vâlcea,69091,2
+2297,RO,Vaslui,Vaslui,33000,1
+2298,RO,Vrancea,Vrancea,34525,1
+2299,RS,Borski upravni okrug,Borski upravni okrug,16906,1
+2300,RS,Braničevski upravni okrug,Braničevski upravni okrug,17269,1
+2301,RS,Grad Beograd,Grad Beograd,339484,4
+2302,RS,Južnobački upravni okrug,Južnobački upravni okrug,153745,2
+2303,RS,Južnobanatski upravni okrug,Južnobanatski upravni okrug,17136,1
+2304,RS,Kolubarski upravni okrug,Kolubarski upravni okrug,25823,1
+2305,RS,Moravički upravni okrug,Moravički upravni okrug,17275,1
+2306,RS,Nišavski upravni okrug,Nišavski upravni okrug,201049,3
+2307,RS,Pčinjski upravni okrug,Pčinjski upravni okrug,25920,1
+2308,RS,Podunavski upravni okrug,Podunavski upravni okrug,17278,1
+2309,RS,Rasinski upravni okrug,Rasinski upravni okrug,8630,1
+2310,RS,Raški upravni okrug,Raški upravni okrug,16712,1
+2311,RS,Severnobanatski upravni okrug,Severnobanatski upravni okrug,74769,1
+2312,RS,Šumadijski upravni okrug,Šumadijski upravni okrug,25855,1
+2313,RS,Zaječarski upravni okrug,Zaječarski upravni okrug,17837,1
+2314,RU,Moscow,Moscow,186861,48
+2315,RW,Kigali,Kigali,59034,1
+2316,SA,Dharan,Dharan,47179,1
+2317,SA,N/A,N/A,12631,2
+2318,SD,Khartoum,Khartoum,46638,2
+2319,SE,Blekinge,Blekinge,16407,1
+2320,SE,Dalarna,Dalarna,33751,1
+2321,SE,Gävle,Gävle,436517,1
+2322,SE,Halland,Halland,64983,2
+2323,SE,Jämtland,Jämtland,46654,1
+2324,SE,Kronoberg,Kronoberg,16267,1
+2325,SE,Norrbotten,Norrbotten,30883,2
+2326,SE,Örebro,Örebro,14860,1
+2327,SE,Östergötland,Östergötland,42379,4
+2328,SE,Skåne,Skåne,351098,8
+2329,SE,Stockholm,Stockholm,7856420,26
+2330,SE,Uppsala,Uppsala,1167176,2
+2331,SE,Västerbotten,Västerbotten,78180,3
+2332,SE,Västernorrland,Västernorrland,54510,2
+2333,SE,Västra Götaland,Västra Götaland,188866,6
+2334,SG,Singapore,Singapore,1275,1
+2335,SI,Celje,Celje,30552,1
+2336,SI,Deskle,Deskle,965,1
+2337,SI,Hrastnik,Hrastnik,10348,1
+2338,SI,Iskrba,Iskrba,834,1
+2339,SI,Koper,Koper,29460,1
+2340,SI,Kranj,Kranj,956,1
+2341,SI,LJ Celovška,LJ Celovška,10181,1
+2342,SI,Ljubljana Bežigrad,Ljubljana Bežigrad,30084,1
+2343,SI,Maribor center,Maribor center,17137,1
+2344,SI,MB center,MB center,13423,1
+2345,SI,MB Vrbanski plato,MB Vrbanski plato,9700,1
+2346,SI,Murska Sobota,Murska Sobota,28715,1
+2347,SI,Nova Gorica,Nova Gorica,30233,1
+2348,SI,Novo mesto,Novo mesto,10063,1
+2349,SI,Ptuj,Ptuj,956,1
+2350,SI,Trbovlje,Trbovlje,29748,1
+2351,SI,Zagorje,Zagorje,29101,1
+2352,SK,Banskobystrický kraj,Banskobystrický kraj,702855,6
+2353,SK,Bratislavský kraj,Bratislavský kraj,740410,5
+2354,SK,Košický kraj,Košický kraj,749090,7
+2355,SK,Nitriansky kraj,Nitriansky kraj,332841,2
+2356,SK,Prešovský kraj,Prešovský kraj,791633,7
+2357,SK,Trenciansky kraj,Trenciansky kraj,585346,4
+2358,SK,Trnavský kraj,Trnavský kraj,436477,3
+2359,SK,Žilinský kraj,Žilinský kraj,625518,4
+2360,SU,N/A,N/A,12759,2
+2361,TD,N'Djamena,N'Djamena,81197,1
+2362,TH,Ayutthaya,Ayutthaya,143813,1
+2363,TH,Bangkok,Bangkok,1222599,16
+2364,TH,Chachoengsao,Chachoengsao,118345,1
+2365,TH,Chiang Mai,Chiang Mai,138744,2
+2366,TH,Chiang Rai,Chiang Rai,180452,2
+2367,TH,Chon Buri,Chon Buri,366036,3
+2368,TH,Khon Kaen,Khon Kaen,120217,1
+2369,TH,Lampang,Lampang,615905,4
+2370,TH,Lamphun,Lamphun,155214,2
+2371,TH,Loei,Loei,30586,1
+2372,TH,Mae Hong Son,Mae Hong Son,114100,1
+2373,TH,Nakhon Ratchasima,Nakhon Ratchasima,69000,1
+2374,TH,Nakhon Sawan,Nakhon Sawan,163371,1
+2375,TH,Nan,Nan,155824,2
+2376,TH,Narathiwat,Narathiwat,86710,1
+2377,TH,Nonthaburi,Nonthaburi,124537,2
+2378,TH,Pathum Thani,Pathum Thani,60604,1
+2379,TH,Phayao,Phayao,106782,1
+2380,TH,Phrae,Phrae,154441,1
+2381,TH,Phuket,Phuket,115504,1
+2382,TH,Ratchaburi,Ratchaburi,145905,1
+2383,TH,Rayong,Rayong,538805,5
+2384,TH,Sa Kaeo,Sa Kaeo,27291,1
+2385,TH,Samut Prakan,Samut Prakan,361554,5
+2386,TH,Samut Sakhon,Samut Sakhon,200421,2
+2387,TH,Saraburi,Saraburi,275244,2
+2388,TH,Songkhla,Songkhla,83987,1
+2389,TH,Surat Thani,Surat Thani,169319,1
+2390,TH,Yala,Yala,103179,1
+2391,TI,N/A,N/A,13987,1
+2392,TJ,Dushanbe,Dushanbe,54380,1
+2393,TM,Ashgabat,Ashgabat,44860,1
+2394,TR,Adana,Adana,205462,4
+2395,TR,Ağrı,Ağrı,133254,2
+2396,TR,Amasya,Amasya,134064,3
+2397,TR,Ankara,Ankara,360027,8
+2398,TR,Artvin,Artvin,40041,1
+2399,TR,Aydın,Aydın,13,3
+2400,TR,Balıkesir,Balıkesir,70778,2
+2401,TR,Bilecik,Bilecik,36659,1
+2402,TR,Bolu,Bolu,10066,1
+2403,TR,Bursa,Bursa,173712,5
+2404,TR,Çanakkale,Çanakkale,150773,3
+2405,TR,Çorum,Çorum,92818,2
+2406,TR,Denizli,Denizli,50591,2
+2407,TR,Edirne,Edirne,86185,2
+2408,TR,Erzincan,Erzincan,53923,1
+2409,TR,Erzurum,Erzurum,210198,4
+2410,TR,Giresun,Giresun,61860,1
+2411,TR,Hatay,Hatay,90306,2
+2412,TR,Iğdır,Iğdır,45848,1
+2413,TR,İstanbul,İstanbul,1070031,29
+2414,TR,İzmir,İzmir,194502,13
+2415,TR,Kahramanmaraş,Kahramanmaraş,25913,1
+2416,TR,Karabük,Karabük,83830,5
+2417,TR,Kars,Kars,106594,2
+2418,TR,Kayseri,Kayseri,108505,3
+2419,TR,Kırklareli,Kırklareli,72074,2
+2420,TR,Kocaeli,Kocaeli,418314,10
+2421,TR,Konya,Konya,54089,2
+2422,TR,Kütahya,Kütahya,2521,1
+2423,TR,Manisa,Manisa,56598,3
+2424,TR,Muğla,Muğla,34329,4
+2425,TR,Ordu,Ordu,158597,4
+2426,TR,Rize,Rize,53404,1
+2427,TR,Sakarya,Sakarya,73615,2
+2428,TR,Samsun,Samsun,260192,6
+2429,TR,Sinop,Sinop,83392,3
+2430,TR,Sivas,Sivas,106768,3
+2431,TR,Tekirdağ,Tekirdağ,96851,2
+2432,TR,Tokat,Tokat,134831,3
+2433,TR,Trabzon,Trabzon,253072,5
+2434,TR,Yalova,Yalova,86580,2
+2435,TR,Yozgat,Yozgat,420,1
+2436,TR,Zonguldak,Zonguldak,98685,4
+2437,TW,Central,Central,240250,10
+2438,TW,Chu-Miao,Chu-Miao,120172,5
+2439,TW,Hua-Tung,Hua-Tung,67575,3
+2440,TW,KaoPing,KaoPing,333832,14
+2441,TW,North,North,492942,21
+2442,TW,Taiwan,Taiwan,47602,2
+2443,TW,Yilan,Yilan,47938,2
+2444,TW,Yun-Chia-Nan,Yun-Chia-Nan,240652,10
+2445,TW,南投縣,南投縣,438098,3
+2446,TW,嘉義市,嘉義市,146691,1
+2447,TW,嘉義縣,嘉義縣,294269,2
+2448,TW,基隆市,基隆市,145562,1
+2449,TW,宜蘭縣,宜蘭縣,291020,2
+2450,TW,屏東縣,屏東縣,435588,3
+2451,TW,彰化縣,彰化縣,438889,3
+2452,TW,新北市,新北市,1716051,12
+2453,TW,新竹市,新竹市,145327,1
+2454,TW,新竹縣,新竹縣,291892,2
+2455,TW,桃園市,桃園市,873090,6
+2456,TW,澎湖縣,澎湖縣,148503,1
+2457,TW,臺中市,臺中市,733368,5
+2458,TW,臺北市,臺北市,991644,7
+2459,TW,臺南市,臺南市,585706,4
+2460,TW,臺東縣,臺東縣,263874,2
+2461,TW,花蓮縣,花蓮縣,145760,1
+2462,TW,苗栗縣,苗栗縣,441103,3
+2463,TW,連江縣,連江縣,146704,1
+2464,TW,金門縣,金門縣,147075,1
+2465,TW,雲林縣,雲林縣,579382,4
+2466,TW,高雄市,高雄市,1750628,12
+2467,TX,N/A,N/A,11669,1
+2468,UC,N/A,N/A,15,1
+2469,UG,Kampala,Kampala,121095,1
+2470,UG,N/A,N/A,9151,1
+2471,US,007,007,1565,4
+2472,US,019,019,1168,1
+2473,US,023,023,23,1
+2474,US,037,037,3049,3
+2475,US,039,039,1540,2
+2476,US,047,047,101,1
+2477,US,051,051,335,4
+2478,US,077,077,3970,1
+2479,US,ABBEVILLE,ABBEVILLE,4619,1
+2480,US,Aberdeen,Aberdeen,57139,2
+2481,US,ADA,ADA,31970,2
+2482,US,ADAIR,ADAIR,150799,1
+2483,US,ADAMS,ADAMS,93894,2
+2484,US,Adrian,Adrian,61831,1
+2485,US,Akron,Akron,196276,5
+2486,US,ALAMEDA,ALAMEDA,148587,1
+2487,US,Albany,Albany,14374,1
+2488,US,Albany-Lebanon,Albany-Lebanon,64835,2
+2489,US,Albany-Schenectady-Troy,Albany-Schenectady-Troy,63752,4
+2490,US,Albuquerque,Albuquerque,583186,7
+2491,US,ALEXANDER,ALEXANDER,43509,1
+2492,US,Allegan,Allegan,31434,1
+2493,US,ALLEGANY,ALLEGANY,32833,2
+2494,US,Allentown-Bethlehem-Easton,Allentown-Bethlehem-Easton,153050,5
+2495,US,Altoona,Altoona,74038,2
+2496,US,AMADOR,AMADOR,32777,1
+2497,US,Amarillo,Amarillo,35800,2
+2498,US,Americus,Americus,24133,1
+2499,US,Ames,Ames,4773,1
+2500,US,Anchorage,Anchorage,142862,3
+2501,US,ANCHORAGE,ANCHORAGE,1641,2
+2502,US,Anderson,Anderson,92329,3
+2503,US,ANDERSON,ANDERSON,24426,2
+2504,US,ANDREW,ANDREW,24355,1
+2505,US,Ann Arbor,Ann Arbor,84555,2
+2506,US,ANNE ARUNDEL,ANNE ARUNDEL,1772,1
+2507,US,Appleton,Appleton,48372,1
+2508,US,ARAPAHOE,ARAPAHOE,30925,1
+2509,US,ARCHULETA,ARCHULETA,34129,1
+2510,US,Ardmore,Ardmore,86580,2
+2511,US,Arkadelphia,Arkadelphia,20655,1
+2512,US,AROOSTOOK,AROOSTOOK,303365,5
+2513,US,Asheville,Asheville,135657,5
+2514,US,ASHLAND,ASHLAND,44574,2
+2515,US,Ashtabula,Ashtabula,62039,1
+2516,US,ASOTIN,ASOTIN,36403,1
+2517,US,Athens,Athens,31023,2
+2518,US,Athens-Clarke County,Athens-Clarke County,62426,1
+2519,US,Atlanta,Atlanta,794,1
+2520,US,Atlanta-Sandy Springs-Marietta,Atlanta-Sandy Springs-Marietta,707695,14
+2521,US,Atlantic City,Atlantic City,94028,1
+2522,US,Augusta-Richmond County,Augusta-Richmond County,214394,4
+2523,US,Augusta-Waterville,Augusta-Waterville,66365,2
+2524,US,Austin-Round Rock,Austin-Round Rock,152604,12
+2525,US,AVERY,AVERY,42080,3
+2526,US,BAKER,BAKER,31923,1
+2527,US,Bakersfield,Bakersfield,454815,8
+2528,US,BALTIMORE,BALTIMORE,39342,2
+2529,US,Baltimore-Towson,Baltimore-Towson,472173,11
+2530,US,Bangor,Bangor,42790,4
+2531,US,BANNOCK,BANNOCK,55478,1
+2532,US,Baraboo,Baraboo,78195,1
+2533,US,Barnstable Town,Barnstable Town,24038,1
+2534,US,BARTHOLOMEW,BARTHOLOMEW,5,1
+2535,US,BASTROP,BASTROP,18,2
+2536,US,Baton Rouge,Baton Rouge,376459,9
+2537,US,BAYAMON,BAYAMON,11616,1
+2538,US,Bay City,Bay City,38336,1
+2539,US,BEAUFORT,BEAUFORT,35899,1
+2540,US,Beaumont-Port Arthur,Beaumont-Port Arthur,284535,10
+2541,US,BECKER,BECKER,64397,1
+2542,US,Bellingham,Bellingham,66856,2
+2543,US,BELMONT,BELMONT,98809,1
+2544,US,BELTRAMI,BELTRAMI,33052,1
+2545,US,Bend,Bend,40472,2
+2546,US,BENEWAH,BENEWAH,72203,2
+2547,US,Bennington,Bennington,73322,1
+2548,US,BERKELEY,BERKELEY,6587,1
+2549,US,BERKS,BERKS,36416,2
+2550,US,BERKSHIRE,BERKSHIRE,60238,2
+2551,US,Berlin,Berlin,34295,2
+2552,US,BERNALILLO,BERNALILLO,20204,2
+2553,US,BETHEL,BETHEL,24224,1
+2554,US,BIG HORN,BIG HORN,34848,1
+2555,US,Billings,Billings,8612,1
+2556,US,Birmingham-Hoover,Birmingham-Hoover,463708,12
+2557,US,Bishop,Bishop,602466,15
+2558,US,Blacksburg-Christiansburg-Radford,Blacksburg-Christiansburg-Radford,17762,1
+2559,US,BLAINE,BLAINE,31453,1
+2560,US,Bloomington,Bloomington,45352,2
+2561,US,Bloomington-Normal,Bloomington-Normal,60286,1
+2562,US,BOISE,BOISE,70749,2
+2563,US,Boise City-Nampa,Boise City-Nampa,301144,5
+2564,US,BOLIVAR,BOLIVAR,42863,1
+2565,US,BONNER,BONNER,73977,1
+2566,US,Boston-Cambridge-Quincy,Boston-Cambridge-Quincy,535283,10
+2567,US,Boulder,Boulder,61267,2
+2568,US,BOULDER,BOULDER,26661,1
+2569,US,BOUNDARY,BOUNDARY,53440,4
+2570,US,Bowling Green,Bowling Green,57818,1
+2571,US,BRADFORD,BRADFORD,69360,1
+2572,US,Brainerd,Brainerd,61961,1
+2573,US,BREWSTER,BREWSTER,38426,1
+2574,US,Bridgeport-Stamford-Norwalk,Bridgeport-Stamford-Norwalk,277011,5
+2575,US,Brigham City,Brigham City,46527,1
+2576,US,BRISTOL,BRISTOL,25647,1
+2577,US,BROOKINGS,BROOKINGS,92135,1
+2578,US,BROWARD,BROWARD,175799,2
+2579,US,BROWN,BROWN,51393,3
+2580,US,Brownsville-Harlingen,Brownsville-Harlingen,15838,2
+2581,US,Brunswick,Brunswick,24748,1
+2582,US,BRUNSWICK,BRUNSWICK,31818,1
+2583,US,BRYAN,BRYAN,8265,1
+2584,US,Buffalo-Niagara Falls,Buffalo-Niagara Falls,89919,4
+2585,US,Burlington-South Burlington,Burlington-South Burlington,262616,2
+2586,US,BUTLER,BUTLER,139558,3
+2587,US,BUTTE,BUTTE,238567,3
+2588,US,CA8 - ARB,CA8 - ARB,18680,42
+2589,US,CABELL,CABELL,8333,1
+2590,US,CACHE,CACHE,110631,1
+2591,US,CADDO,CADDO,7914,1
+2592,US,Cadillac,Cadillac,109300,1
+2593,US,CALAVERAS,CALAVERAS,102158,1
+2594,US,Cambridge,Cambridge,18417,1
+2595,US,CAMERON,CAMERON,19445,1
+2596,US,Canton-Massillon,Canton-Massillon,137242,4
+2597,US,Cape Coral-Fort Myers,Cape Coral-Fort Myers,91189,3
+2598,US,CARBON,CARBON,97819,3
+2599,US,CARIBOU,CARIBOU,43296,4
+2600,US,Carlsbad-Artesia,Carlsbad-Artesia,63961,1
+2601,US,CARLTON,CARLTON,56428,1
+2602,US,CARSON CITY,CARSON CITY,63238,1
+2603,US,CARTER,CARTER,20178,1
+2604,US,CASCADE,CASCADE,32683,1
+2605,US,Casper,Casper,74239,2
+2606,US,CASS,CASS,25345,1
+2607,US,CASWELL,CASWELL,45170,1
+2608,US,CATANO,CATANO,23545,4
+2609,US,CEDAR,CEDAR,60779,1
+2610,US,Cedar Rapids,Cedar Rapids,189093,5
+2611,US,Chambersburg,Chambersburg,36513,2
+2612,US,CHAMPAIGN,CHAMPAIGN,32244,1
+2613,US,Champaign-Urbana,Champaign-Urbana,91818,2
+2614,US,CHARLESTON,CHARLESTON,24194,1
+2615,US,Charleston-North Charleston,Charleston-North Charleston,232664,4
+2616,US,Charlotte-Gastonia-Concord,Charlotte-Gastonia-Concord,243546,9
+2617,US,Charlottesville,Charlottesville,48899,1
+2618,US,Chattanooga,Chattanooga,114197,6
+2619,US,CHAUTAUQUA,CHAUTAUQUA,22262,1
+2620,US,CHELAN,CHELAN,102947,3
+2621,US,CHESTERFIELD,CHESTERFIELD,49954,1
+2622,US,Cheyenne,Cheyenne,211753,3
+2623,US,Chicago-Naperville-Joliet,Chicago-Naperville-Joliet,1075684,26
+2624,US,Chico,Chico,60267,2
+2625,US,CHIHUAHUA STATE,CHIHUAHUA STATE,803,1
+2626,US,CHURCHILL,CHURCHILL,33977,1
+2627,US,Cincinnati-Middletown,Cincinnati-Middletown,748513,12
+2628,US,City of The Dalles,City of The Dalles,36249,1
+2629,US,CLACKAMAS,CLACKAMAS,12886,2
+2630,US,CLAIBORNE,CLAIBORNE,22163,1
+2631,US,CLALLAM,CLALLAM,37374,1
+2632,US,CLARK,CLARK,356047,9
+2633,US,Clarksville,Clarksville,34458,3
+2634,US,Cleveland,Cleveland,8767,1
+2635,US,Cleveland-Elyria-Mentor,Cleveland-Elyria-Mentor,669049,14
+2636,US,Clinton,Clinton,106277,2
+2637,US,CLINTON,CLINTON,19487,1
+2638,US,COCONINO,COCONINO,15379,1
+2639,US,CODINGTON,CODINGTON,62180,1
+2640,US,Coeur d'Alene,Coeur d'Alene,25632,1
+2641,US,Colorado Springs,Colorado Springs,163186,4
+2642,US,Columbia,Columbia,284847,7
+2643,US,COLUMBIA,COLUMBIA,40261,2
+2644,US,Columbus,Columbus,478108,13
+2645,US,COLUSA,COLUSA,120561,2
+2646,US,Concord,Concord,32131,1
+2647,US,CONVERSE,CONVERSE,117166,2
+2648,US,COOK,COOK,62991,2
+2649,US,Cookeville,Cookeville,14416,1
+2650,US,COOS,COOS,27064,2
+2651,US,Corning,Corning,24871,1
+2652,US,Corpus Christi,Corpus Christi,103655,3
+2653,US,Corsicana,Corsicana,75638,1
+2654,US,Corvallis,Corvallis,28772,1
+2655,US,COTTON,COTTON,5709,1
+2656,US,CUMBERLAND,CUMBERLAND,464,1
+2657,US,CURRY,CURRY,4754,1
+2658,US,CUSTER,CUSTER,112846,2
+2659,US,CUYAHOGA,CUYAHOGA,71749,2
+2660,US,DAKOTA,DAKOTA,115843,1
+2661,US,Dallas-Fort Worth-Arlington,Dallas-Fort Worth-Arlington,812309,19
+2662,US,Dalton,Dalton,23359,1
+2663,US,Daphne-Fairhope,Daphne-Fairhope,16631,1
+2664,US,Davenport-Moline-Rock Island,Davenport-Moline-Rock Island,280787,4
+2665,US,Dayton,Dayton,261498,9
+2666,US,Decatur,Decatur,80388,1
+2667,US,DE KALB,DE KALB,22149,1
+2668,US,DELAWARE,DELAWARE,12648,1
+2669,US,DEL NORTE,DEL NORTE,47,1
+2670,US,DELTA,DELTA,85935,1
+2671,US,Deltona-Daytona Beach-Ormond Beach,Deltona-Daytona Beach-Ormond Beach,53426,2
+2672,US,Deming,Deming,30277,1
+2673,US,DENVER,DENVER,58776,2
+2674,US,Denver-Aurora,Denver-Aurora,851583,12
+2675,US,DESCHUTES,DESCHUTES,47695,3
+2676,US,Des Moines,Des Moines,76016,3
+2677,US,Detroit-Warren-Livonia,Detroit-Warren-Livonia,655949,11
+2678,US,DEWEY,DEWEY,98216,1
+2679,US,Dickinson,Dickinson,41416,1
+2680,US,DODGE,DODGE,149009,1
+2681,US,Dodge City,Dodge City,22833,1
+2682,US,DONA ANA,DONA ANA,26163,1
+2683,US,DOOR,DOOR,16165,1
+2684,US,DORCHESTER,DORCHESTER,122552,1
+2685,US,DOUGLAS,DOUGLAS,41308,3
+2686,US,Dover,Dover,73884,1
+2687,US,DuBois,DuBois,37547,2
+2688,US,DUCHESNE,DUCHESNE,184524,2
+2689,US,DUKES,DUKES,25415,1
+2690,US,Duluth,Duluth,122559,3
+2691,US,DUNN,DUNN,177281,2
+2692,US,Durango,Durango,156407,2
+2693,US,Durham,Durham,329168,3
+2694,US,DUVAL,DUVAL,139415,6
+2695,US,Dyersburg,Dyersburg,25083,2
+2696,US,Eagle Pass,Eagle Pass,12300,1
+2697,US,East Liverpool-Salem,East Liverpool-Salem,37089,1
+2698,US,East Stroudsburg,East Stroudsburg,50018,2
+2699,US,EAU CLAIRE,EAU CLAIRE,60256,1
+2700,US,EDDY,EDDY,8430,1
+2701,US,Effingham,Effingham,23182,1
+2702,US,El Centro,El Centro,452438,5
+2703,US,El Dorado,El Dorado,19021,1
+2704,US,Elizabethtown,Elizabethtown,41363,1
+2705,US,Elkhart-Goshen,Elkhart-Goshen,65352,2
+2706,US,ELKO,ELKO,21935,1
+2707,US,Ellensburg,Ellensburg,35619,1
+2708,US,El Paso,El Paso,402475,7
+2709,US,Erie,Erie,71755,2
+2710,US,ERIE,ERIE,31942,2
+2711,US,ESSEX,ESSEX,73367,3
+2712,US,Eugene-Springfield,Eugene-Springfield,261155,8
+2713,US,Evanston,Evanston,72224,1
+2714,US,Evansville,Evansville,341664,8
+2715,US,Fairbanks,Fairbanks,203342,4
+2716,US,FAIRBANKS NORTH STAR,FAIRBANKS NORTH STAR,2676,1
+2717,US,FAIRFIELD,FAIRFIELD,6687,1
+2718,US,Farmington,Farmington,277413,5
+2719,US,FAYETTE,FAYETTE,17372,1
+2720,US,Fayetteville,Fayetteville,120688,3
+2721,US,Fayetteville-Springdale-Rogers,Fayetteville-Springdale-Rogers,58567,1
+2722,US,FERGUS,FERGUS,99363,1
+2723,US,FLAGLER,FLAGLER,28542,1
+2724,US,Flagstaff,Flagstaff,60548,2
+2725,US,FLATHEAD,FLATHEAD,133152,3
+2726,US,Flint,Flint,84199,2
+2727,US,Florence,Florence,51541,2
+2728,US,Florence-Muscle Shoals,Florence-Muscle Shoals,12519,1
+2729,US,Fond du Lac,Fond du Lac,17480,1
+2730,US,FOREST,FOREST,87711,1
+2731,US,FORREST,FORREST,5765,1
+2732,US,Fort Collins-Loveland,Fort Collins-Loveland,136846,3
+2733,US,Fort Smith,Fort Smith,69526,1
+2734,US,Fort Walton Beach-Crestview-Destin,Fort Walton Beach-Crestview-Destin,2,1
+2735,US,Fort Wayne,Fort Wayne,66249,2
+2736,US,FRA,FRA,1656,1
+2737,US,FRANKLIN,FRANKLIN,87197,5
+2738,US,Fresno,Fresno,132152,4
+2739,US,FRESNO,FRESNO,304339,4
+2740,US,FS1 - Forest Service,FS1 - Forest Service,6386,8
+2741,US,Gadsden,Gadsden,23884,2
+2742,US,Gainesville,Gainesville,34829,2
+2743,US,GALLATIN,GALLATIN,91187,2
+2744,US,GALLIA,GALLIA,30468,1
+2745,US,GARFIELD,GARFIELD,96265,6
+2746,US,GARRETT,GARRETT,171901,1
+2747,US,GBU,GBU,20853,12
+2748,US,Georgetown,Georgetown,13774,1
+2749,US,Gettysburg,Gettysburg,83487,2
+2750,US,GILA,GILA,138266,4
+2751,US,GILES,GILES,3927,1
+2752,US,Gillette,Gillette,69933,3
+2753,US,GILMER,GILMER,16724,1
+2754,US,GILPIN,GILPIN,8127,1
+2755,US,GLENN,GLENN,97617,1
+2756,US,GOSHEN,GOSHEN,3458,2
+2757,US,GRADY,GRADY,2179,1
+2758,US,GRAHAM,GRAHAM,26954,1
+2759,US,Granbury,Granbury,37601,1
+2760,US,Grand Island,Grand Island,6590,1
+2761,US,Grand Junction,Grand Junction,85940,4
+2762,US,Grand Rapids-Wyoming,Grand Rapids-Wyoming,169381,2
+2763,US,GRANT,GRANT,85170,3
+2764,US,Grants Pass,Grants Pass,61886,2
+2765,US,GRANVILLE,GRANVILLE,26296,1
+2766,US,Greeley,Greeley,97171,2
+2767,US,Green Bay,Green Bay,94666,3
+2768,US,GREENBRIER,GREENBRIER,16461,1
+2769,US,GREENE,GREENE,97012,3
+2770,US,Greensboro-High Point,Greensboro-High Point,138430,2
+2771,US,Greenville,Greenville,219047,4
+2772,US,Gulfport-Biloxi,Gulfport-Biloxi,110704,2
+2773,US,GUNNISON,GUNNISON,22743,1
+2774,US,Hagerstown-Martinsburg,Hagerstown-Martinsburg,80599,2
+2775,US,HAMILTON,HAMILTON,50482,2
+2776,US,HAMPDEN,HAMPDEN,71250,1
+2777,US,HANCOCK,HANCOCK,113472,3
+2778,US,Hanford-Corcoran,Hanford-Corcoran,30250,1
+2779,US,HARNEY,HARNEY,31327,1
+2780,US,Harriman,Harriman,25860,1
+2781,US,HARRIS,HARRIS,875,1
+2782,US,Harrisburg-Carlisle,Harrisburg-Carlisle,141684,6
+2783,US,Harrison,Harrison,26539,1
+2784,US,Harrisonburg,Harrisonburg,103366,1
+2785,US,HARTFORD,HARTFORD,1382,2
+2786,US,Hartford-West Hartford-East Hartford,Hartford-West Hartford-East Hartford,336240,4
+2787,US,Hattiesburg,Hattiesburg,32759,1
+2788,US,HAWAII,HAWAII,105646,3
+2789,US,HAYWOOD,HAYWOOD,57033,2
+2790,US,Helena,Helena,33801,1
+2791,US,HENDERSON,HENDERSON,3,1
+2792,US,HENNEPIN,HENNEPIN,56231,2
+2793,US,Hickory-Lenoir-Morganton,Hickory-Lenoir-Morganton,81052,2
+2794,US,HILLSBOROUGH,HILLSBOROUGH,228681,4
+2795,US,Hilo,Hilo,317441,7
+2796,US,HINDS,HINDS,17645,1
+2797,US,Hobbs,Hobbs,89743,1
+2798,US,Holland-Grand Haven,Holland-Grand Haven,23388,1
+2799,US,HOLMES,HOLMES,56926,1
+2800,US,Homosassa Springs,Homosassa Springs,55958,1
+2801,US,Honolulu,Honolulu,450837,4
+2802,US,HOOD RIVER,HOOD RIVER,7540,2
+2803,US,Houma-Bayou Cane-Thibodaux,Houma-Bayou Cane-Thibodaux,73979,1
+2804,US,Houston,Houston,232332,47
+2805,US,Houston-Sugar Land-Baytown,Houston-Sugar Land-Baytown,904484,22
+2806,US,HOWARD,HOWARD,135840,1
+2807,US,HUGHES,HUGHES,29029,1
+2808,US,HUMBOLDT,HUMBOLDT,40086,2
+2809,US,Huntington,Huntington,20805,1
+2810,US,Huntington-Ashland,Huntington-Ashland,108287,4
+2811,US,Huntsville,Huntsville,37252,1
+2812,US,HURON,HURON,23770,1
+2813,US,IDAHO,IDAHO,105540,4
+2814,US,Idaho Falls,Idaho Falls,33534,2
+2815,US,Indiana,Indiana,37937,2
+2816,US,Indianapolis,Indianapolis,667161,14
+2817,US,INYO,INYO,102879,11
+2818,US,Iowa City,Iowa City,36738,1
+2819,US,IRON,IRON,106887,2
+2820,US,ISLAND,ISLAND,38265,1
+2821,US,Ithaca,Ithaca,22583,1
+2822,US,Jackson,Jackson,290270,5
+2823,US,JACKSON,JACKSON,145120,4
+2824,US,Jacksonville,Jacksonville,331975,7
+2825,US,JEFFERSON,JEFFERSON,159061,6
+2826,US,Jefferson City,Jefferson City,24338,1
+2827,US,JEROME,JEROME,30320,1
+2828,US,JERSEY,JERSEY,39869,2
+2829,US,JO DAVIESS,JO DAVIESS,21689,1
+2830,US,JOHNSON,JOHNSON,70125,1
+2831,US,JOHNSTON,JOHNSTON,17496,1
+2832,US,Johnstown,Johnstown,71768,2
+2833,US,Joplin,Joplin,60328,2
+2834,US,JOSEPHINE,JOSEPHINE,31727,1
+2835,US,JUNEAU,JUNEAU,47241,1
+2836,US,Kahului-Wailuku,Kahului-Wailuku,35117,1
+2837,US,Kalamazoo-Portage,Kalamazoo-Portage,61669,1
+2838,US,Kalispell,Kalispell,35802,1
+2839,US,KANAWHA,KANAWHA,31802,1
+2840,US,Kansas City,Kansas City,731703,11
+2841,US,KAY,KAY,37743,1
+2842,US,Keene,Keene,75790,1
+2843,US,Kennewick-Richland-Pasco,Kennewick-Richland-Pasco,125270,3
+2844,US,KENOSHA,KENOSHA,20034,1
+2845,US,KENT,KENT,65531,1
+2846,US,KERN,KERN,75821,3
+2847,US,Killeen-Temple-Fort Hood,Killeen-Temple-Fort Hood,59508,2
+2848,US,KING,KING,29785,3
+2849,US,KINGS,KINGS,23664,2
+2850,US,Kingsport-Bristol-Bristol,Kingsport-Bristol-Bristol,138119,7
+2851,US,Kingsville,Kingsville,7789,1
+2852,US,Kinston,Kinston,35416,1
+2853,US,KITSAP,KITSAP,36753,1
+2854,US,KLAMATH,KLAMATH,13904,3
+2855,US,Klamath Falls,Klamath Falls,32077,1
+2856,US,KLICKITAT,KLICKITAT,13238,2
+2857,US,KNOX,KNOX,54522,4
+2858,US,Knoxville,Knoxville,238088,7
+2859,US,Kokomo,Kokomo,22812,1
+2860,US,KOOTENAI,KOOTENAI,11719,1
+2861,US,Laconia,Laconia,28953,1
+2862,US,La Crosse,La Crosse,48571,1
+2863,US,Lafayette,Lafayette,101778,4
+2864,US,La Grande,La Grande,43543,3
+2865,US,LAKE,LAKE,117186,4
+2866,US,Lake Charles,Lake Charles,95469,3
+2867,US,Lake City,Lake City,55237,1
+2868,US,Lake Havasu City-Kingman,Lake Havasu City-Kingman,28230,1
+2869,US,Lakeland,Lakeland,130932,2
+2870,US,Lancaster,Lancaster,140737,4
+2871,US,LANCASTER,LANCASTER,24204,1
+2872,US,Lansing-East Lansing,Lansing-East Lansing,146407,3
+2873,US,LA PAZ,LA PAZ,84443,1
+2874,US,Laramie,Laramie,35321,4
+2875,US,Laredo,Laredo,48687,2
+2876,US,LARIMER,LARIMER,40546,1
+2877,US,Las Cruces,Las Cruces,430510,8
+2878,US,Las Vegas-Paradise,Las Vegas-Paradise,1067996,14
+2879,US,LATAH,LATAH,30722,2
+2880,US,LAWRENCE,LAWRENCE,2179,1
+2881,US,Lawrenceburg,Lawrenceburg,23014,2
+2882,US,Lawton,Lawton,96133,1
+2883,US,Lebanon,Lebanon,101115,2
+2884,US,LEBANON,LEBANON,26383,1
+2885,US,LEE,LEE,59456,1
+2886,US,LEMHI,LEMHI,37916,1
+2887,US,LEWIS,LEWIS,31784,1
+2888,US,LEWIS AND CLARK,LEWIS AND CLARK,65313,1
+2889,US,Lewiston,Lewiston,55706,2
+2890,US,Lewiston-Auburn,Lewiston-Auburn,55391,2
+2891,US,Lexington-Fayette,Lexington-Fayette,50026,2
+2892,US,LIBERTY,LIBERTY,12266,1
+2893,US,LICKING,LICKING,15519,1
+2894,US,Lima,Lima,92133,1
+2895,US,Lincoln,Lincoln,62578,2
+2896,US,LINCOLN,LINCOLN,107039,3
+2897,US,Lincolnton,Lincolnton,26966,1
+2898,US,LINN,LINN,33895,2
+2899,US,Little Rock-North Little Rock,Little Rock-North Little Rock,103187,3
+2900,US,Longview,Longview,73414,2
+2901,US,LOS ANGELES,LOS ANGELES,117653,2
+2902,US,Los Angeles-Long Beach-Santa Ana,Los Angeles-Long Beach-Santa Ana,1828270,20
+2903,US,Louisville,Louisville,745632,11
+2904,US,Lubbock,Lubbock,5,1
+2905,US,LYCOMING,LYCOMING,14691,1
+2906,US,LYON,LYON,44633,2
+2907,US,Macon,Macon,100361,1
+2908,US,MACON,MACON,22870,1
+2909,US,Madera,Madera,81288,2
+2910,US,Madison,Madison,116318,3
+2911,US,MADISON,MADISON,90466,5
+2912,US,MALHEUR,MALHEUR,6538,1
+2913,US,Malone,Malone,89718,1
+2914,US,Mammoth Cave NP,Mammoth Cave NP,307,1
+2915,US,MANATEE,MANATEE,28576,1
+2916,US,Manchester-Nashua,Manchester-Nashua,207444,2
+2917,US,MANISTEE,MANISTEE,19583,1
+2918,US,Manitowoc,Manitowoc,17402,1
+2919,US,MARICOPA,MARICOPA,55579,1
+2920,US,MARION,MARION,25162,2
+2921,US,MARIPOSA,MARIPOSA,118489,3
+2922,US,Marshall,Marshall,139808,2
+2923,US,MARTIN,MARTIN,99153,2
+2924,US,MASON,MASON,23764,1
+2925,US,MATANUSKA-SUSITNA,MATANUSKA-SUSITNA,113234,2
+2926,US,MAUI,MAUI,40227,2
+2927,US,MAYAGUEZ,MAYAGUEZ,5401,1
+2928,US,MAYES,MAYES,51044,2
+2929,US,McAlester,McAlester,86431,1
+2930,US,McAllen-Edinburg-Mission,McAllen-Edinburg-Mission,46780,1
+2931,US,Medford,Medford,66925,3
+2932,US,MEIGS,MEIGS,2611,1
+2933,US,Memphis,Memphis,253270,5
+2934,US,MENDOCINO,MENDOCINO,58684,2
+2935,US,Merced,Merced,58302,1
+2936,US,Meridian,Meridian,24127,1
+2937,US,MERRIMACK,MERRIMACK,37656,1
+2938,US,Miami,Miami,43453,1
+2939,US,MIAMI - DADE,MIAMI - DADE,53591,2
+2940,US,Miami-Fort Lauderdale-Miami Beach,Miami-Fort Lauderdale-Miami Beach,344247,13
+2941,US,Michigan City-La Porte,Michigan City-La Porte,63643,2
+2942,US,Middlesborough,Middlesborough,13227,1
+2943,US,MIDDLESEX,MIDDLESEX,66612,2
+2944,US,MILLE LACS,MILLE LACS,26074,1
+2945,US,MILWAUKEE,MILWAUKEE,129115,2
+2946,US,Milwaukee-Waukesha-West Allis,Milwaukee-Waukesha-West Allis,342515,6
+2947,US,MINERAL,MINERAL,15870,1
+2948,US,MINIDOKA,MINIDOKA,14863,2
+2949,US,Minneapolis-St. Paul-Bloomington,Minneapolis-St. Paul-Bloomington,846669,14
+2950,US,MINNEHAHA,MINNEHAHA,98225,1
+2951,US,MISSOULA,MISSOULA,169673,3
+2952,US,MITCHELL,MITCHELL,32086,1
+2953,US,Mobile,Mobile,82583,2
+2954,US,Modesto,Modesto,200068,2
+2955,US,MOFFAT,MOFFAT,9224,1
+2956,US,MONO,MONO,150100,3
+2957,US,Monroe,Monroe,34796,1
+2958,US,MONROE,MONROE,179006,2
+2959,US,MONTEREY,MONTEREY,27431,5
+2960,US,MONTEZUMA,MONTEZUMA,61497,2
+2961,US,Montgomery,Montgomery,62429,4
+2962,US,MONTGOMERY,MONTGOMERY,95779,5
+2963,US,MONTROSE,MONTROSE,9552,1
+2964,US,Morehead City,Morehead City,25082,2
+2965,US,MORGAN,MORGAN,57302,2
+2966,US,Morgantown,Morgantown,16068,1
+2967,US,Morristown,Morristown,17577,1
+2968,US,Moscow,Moscow,35747,1
+2969,US,Moses Lake,Moses Lake,35061,1
+2970,US,Mount Vernon,Mount Vernon,57974,2
+2971,US,Mount Vernon-Anacortes,Mount Vernon-Anacortes,54270,2
+2972,US,MT1,MT1,44117,12
+2973,US,MULTNOMAH,MULTNOMAH,9530,3
+2974,US,Muncie,Muncie,31596,1
+2975,US,Muscatine,Muscatine,74176,2
+2976,US,MUSCATINE,MUSCATINE,76169,1
+2977,US,Muskegon-Norton Shores,Muskegon-Norton Shores,23575,1
+2978,US,Muskogee,Muskogee,49036,2
+2979,US,Myrtle Beach-Conway-North Myrtle Beach,Myrtle Beach-Conway-North Myrtle Beach,20928,1
+2980,US,N/A,N/A,123723,7
+2981,US,Napa,Napa,127397,2
+2982,US,Naples-Marco Island,Naples-Marco Island,55830,1
+2983,US,Nashville-Davidson--Murfreesboro,Nashville-Davidson--Murfreesboro,143483,8
+2984,US,NASSAU,NASSAU,21169,1
+2985,US,NAVAJO,NAVAJO,34450,1
+2986,US,NC1,NC1,448,2
+2987,US,NEOSHO,NEOSHO,135330,1
+2988,US,New Castle,New Castle,37254,2
+2989,US,NEW CASTLE,NEW CASTLE,59016,1
+2990,US,New Haven-Milford,New Haven-Milford,282577,3
+2991,US,New Orleans-Metairie-Kenner,New Orleans-Metairie-Kenner,234327,5
+2992,US,NEW YORK,NEW YORK,5157,1
+2993,US,New York-Northern New Jersey-Long Island,New York-Northern New Jersey-Long Island,1492378,38
+2994,US,NEZ PERCE,NEZ PERCE,13065,1
+2995,US,Niles-Benton Harbor,Niles-Benton Harbor,23530,1
+2996,US,NOBLE,NOBLE,23325,1
+2997,US,Nogales,Nogales,61263,1
+2998,US,NORFOLK,NORFOLK,8139,1
+2999,US,NORTHAMPTON,NORTHAMPTON,31732,1
+3000,US,Norwich-New London,Norwich-New London,84023,1
+3001,US,NOWATA,NOWATA,27288,1
+3002,US,NPS,NPS,1963,2
+3003,US,NYE,NYE,93612,4
+3004,US,Ocala,Ocala,83309,2
+3005,US,Odessa,Odessa,18787,2
+3006,US,Ogden-Clearfield,Ogden-Clearfield,125721,2
+3007,US,OKANOGAN,OKANOGAN,75019,4
+3008,US,Oklahoma City,Oklahoma City,561918,7
+3009,US,Olympia,Olympia,55483,2
+3010,US,Omaha-Council Bluffs,Omaha-Council Bluffs,371583,10
+3011,US,ONEIDA,ONEIDA,29502,1
+3012,US,ORANGE,ORANGE,55433,1
+3013,US,Orlando-Kissimmee,Orlando-Kissimmee,260609,6
+3014,US,OTTAWA,OTTAWA,35426,2
+3015,US,OUTAGAMIE,OUTAGAMIE,10878,1
+3016,US,Owensboro,Owensboro,46945,2
+3017,US,OXFORD,OXFORD,55997,3
+3018,US,Oxnard-Thousand Oaks-Ventura,Oxnard-Thousand Oaks-Ventura,427211,5
+3019,US,PACIFIC,PACIFIC,20051,3
+3020,US,Paducah,Paducah,43946,2
+3021,US,Palm Bay-Melbourne-Titusville,Palm Bay-Melbourne-Titusville,98584,2
+3022,US,PALM BEACH,PALM BEACH,26405,1
+3023,US,PALO ALTO,PALO ALTO,57745,1
+3024,US,Panama City-Lynn Haven,Panama City-Lynn Haven,56180,1
+3025,US,PARK,PARK,44237,2
+3026,US,Parkersburg-Marietta-Vienna,Parkersburg-Marietta-Vienna,41684,2
+3027,US,Pascagoula,Pascagoula,118874,1
+3028,US,Payson,Payson,59550,3
+3029,US,Pendleton-Hermiston,Pendleton-Hermiston,56555,2
+3030,US,PENOBSCOT,PENOBSCOT,21277,2
+3031,US,Pensacola-Ferry Pass-Brent,Pensacola-Ferry Pass-Brent,70887,3
+3032,US,Peoria,Peoria,88623,3
+3033,US,PERRY,PERRY,94061,3
+3034,US,PERSON,PERSON,26700,1
+3035,US,PHILADELPHIA,PHILADELPHIA,300800,5
+3036,US,Philadelphia-Camden-Wilmington,Philadelphia-Camden-Wilmington,900358,20
+3037,US,PHILLIPS,PHILLIPS,98938,1
+3038,US,Phoenix Lake-Cedar Ridge,Phoenix Lake-Cedar Ridge,32329,1
+3039,US,Phoenix-Mesa-Scottsdale,Phoenix-Mesa-Scottsdale,2658642,45
+3040,US,PICKENS,PICKENS,13662,1
+3041,US,PIKE,PIKE,46932,2
+3042,US,PIMA,PIMA,126645,4
+3043,US,PINAL,PINAL,190984,5
+3044,US,PINELLAS,PINELLAS,59821,3
+3045,US,PITKIN,PITKIN,4763,1
+3046,US,Pittsburgh,Pittsburgh,630345,24
+3047,US,Pittsfield,Pittsfield,4666,1
+3048,US,PLACER,PLACER,25452,1
+3049,US,PLUMAS,PLUMAS,65611,3
+3050,US,PLYMOUTH,PLYMOUTH,49692,1
+3051,US,Pocatello,Pocatello,110839,2
+3052,US,POLK,POLK,75413,4
+3053,US,Ponca City,Ponca City,82103,2
+3054,US,PONCE,PONCE,12793,1
+3055,US,Port Angeles,Port Angeles,167818,2
+3056,US,Portland-South Portland-Biddeford,Portland-South Portland-Biddeford,202762,5
+3057,US,Portland-Vancouver-Beaverton,Portland-Vancouver-Beaverton,475688,10
+3058,US,Portsmouth,Portsmouth,111410,2
+3059,US,Poughkeepsie-Newburgh-Middletown,Poughkeepsie-Newburgh-Middletown,69398,4
+3060,US,POWDER RIVER,POWDER RIVER,95777,1
+3061,US,Prescott,Prescott,23829,2
+3062,US,PRINCE EDWARD,PRINCE EDWARD,23079,1
+3063,US,Prineville,Prineville,31630,1
+3064,US,Providence-New Bedford-Fall River,Providence-New Bedford-Fall River,561371,9
+3065,US,Provo-Orem,Provo-Orem,240334,4
+3066,US,PROXY SITE - CA - CONSTANT,PROXY SITE - CA - CONSTANT,8350,5
+3067,US,Pullman,Pullman,108089,3
+3068,US,PUTNAM,PUTNAM,38789,2
+3069,US,Quincy,Quincy,23309,1
+3070,US,RACINE,RACINE,17045,1
+3071,US,Raleigh-Cary,Raleigh-Cary,379700,3
+3072,US,RAMSEY,RAMSEY,35160,1
+3073,US,RANDOLPH,RANDOLPH,47088,1
+3074,US,Rapid City,Rapid City,117254,2
+3075,US,RAVALLI,RAVALLI,33774,1
+3076,US,Reading,Reading,63660,2
+3077,US,Red Bluff,Red Bluff,69756,2
+3078,US,Redding,Redding,186321,4
+3079,US,Red Wing,Red Wing,25888,1
+3080,US,Reno-Sparks,Reno-Sparks,751867,10
+3081,US,RICHLAND,RICHLAND,94275,2
+3082,US,Richmond,Richmond,357476,5
+3083,US,RIO ARRIBA,RIO ARRIBA,27003,1
+3084,US,RIO BLANCO,RIO BLANCO,143779,2
+3085,US,RIVERSIDE,RIVERSIDE,64463,2
+3086,US,Riverside-San Bernardino-Ontario,Riverside-San Bernardino-Ontario,1799635,22
+3087,US,Riverton,Riverton,109762,2
+3088,US,Roanoke,Roanoke,157833,1
+3089,US,Rochester,Rochester,105417,2
+3090,US,ROCK,ROCK,17254,1
+3091,US,ROCKBRIDGE,ROCKBRIDGE,31264,1
+3092,US,Rockford,Rockford,43974,2
+3093,US,ROCKINGHAM,ROCKINGHAM,175756,3
+3094,US,ROCKLAND,ROCKLAND,44322,1
+3095,US,Rock Springs,Rock Springs,153951,3
+3096,US,Rocky Mount,Rocky Mount,62155,1
+3097,US,Rome,Rome,51367,2
+3098,US,ROSEBUD,ROSEBUD,96731,1
+3099,US,Roseburg,Roseburg,32442,1
+3100,US,Rutland,Rutland,183669,1
+3101,US,SACRAMENTO,SACRAMENTO,40819,3
+3102,US,Sacramento--Arden-Arcade--Roseville,Sacramento--Arden-Arcade--Roseville,1208256,17
+3103,US,Salem,Salem,70648,2
+3104,US,Salinas,Salinas,58210,10
+3105,US,Salisbury,Salisbury,52234,1
+3106,US,SALT LAKE,SALT LAKE,8149,1
+3107,US,Salt Lake City,Salt Lake City,534998,6
+3108,US,San Antonio,San Antonio,235596,8
+3109,US,SAN BERNARDINO,SAN BERNARDINO,103631,3
+3110,US,SANDERS,SANDERS,59812,1
+3111,US,SAN DIEGO,SAN DIEGO,34917,1
+3112,US,San Diego-Carlsbad-San Marcos,San Diego-Carlsbad-San Marcos,367762,10
+3113,US,SANDOVAL,SANDOVAL,21710,1
+3114,US,San Francisco-Oakland-Fremont,San Francisco-Oakland-Fremont,1597552,16
+3115,US,SANGAMON,SANGAMON,23006,1
+3116,US,SAN JOAQUIN,SAN JOAQUIN,13951,1
+3117,US,San Jose-Sunnyvale-Santa Clara,San Jose-Sunnyvale-Santa Clara,442616,7
+3118,US,SAN JUAN,SAN JUAN,71068,2
+3119,US,San Juan-Caguas-Guaynabo,San Juan-Caguas-Guaynabo,2823,1
+3120,US,SAN LUIS OBISPO,SAN LUIS OBISPO,182356,4
+3121,US,San Luis Obispo-Paso Robles,San Luis Obispo-Paso Robles,569405,8
+3122,US,Santa Barbara-Santa Maria,Santa Barbara-Santa Maria,779278,12
+3123,US,SANTA CRUZ,SANTA CRUZ,7,1
+3124,US,Santa Cruz-Watsonville,Santa Cruz-Watsonville,72739,9
+3125,US,Santa Fe,Santa Fe,71052,1
+3126,US,Santa Rosa-Petaluma,Santa Rosa-Petaluma,132286,1
+3127,US,Sarasota-Bradenton-Venice,Sarasota-Bradenton-Venice,198019,7
+3128,US,Sault Ste. Marie,Sault Ste. Marie,20175,1
+3129,US,Savannah,Savannah,133575,2
+3130,US,SC0,SC0,4,2
+3131,US,SCHOOLCRAFT,SCHOOLCRAFT,58939,1
+3132,US,SCOTT,SCOTT,9627,1
+3133,US,Scottsbluff,Scottsbluff,6133,1
+3134,US,SCOTTS BLUFF,SCOTTS BLUFF,413,1
+3135,US,Scranton--Wilkes-Barre,Scranton--Wilkes-Barre,147389,6
+3136,US,Seaford,Seaford,106901,2
+3137,US,Seattle-Tacoma-Bellevue,Seattle-Tacoma-Bellevue,858174,22
+3138,US,Sebring,Sebring,28176,1
+3139,US,Seneca,Seneca,50420,1
+3140,US,SEVIER,SEVIER,16665,1
+3141,US,Sevierville,Sevierville,24778,1
+3142,US,Seymour,Seymour,20536,1
+3143,US,SHEBOYGAN,SHEBOYGAN,32846,2
+3144,US,Shelton,Shelton,36129,1
+3145,US,Sheridan,Sheridan,49101,2
+3146,US,SHERIDAN,SHERIDAN,23274,2
+3147,US,SHERMAN,SHERMAN,27074,1
+3148,US,SHOSHONE,SHOSHONE,72967,1
+3149,US,Shreveport-Bossier City,Shreveport-Bossier City,100711,2
+3150,US,Si,Si,4,1
+3151,US,Sierra Vista-Douglas,Sierra Vista-Douglas,109717,3
+3152,US,SILVER BOW,SILVER BOW,66965,1
+3153,US,SIMPSON,SIMPSON,12837,1
+3154,US,Sioux City,Sioux City,10105,1
+3155,US,SISKIYOU,SISKIYOU,50326,2
+3156,US,SKAGIT,SKAGIT,109649,3
+3157,US,Somerset,Somerset,42560,2
+3158,US,SOMERSET,SOMERSET,19341,2
+3159,US,SONOMA,SONOMA,2,1
+3160,US,SONORA,SONORA,14656,1
+3161,US,South Bend-Mishawaka,South Bend-Mishawaka,161716,4
+3162,US,Spartanburg,Spartanburg,48854,2
+3163,US,Spokane,Spokane,215619,6
+3164,US,SPOKANE,SPOKANE,28095,4
+3165,US,Springfield,Springfield,440132,9
+3166,US,State College,State College,93003,3
+3167,US,ST. BERNARD,ST. BERNARD,35235,1
+3168,US,STE GENEVIEVE,STE GENEVIEVE,24152,1
+3169,US,STEVENS,STEVENS,80603,2
+3170,US,St. George,St. George,35519,1
+3171,US,ST. JAMES,ST. JAMES,35758,1
+3172,US,St. Joseph,St. Joseph,62348,1
+3173,US,St. Louis,St. Louis,860104,21
+3174,US,ST. LOUIS,ST. LOUIS,103712,2
+3175,US,ST. LOUIS (CITY),ST. LOUIS (CITY),70035,1
+3176,US,ST. LUCIE,ST. LUCIE,26885,1
+3177,US,St. Marys,St. Marys,22790,1
+3178,US,Stockton,Stockton,200507,2
+3179,US,SUBLETTE,SUBLETTE,407207,6
+3180,US,SUFFOLK,SUFFOLK,76084,2
+3181,US,Summerville,Summerville,25738,1
+3182,US,SUMTER,SUMTER,62695,1
+3183,US,SUSQUEHANNA,SUSQUEHANNA,19550,1
+3184,US,SUTTER,SUTTER,18417,1
+3185,US,SWAIN,SWAIN,64480,1
+3186,US,SWEETWATER,SWEETWATER,142853,2
+3187,US,Syracuse,Syracuse,7428,1
+3188,US,Tahlequah,Tahlequah,9266,1
+3189,US,Tallahassee,Tallahassee,87538,2
+3190,US,Tampa-St. Petersburg-Clearwater,Tampa-St. Petersburg-Clearwater,527257,9
+3191,US,TANEY,TANEY,9212,1
+3192,US,Taos,Taos,37292,2
+3193,US,TAYLOR,TAYLOR,53016,2
+3194,US,Terre Haute,Terre Haute,103580,2
+3195,US,TETON,TETON,55864,2
+3196,US,Texarkana,Texarkana,500,1
+3197,US,Thomasville-Lexington,Thomasville-Lexington,39651,1
+3198,US,TILLAMOOK,TILLAMOOK,6967,1
+3199,US,TIOGA,TIOGA,62257,2
+3200,US,Toledo,Toledo,153785,6
+3201,US,TOOELE,TOOELE,98433,2
+3202,US,Topeka,Topeka,102176,1
+3203,US,Torrington,Torrington,185906,1
+3204,US,Traverse City,Traverse City,23611,1
+3205,US,TRAVIS,TRAVIS,41,1
+3206,US,TREGO,TREGO,146806,2
+3207,US,Trenton-Ewing,Trenton-Ewing,88338,2
+3208,US,TRINITY,TRINITY,17082,1
+3209,US,Truckee-Grass Valley,Truckee-Grass Valley,64919,2
+3210,US,TUCKER,TUCKER,22654,1
+3211,US,Tucson,Tucson,545282,10
+3212,US,TULARE,TULARE,74972,3
+3213,US,Tulsa,Tulsa,439513,6
+3214,US,TULSA,TULSA,98512,3
+3215,US,TUOLUMNE,TUOLUMNE,298,1
+3216,US,Tupelo,Tupelo,24088,1
+3217,US,Tuscaloosa,Tuscaloosa,20391,1
+3218,US,TUSCOLA,TUSCOLA,22345,1
+3219,US,TWIN FALLS,TWIN FALLS,36886,2
+3220,US,Tyler,Tyler,37599,1
+3221,US,UINTAH,UINTAH,349340,5
+3222,US,Ukiah,Ukiah,76107,3
+3223,US,UNION,UNION,154483,2
+3224,US,UTAH,UTAH,10442,2
+3225,US,Utica-Rome,Utica-Rome,35753,3
+3226,US,Valdosta,Valdosta,18478,1
+3227,US,Vallejo-Fairfield,Vallejo-Fairfield,262353,4
+3228,US,VALLEY,VALLEY,33918,1
+3229,US,VAN BUREN,VAN BUREN,118033,1
+3230,US,Vero Beach,Vero Beach,20020,1
+3231,US,Victoria,Victoria,36466,1
+3232,US,VILAS,VILAS,38626,1
+3233,US,Vincennes,Vincennes,21059,1
+3234,US,Vineland-Millville-Bridgeton,Vineland-Millville-Bridgeton,88441,1
+3235,US,Virginia Beach-Norfolk-Newport News,Virginia Beach-Norfolk-Newport News,337642,4
+3236,US,Visalia-Porterville,Visalia-Porterville,211421,2
+3237,US,Wabash,Wabash,23170,1
+3238,US,Waco,Waco,70905,1
+3239,US,Walla Walla,Walla Walla,61297,2
+3240,US,WALLOWA,WALLOWA,23627,1
+3241,US,Walterboro,Walterboro,25745,1
+3242,US,Warner Robins,Warner Robins,32034,1
+3243,US,WARREN,WARREN,133007,1
+3244,US,WASCO,WASCO,5242,1
+3245,US,Washington,Washington,22991,1
+3246,US,WASHINGTON,WASHINGTON,553937,15
+3247,US,Washington-Arlington-Alexandria,Washington-Arlington-Alexandria,1048264,18
+3248,US,Waterloo-Cedar Falls,Waterloo-Cedar Falls,63545,2
+3249,US,Watertown-Fort Drum,Watertown-Fort Drum,20998,1
+3250,US,Wausau,Wausau,16939,1
+3251,US,WAYNE,WAYNE,296443,5
+3252,US,Weirton-Steubenville,Weirton-Steubenville,92712,2
+3253,US,WELD,WELD,12255,1
+3254,US,Wenatchee,Wenatchee,33814,1
+3255,US,WESTON,WESTON,32873,1
+3256,US,WEXFORD,WEXFORD,22588,1
+3257,US,WHATCOM,WHATCOM,47159,4
+3258,US,Wheeling,Wheeling,27374,2
+3259,US,WHITE PINE,WHITE PINE,34686,1
+3260,US,Whitewater,Whitewater,16601,2
+3261,US,WHITLEY,WHITLEY,4753,1
+3262,US,Wichita,Wichita,318589,5
+3263,US,WILL,WILL,22585,1
+3264,US,Williamsport,Williamsport,36024,1
+3265,US,Willimantic,Willimantic,23026,1
+3266,US,Wilmington,Wilmington,101008,3
+3267,US,Winchester,Winchester,67062,1
+3268,US,Winston-Salem,Winston-Salem,250287,3
+3269,US,Worcester,Worcester,145603,2
+3270,US,WORCESTER,WORCESTER,14844,1
+3271,US,WYOMING,WYOMING,11738,1
+3272,US,WYTHE,WYTHE,30947,1
+3273,US,Yakima,Yakima,106841,2
+3274,US,YAKIMA,YAKIMA,73045,2
+3275,US,YALOBUSHA,YALOBUSHA,22326,1
+3276,US,YANCEY,YANCEY,17293,2
+3277,US,YELLOWSTONE,YELLOWSTONE,50634,2
+3278,US,YORK,YORK,41738,2
+3279,US,York-Hanover,York-Hanover,112010,4
+3280,US,Youngstown-Warren-Boardman,Youngstown-Warren-Boardman,267589,9
+3281,US,Yuba City,Yuba City,140948,1
+3282,US,YUKON-KOYUKUK,YUKON-KOYUKUK,32452,1
+3283,US,Yuma,Yuma,88525,1
+3284,UZ,N/A,N/A,27675,1
+3285,UZ,Tashkent,Tashkent,163437,1
+3286,VM,N/A,N/A,21118,2
+3287,VN,Hanoi,Hanoi,95606,2
+3288,VN,Ho Chi Minh City,Ho Chi Minh City,84593,1
+3289,VN,N/A,N/A,4665,2
+3290,XK,Drenas,Drenas,122597,1
+3291,XK,Gjilan,Gjilan,121411,1
+3292,XK,Hani i Elezit,Hani i Elezit,124850,1
+3293,XK,Mitrovice,Mitrovice,105099,1
+3294,XK,Peje,Peje,90019,1
+3295,XK,Prishtine,Prishtine,256697,2
+3296,XK,Pristina,Pristina,79903,1
+3297,XK,Prizren,Prizren,124501,1
+3298,ZA,Richards Bay,Richards Bay,239159,3
